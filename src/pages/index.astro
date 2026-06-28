@@ -1,11 +1,21 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import DiaryCard from '../components/DiaryCard.astro';
+import galleries from '../data/galleries.json';
 import { getDiary, excerpt } from '../utils';
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const diary = await getDiary();
 const latest = diary.slice(0, 6);
+
+// first photo of an entry's mapped leg, for card covers
+const coverFor = {};
+for (const a of galleries.albums) {
+  if (a.entry_clean && a.photos.length && !coverFor[a.entry_clean]) {
+    coverFor[a.entry_clean] = a.photos[0].thumb;
+  }
+}
+const clean = (s) => s.replace(/^\d+-/, '');
 
 const sections = [
   { href: '/diary/', emoji: '✍️', title: 'The Diary', body: `${diary.length} entries from the planning years through to the road itself.` },
@@ -47,11 +57,12 @@ const sections = [
       <div class="card-grid">
         {latest.map((e, i) => (
           <DiaryCard
-            href={`${base}/diary/${e.slug.replace(/^\d+-/, '')}/`}
+            href={`${base}/diary/${clean(e.slug)}/`}
             title={e.data.title}
             date={e.data.date}
             excerpt={excerpt(e.body)}
             index={i}
+            cover={coverFor[clean(e.slug)]}
           />
         ))}
       </div>

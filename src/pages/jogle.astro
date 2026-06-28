@@ -1,6 +1,9 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import PhotoGallery from '../components/PhotoGallery.astro';
+import galleries from '../data/galleries.json';
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const jogle = galleries.albums.find((a) => /jogle/i.test(a.name));
 ---
 <BaseLayout title="The JOGLE" description="John O'Groats to Land's End by bike, the VSO warm-up before the drive to Sydney.">
   <section>
@@ -32,6 +35,16 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
           Newent · Axbridge · Devon · Cornwall · Land's End.
         </p>
       </div>
+
+      {jogle && (
+        <div style="margin-top:2.5rem;">
+          <h2>Photos from the ride</h2>
+          <p style="margin:0 0 .4rem;color:var(--ink-soft);font-family:var(--serif-display);font-size:.9rem;">
+            {jogle.count} photos · {jogle.start}
+          </p>
+          <PhotoGallery photos={jogle.photos} />
+        </div>
+      )}
     </div>
   </section>
 </BaseLayout>

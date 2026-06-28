@@ -1,0 +1,93 @@
+---
+interface Photo { src: string; thumb: string; date?: string | null; }
+interface Props { photos: Photo[]; }
+const { photos } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const fmt = (d?: string | null) =>
+  d ? new Intl.DateTimeFormat('en-GB', { day: 'numeric', month: 'short', year: 'numeric' }).format(new Date(d)) : '';
+---
+{photos.length > 0 && (
+  <div class="gallery-grid">
+    {photos.map((p, i) => (
+      <button
+        class="gallery-cell"
+        data-full={base + p.src}
+        data-caption={fmt(p.date)}
+        aria-label={`Open photo ${i + 1}${p.date ? ', ' + fmt(p.date) : ''}`}
+      >
+        <img src={base + p.thumb} alt={p.date ? `Photo from ${fmt(p.date)}` : 'Trip photo'} loading="lazy" width="600" height="450" />
+      </button>
+    ))}
+  </div>
+)}
+
+<style>
+  .gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: .5rem;
+    margin: 1rem 0;
+  }
+  .gallery-cell {
+    padding: 0; border: 0; background: var(--mint-soft); cursor: zoom-in;
+    border-radius: var(--radius-sm); overflow: hidden; aspect-ratio: 4 / 3;
+    box-shadow: var(--shadow);
+  }
+  .gallery-cell img { width: 100%; height: 100%; object-fit: cover; transition: transform .3s ease; display: block; }
+  .gallery-cell:hover img { transform: scale(1.06); }
+  .gallery-cell:focus-visible { outline: 3px solid var(--sun-coral); outline-offset: 2px; }
+
+  .lightbox {
+    position: fixed; inset: 0; z-index: 200; display: none;
+    background: rgba(10, 18, 26, .92); place-items: center; padding: 2rem;
+  }
+  .lightbox.open { display: grid; }
+  .lightbox img { max-width: 94vw; max-height: 84vh; border-radius: 8px; box-shadow: 0 20px 60px rgba(0,0,0,.6); }
+  .lightbox .lb-cap { position: absolute; bottom: 1.2rem; left: 0; right: 0; text-align: center; color: #e7eef4; font-family: var(--serif-display); font-size: .9rem; }
+  .lightbox button { position: absolute; background: rgba(255,255,255,.12); color: #fff; border: 0; width: 48px; height: 48px; border-radius: 999px; font-size: 1.4rem; cursor: pointer; }
+  .lightbox .lb-close { top: 1rem; right: 1rem; }
+  .lightbox .lb-prev { left: 1rem; top: 50%; transform: translateY(-50%); }
+  .lightbox .lb-next { right: 1rem; top: 50%; transform: translateY(-50%); }
+  .lightbox button:hover { background: rgba(255,255,255,.25); }
+</style>
+
+<div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="Photo viewer">
+  <button class="lb-close" id="lbClose" aria-label="Close">×</button>
+  <button class="lb-prev" id="lbPrev" aria-label="Previous photo">‹</button>
+  <img id="lbImg" src="" alt="" />
+  <span class="lb-cap" id="lbCap"></span>
+  <button class="lb-next" id="lbNext" aria-label="Next photo">›</button>
+</div>
+
+<script is:inline>
+  (function () {
+    if (window.__jfLightbox) return;
+    window.__jfLightbox = true;
+    const lb = document.getElementById('lightbox');
+    const img = document.getElementById('lbImg');
+    const cap = document.getElementById('lbCap');
+    let cells = [], idx = 0;
+    function show(i) {
+      cells = Array.from(document.querySelectorAll('.gallery-cell'));
+      idx = (i + cells.length) % cells.length;
+      const c = cells[idx];
+      img.src = c.dataset.full;
+      cap.textContent = c.dataset.caption || '';
+      lb.classList.add('open');
+    }
+    document.addEventListener('click', (e) => {
+      const cell = e.target.closest('.gallery-cell');
+      if (cell) { show(Array.from(document.querySelectorAll('.gallery-cell')).indexOf(cell)); }
+    });
+    document.getElementById('lbClose').addEventListener('click', () => lb.classList.remove('open'));
+    document.getElementById('lbNext').addEventListener('click', (e) => { e.stopPropagation(); show(idx + 1); });
+    document.getElementById('lbPrev').addEventListener('click', (e) => { e.stopPropagation(); show(idx - 1); });
+    lb.addEventListener('click', (e) => { if (e.target === lb) lb.classList.remove('open'); });
+    document.addEventListener('keydown', (e) => {
+      if (!lb.classList.contains('open')) return;
+      if (e.key === 'Escape') lb.classList.remove('open');
+      if (e.key === 'ArrowRight') show(idx + 1);
+      if (e.key === 'ArrowLeft') show(idx - 1);
+    });
+  })();
+</script>

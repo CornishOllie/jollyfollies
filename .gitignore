@@ -21,3 +21,4 @@ npm-debug.log*
 # photo ingest working copies (optimised output lands in public/diary-media/)
 photos/*
 !photos/README.md
+photos/_incoming/

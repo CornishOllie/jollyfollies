@@ -1,52 +1,55 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import PhotoGallery from '../components/PhotoGallery.astro';
+import galleries from '../data/galleries.json';
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
-// The handful of photos that survived in the web archive.
-const recovered = [
-  { src: '/images/dino-side.gif', alt: 'DINO loaded and ready, with roof rack and jerry cans' },
-  { src: '/images/ollie-and-dino.jpg', alt: 'Ollie with DINO' },
-  { src: '/images/jenny-in-dino.jpg', alt: 'Jenny in the back of DINO' },
-  { src: '/images/ourcamp.jpg', alt: 'Camp on the road, somewhere between the Shakedown and Iberia' },
-  { src: '/images/ollie.jpg', alt: 'Ollie' },
-  { src: '/images/lighthouse.jpg', alt: 'Lighthouse' },
-];
-const placeholders = Array.from({ length: 6 });
+const albums = galleries.albums;
+const total = albums.reduce((n, a) => n + a.count, 0);
+const fmt = (d) => d ? new Intl.DateTimeFormat('en-GB', { day: 'numeric', month: 'short', year: 'numeric' }).format(new Date(d)) : '';
 ---
-<BaseLayout title="Gallery" description="Photos from the road, Land's End to Sydney. More to come as the original albums are restored.">
+<BaseLayout title="Gallery" description="Over a thousand photos from the road, Land's End to Sydney, organised by leg of the journey.">
   <section>
     <div class="wrap">
       <div class="section-head flow">
         <p class="eyebrow">Gallery</p>
-        <h1>Photos from the road</h1>
+        <h1>The journey, in pictures</h1>
         <p class="lede">
-          Most of the original trip albums were never archived. These few survived, and the rest are
-          on their way back from the photo library. Empty slots below are waiting for them.
+          {total.toLocaleString()} photos across {albums.length} legs, from the prep at home to the far side of Asia.
+          Each leg is in the order it was driven. Click any photo to view it large.
         </p>
       </div>
 
-      <h2>Recovered from the archive</h2>
-      <div class="card-grid">
-        {recovered.map((p) => (
-          <figure class="card" style="margin:0;">
-            <img src={base + p.src} alt={p.alt} loading="lazy" style="width:100%;aspect-ratio:4/3;object-fit:cover;" />
-            <figcaption class="card-body" style="padding:.7rem 1rem;font-size:.85rem;color:var(--ink-soft);">{p.alt}</figcaption>
-          </figure>
-        ))}
-      </div>
+      <nav class="leg-jump" aria-label="Jump to a leg">
+        {albums.map((a) => (<a href={`#${a.slug}`}>{a.name}</a>))}
+      </nav>
 
-      <h2 style="margin-top:2.5rem;">Coming soon</h2>
-      <div class="card-grid">
-        {placeholders.map(() => (
-          <div class="photo-placeholder">
-            <span class="ph-icon">📷</span>
-            <span>photo coming soon</span>
+      {albums.map((a) => (
+        <div class="leg" id={a.slug}>
+          <div class="leg-head">
+            <h2>{a.name}</h2>
+            <p class="leg-meta">
+              {fmt(a.start)}{a.end && a.end !== a.start ? ` – ${fmt(a.end)}` : ''} · {a.count} photos
+              {a.entry_clean && (<> · <a href={`${base}/diary/${a.entry_clean}/`}>read the diary entry →</a></>)}
+            </p>
           </div>
-        ))}
-      </div>
-      <p style="margin-top:1.4rem;color:var(--ink-soft);font-size:.9rem;">
-        Adding photos is a drop-in job. See the project README for the <code>photos/</code> ingest folder and naming convention.
-      </p>
+          <PhotoGallery photos={a.photos} />
+        </div>
+      ))}
     </div>
   </section>
 </BaseLayout>
+
+<style>
+  .leg-jump { display: flex; flex-wrap: wrap; gap: .4rem; margin: 1rem 0 2.5rem; }
+  .leg-jump a {
+    font-family: var(--serif-display); font-size: .82rem; text-decoration: none;
+    background: var(--mint-soft); border: 1px solid var(--mint-line); color: var(--navy);
+    padding: .25rem .7rem; border-radius: 999px;
+  }
+  .leg-jump a:hover { background: var(--mint); }
+  .leg { margin-top: 2.8rem; scroll-margin-top: 5rem; }
+  .leg-head { border-bottom: 1px solid var(--line); padding-bottom: .5rem; margin-bottom: .5rem; }
+  .leg-head h2 { margin: 0; }
+  .leg-meta { margin: .3rem 0 0; color: var(--ink-soft); font-family: var(--serif-display); font-size: .9rem; }
+</style>
