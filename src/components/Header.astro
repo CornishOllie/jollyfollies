@@ -46,6 +46,7 @@ const here = (href: string) => {
         {nav.map((n) => (
           <a href={base + n.href} aria-current={here(n.href) ? 'page' : undefined}>{n.label}</a>
         ))}
+        <a class="nav-icon" href={base + '/search/'} aria-label="Search the diary" title="Search">⌕</a>
         <button class="theme-toggle" id="themeToggle" aria-label="Toggle light/dark theme" title="Toggle light/dark">◐</button>
       </div>
     </div>

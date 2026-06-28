@@ -1,0 +1,82 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+<BaseLayout title="Search" description="Search the Jolly Follies travel diary.">
+  <section>
+    <div class="wrap">
+      <div class="section-head flow">
+        <p class="eyebrow">Search</p>
+        <h1>Find it in the diary</h1>
+        <p class="lede">Search 65 entries by word, place or name. Try “Iran”, “Dino”, “mountain”, “Meghan”.</p>
+      </div>
+
+      <div class="search-box">
+        <input id="q" type="search" placeholder="Search the diary…" autocomplete="off" aria-label="Search the diary" autofocus />
+      </div>
+      <p id="status" class="search-status"></p>
+      <div id="results" class="search-results"></div>
+    </div>
+  </section>
+</BaseLayout>
+
+<script is:inline define:vars={{ base }}>
+  const q = document.getElementById('q');
+  const results = document.getElementById('results');
+  const status = document.getElementById('status');
+  let data = [];
+  const fmt = (d) => new Intl.DateTimeFormat('en-GB', { day: 'numeric', month: 'long', year: 'numeric' }).format(new Date(d));
+
+  fetch(`${base}/search-index.json`).then(r => r.json()).then(d => {
+    data = d;
+    status.textContent = `${data.length} entries ready to search.`;
+    const initial = new URLSearchParams(location.search).get('q');
+    if (initial) { q.value = initial; run(); }
+  }).catch(() => { status.textContent = 'Could not load the search index.'; });
+
+  function snippet(text, term) {
+    const i = text.toLowerCase().indexOf(term.toLowerCase());
+    if (i < 0) return text.slice(0, 160) + '…';
+    const start = Math.max(0, i - 60);
+    return (start > 0 ? '…' : '') + text.slice(start, i + term.length + 100) + '…';
+  }
+  function esc(s) { return s.replace(/[&<>]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' }[c])); }
+  function highlight(s, term) {
+    return esc(s).replace(new RegExp(`(${term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'ig'), '<mark>$1</mark>');
+  }
+
+  function run() {
+    const term = q.value.trim();
+    if (term.length < 2) { results.innerHTML = ''; status.textContent = `${data.length} entries ready to search.`; return; }
+    const terms = term.toLowerCase().split(/\s+/);
+    const hits = data.filter(e => {
+      const hay = (e.title + ' ' + e.text).toLowerCase();
+      return terms.every(t => hay.includes(t));
+    });
+    status.textContent = hits.length ? `${hits.length} ${hits.length === 1 ? 'entry' : 'entries'} found` : 'No entries found.';
+    results.innerHTML = hits.map(e => `
+      <a class="result" href="${base}${e.url}">
+        <span class="result-date">${fmt(e.date)}</span>
+        <span class="result-title">${highlight(e.title, term)}</span>
+        <span class="result-snippet">${highlight(snippet(e.text, term), term)}</span>
+      </a>`).join('');
+  }
+  q.addEventListener('input', run);
+</script>
+
+<style>
+  .search-box input {
+    width: 100%; max-width: var(--measure); font-family: var(--serif-body); font-size: 1.15rem;
+    padding: .8rem 1.1rem; border: 2px solid var(--mint-line); border-radius: 999px;
+    background: var(--card); color: var(--ink);
+  }
+  .search-box input:focus { outline: none; border-color: var(--sun-coral); }
+  .search-status { color: var(--ink-soft); font-family: var(--serif-display); font-size: .85rem; margin: .8rem 0; }
+  .search-results { display: grid; gap: .8rem; max-width: var(--measure); }
+  .result { display: block; text-decoration: none; background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 1rem 1.2rem; box-shadow: var(--shadow); }
+  .result:hover { border-color: var(--mint-line); transform: translateY(-1px); }
+  .result-date { display: block; font-family: var(--serif-display); font-size: .72rem; text-transform: uppercase; letter-spacing: .06em; color: var(--sun-coral); }
+  .result-title { display: block; font-family: var(--serif-display); font-size: 1.15rem; color: var(--navy); margin: .15rem 0 .3rem; }
+  .result-snippet { display: block; color: var(--ink-soft); font-size: .92rem; }
+  mark { background: var(--sun-gold); color: var(--navy-deep); padding: 0 .1em; border-radius: 2px; }
+</style>

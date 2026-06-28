@@ -13,3 +13,4 @@ Working through loops to make this the most complete version possible while Olli
 - **L3 — About bios**: extracted Ollie/Jenny/DINO interviews + intros verbatim (scripts/extract_bios.py -> src/data/bios.json); rebuilt About with "meet the crew" cards.
 - **L4 — DINO guide**: restored verbatim build notes (tyres, awning, hasps) + specs + prep-photo gallery on the Vehicle page.
 - **L5 — Route map + stats**: SVG equirectangular route map (17 waypoints, dashed gradient path), by-the-numbers stat band, and a leg-by-leg timeline with thumbnails from the photo data.
+- **L6 — Search**: dependency-free client-side diary search (search-index.json endpoint + /search/ page with highlighted snippets) and a ⌕ nav icon.
