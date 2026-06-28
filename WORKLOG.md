@@ -15,3 +15,4 @@ Working through loops to make this the most complete version possible while Olli
 - **L5 — Route map + stats**: SVG equirectangular route map (17 waypoints, dashed gradient path), by-the-numbers stat band, and a leg-by-leg timeline with thumbnails from the photo data.
 - **L6 — Search**: dependency-free client-side diary search (search-index.json endpoint + /search/ page with highlighted snippets) and a ⌕ nav icon.
 - **L7 — marker cleanup**: stripped 233 "(photo coming soon)" markers from 48 entries (per-entry leg galleries now provide the photos); converter updated to drop missing images silently.
+- **L8 — polish**: per-entry OpenGraph image (the leg cover) with base-path-correct URLs; reading-time on entries; verified light/dark end-to-end (red-diagnostic confirmed nav + body both follow tokens).

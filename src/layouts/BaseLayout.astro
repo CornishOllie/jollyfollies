@@ -17,7 +17,8 @@ const {
 const siteName = 'Jolly Follies';
 const fullTitle = title ? `${title} · ${siteName}` : `${siteName} · Land's End to Sydney`;
 const canonical = new URL(Astro.url.pathname, Astro.site);
-const ogImage = new URL(image, Astro.site);
+const baseUrl = import.meta.env.BASE_URL.replace(/\/$/, '');
+const ogImage = new URL(baseUrl + image, Astro.site);
 ---
 <!doctype html>
 <html lang="en">
