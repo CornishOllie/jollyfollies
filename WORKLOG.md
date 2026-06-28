@@ -20,3 +20,14 @@ Working through loops to make this the most complete version possible while Olli
 - **L10 — live QA**: verified gallery (thumbnails load over base path), search (index fetch + highlight), route, about, RSS, sitemap all working on the live URL. Site complete and live.
 - **L11 — accurate mapping**: curated leg→entry overrides (manifest/album-entry-overrides.json) so each leg sits on the entry that narrates it (Pamir→mountain-madness, Hungary→magyar, India→hindustan-zindabad, JOGLE→its entry). Diary covers now use a mid-album (more scenic) photo.
 - **L12 — JOGLE facts**: added the recovered daily-run route to the JOGLE page.
+
+## Result
+Live at https://cornishollie.github.io/jollyfollies/ — full live link sweep passed (0 broken / 20 checked).
+Coverage: planning (2006) through to Goa (Nov 2009) richly photographed; India→Sydney + Meghan's
+birth are text-only (no photo albums existed for those). Add later via the photos/ pipeline.
+
+## How to maintain
+- Add a diary entry: drop a Markdown file in src/content/diary/ (see README).
+- Add photos: drop album zips in ~/Downloads (or images in photos/), then:
+    python3 scripts/ingest_trip_photos.py && python3 scripts/build_galleries.py && npm run deploy
+- Redeploy after any change: npm run deploy
