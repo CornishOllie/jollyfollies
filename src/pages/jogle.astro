@@ -1,0 +1,37 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+<BaseLayout title="The JOGLE" description="John O'Groats to Land's End by bike, the VSO warm-up before the drive to Sydney.">
+  <section>
+    <div class="wrap">
+      <div class="section-head flow">
+        <p class="eyebrow">The warm-up · from 31 August 2008</p>
+        <h1>The JOGLE</h1>
+      </div>
+      <div class="prose flow">
+        <p>
+          As part of their attempt to raise as much money for VSO as possible, Ollie and Jenny are
+          going to do 'The Jogle'. Jogle is an acronym for John O'Groats (to) Land's End. Ollie will
+          be cycling the 1000 miles and Jenny will be driving Dino as the support vehicle, carrying,
+          mainly various creams and lotions to keep Ollie going.
+        </p>
+        <p>
+          In April 2007 Ollie ran the London Marathon in aid of VSO, and on completion was challenged
+          to beat that for the next charity event. The original idea was to have a go at swimming the
+          channel, but apparently you need to be able to swim to do this, and so Ollie had to go back
+          to the drawing board. Eventually the idea of cycling from John O'Groats to Land's End took shape.
+        </p>
+        <p style="font-size:.9rem;color:var(--ink-soft);font-style:italic;">(Kept word for word from the original site.)</p>
+      </div>
+
+      <div class="panel" style="margin-top:2rem;max-width:var(--measure);">
+        <h3 style="margin-top:0;">1000 miles, roughly a fortnight</h3>
+        <p style="margin-bottom:0;color:var(--ink-soft);">
+          John O'Groats · Brora · Loch Ness · Glen Coe · Alexandria · Beattock · Shap · Shropshire ·
+          Newent · Axbridge · Devon · Cornwall · Land's End.
+        </p>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

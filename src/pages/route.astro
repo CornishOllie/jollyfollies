@@ -1,0 +1,49 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+// The leg structure recovered from the original site, west to east.
+const legs = [
+  { region: 'Britain', emoji: '🇬🇧', places: ['Land\'s End', 'Cornwall', 'the long way to the ferry'] },
+  { region: 'Northern Europe', emoji: '⛴️', places: ['Holland', 'Sweden', 'Finland'] },
+  { region: 'The Baltics', emoji: '🧭', places: ['Estonia', 'Latvia'] },
+  { region: 'Russia & Central Asia', emoji: '🏔️', places: ['Russia', 'the ’stans', 'mountain passes'] },
+  { region: 'South East Asia', emoji: '🌴', places: ['overland through the heat', 'border after border'] },
+  { region: 'Australia', emoji: '🇦🇺', places: ['shipped across', 'and on to Sydney'] },
+];
+---
+<BaseLayout title="The Route" description="The overland route from Land's End to Sydney, country by country.">
+  <section>
+    <div class="wrap">
+      <div class="section-head flow">
+        <p class="eyebrow">The Route</p>
+        <h1>Land's End to Sydney, the long way round</h1>
+        <p class="lede">
+          The plan was simple to say and hard to do: point east and keep going until the road ran out
+          at the far side of Australia. Here is the shape of it, west to east.
+        </p>
+      </div>
+
+      <ol style="list-style:none;padding:0;display:grid;gap:1rem;counter-reset:leg;">
+        {legs.map((leg) => (
+          <li class="panel" style="display:flex;gap:1rem;align-items:flex-start;">
+            <span style="font-size:1.8rem;line-height:1;">{leg.emoji}</span>
+            <div>
+              <h3 style="margin:.1rem 0 .3rem;">{leg.region}</h3>
+              <p style="margin:0;color:var(--ink-soft);">{leg.places.join(' · ')}</p>
+            </div>
+          </li>
+        ))}
+      </ol>
+
+      <div class="panel sun flow" style="margin-top:2rem;max-width:var(--measure);">
+        <h3 style="color:var(--navy-deep);margin-top:0;">A proper map is coming</h3>
+        <p style="margin-bottom:0;">
+          An interactive route map with the real campsites and crossings will live here once the
+          photo and GPS export is in. For now, the day-by-day is all in the diary.
+        </p>
+        <p style="margin:.6rem 0 0;"><a class="btn" href={base + '/diary/'}>Follow it in the diary →</a></p>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

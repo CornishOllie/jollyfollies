@@ -1,0 +1,52 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+// The handful of photos that survived in the web archive.
+const recovered = [
+  { src: '/images/dino-side.gif', alt: 'DINO loaded and ready, with roof rack and jerry cans' },
+  { src: '/images/ollie-and-dino.jpg', alt: 'Ollie with DINO' },
+  { src: '/images/jenny-in-dino.jpg', alt: 'Jenny in the back of DINO' },
+  { src: '/images/ourcamp.jpg', alt: 'Camp on the road, somewhere between the Shakedown and Iberia' },
+  { src: '/images/ollie.jpg', alt: 'Ollie' },
+  { src: '/images/lighthouse.jpg', alt: 'Lighthouse' },
+];
+const placeholders = Array.from({ length: 6 });
+---
+<BaseLayout title="Gallery" description="Photos from the road, Land's End to Sydney. More to come as the original albums are restored.">
+  <section>
+    <div class="wrap">
+      <div class="section-head flow">
+        <p class="eyebrow">Gallery</p>
+        <h1>Photos from the road</h1>
+        <p class="lede">
+          Most of the original trip albums were never archived. These few survived, and the rest are
+          on their way back from the photo library. Empty slots below are waiting for them.
+        </p>
+      </div>
+
+      <h2>Recovered from the archive</h2>
+      <div class="card-grid">
+        {recovered.map((p) => (
+          <figure class="card" style="margin:0;">
+            <img src={base + p.src} alt={p.alt} loading="lazy" style="width:100%;aspect-ratio:4/3;object-fit:cover;" />
+            <figcaption class="card-body" style="padding:.7rem 1rem;font-size:.85rem;color:var(--ink-soft);">{p.alt}</figcaption>
+          </figure>
+        ))}
+      </div>
+
+      <h2 style="margin-top:2.5rem;">Coming soon</h2>
+      <div class="card-grid">
+        {placeholders.map(() => (
+          <div class="photo-placeholder">
+            <span class="ph-icon">📷</span>
+            <span>photo coming soon</span>
+          </div>
+        ))}
+      </div>
+      <p style="margin-top:1.4rem;color:var(--ink-soft);font-size:.9rem;">
+        Adding photos is a drop-in job. See the project README for the <code>photos/</code> ingest folder and naming convention.
+      </p>
+    </div>
+  </section>
+</BaseLayout>

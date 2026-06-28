@@ -1,0 +1,25 @@
+---
+interface Props {
+  href: string;
+  title: string;
+  date: Date;
+  excerpt?: string;
+  index?: number;
+}
+const { href, title, date, excerpt, index = 0 } = Astro.props;
+const fmt = new Intl.DateTimeFormat('en-GB', { day: 'numeric', month: 'long', year: 'numeric' }).format(date);
+// rotate a few warm/mint tints across the placeholder media bands
+const tints = ['var(--sun-peach)', 'var(--mint)', 'var(--sun-gold)', 'var(--mint-soft)'];
+const tint = tints[index % tints.length];
+---
+<article class="card">
+  <a class="card-link" href={href}>
+    <div class="card-media" style={`background: linear-gradient(135deg, ${tint}, var(--mint-soft));`} aria-hidden="true">
+    </div>
+    <div class="card-body">
+      <span class="card-date">{fmt}</span>
+      <h3 class="card-title">{title}</h3>
+      {excerpt && <p class="card-excerpt">{excerpt}</p>}
+    </div>
+  </a>
+</article>

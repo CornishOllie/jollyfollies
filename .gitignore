@@ -1,0 +1,23 @@
+# build output
+dist/
+.astro/
+
+# dependencies
+node_modules/
+
+# logs
+npm-debug.log*
+*.log
+
+# os / editor
+.DS_Store
+.vscode/
+.idea/
+
+# env
+.env
+.env.production
+
+# photo ingest working copies (optimised output lands in public/diary-media/)
+photos/*
+!photos/README.md

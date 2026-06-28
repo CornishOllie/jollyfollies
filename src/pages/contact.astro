@@ -1,0 +1,27 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+<BaseLayout title="Contact" description="Get in touch about the Jolly Follies trip.">
+  <section>
+    <div class="wrap">
+      <div class="section-head flow">
+        <p class="eyebrow">Contact</p>
+        <h1>Say hello</h1>
+        <p class="lede">
+          This is an old story being told again, but the door is open. If you knew us on the road,
+          followed along at the time, or are planning your own overland trip, we'd love to hear from you.
+        </p>
+      </div>
+      <div class="panel flow" style="max-width:var(--measure);">
+        <p>Drop a line and it will find its way to us.</p>
+        <p style="margin:0;">
+          <a class="btn" href="mailto:hello@jollyfollies.com">Email us</a>
+        </p>
+        <p style="font-size:.85rem;color:var(--ink-soft);margin-bottom:0;">
+          (Update this address in <code>src/pages/contact.astro</code> once the inbox is set up.)
+        </p>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

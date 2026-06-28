@@ -1,0 +1,99 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import DiaryCard from '../components/DiaryCard.astro';
+import { getDiary, excerpt } from '../utils';
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const diary = await getDiary();
+const latest = diary.slice(0, 6);
+
+const sections = [
+  { href: '/diary/', emoji: '✍️', title: 'The Diary', body: `${diary.length} entries from the planning years through to the road itself.` },
+  { href: '/route/', emoji: '🗺️', title: 'The Route', body: 'Country by country, from Cornwall across Europe and Asia to Australia.' },
+  { href: '/vehicle/', emoji: '🚙', title: 'DINO', body: 'The 1990s Defender 110 200Tdi that carried us, and how he was built.' },
+  { href: '/jogle/', emoji: '🚴', title: 'JOGLE', body: "Our John O'Groats to Land's End warm-up before the big one." },
+];
+---
+<BaseLayout>
+  <!-- intro -->
+  <section>
+    <div class="wrap split">
+      <div class="flow">
+        <p class="eyebrow">A travel diary, restored</p>
+        <h2>Two people, one old Land Rover, and a very long way to drive.</h2>
+        <p class="lede">
+          In April 2009 we pointed DINO east from Land's End and didn't stop until we reached Sydney.
+          This site is the diary we kept along the way, written at the time. It raised money for VSO,
+          and was originally built by hand as a teenager. It has been rescued from the web archive and
+          rebuilt, but the words are exactly as they were.
+        </p>
+        <div class="tag-row">
+          <a class="btn" href={base + '/diary/'}>Read the diary</a>
+          <a class="btn ghost" href={base + '/about/'}>About the trip</a>
+        </div>
+      </div>
+      <img src={base + '/images/dino-side.gif'} width="500" height="375"
+           alt="DINO, the blue Land Rover Defender 110, loaded with roof rack and jerry cans" loading="lazy" />
+    </div>
+  </section>
+
+  <!-- latest diary -->
+  <section style="background: var(--paper-2);">
+    <div class="wrap">
+      <div class="section-head flow">
+        <p class="eyebrow">From the road</p>
+        <h2>Latest diary entries</h2>
+      </div>
+      <div class="card-grid">
+        {latest.map((e, i) => (
+          <DiaryCard
+            href={`${base}/diary/${e.slug.replace(/^\d+-/, '')}/`}
+            title={e.data.title}
+            date={e.data.date}
+            excerpt={excerpt(e.body)}
+            index={i}
+          />
+        ))}
+      </div>
+      <p style="margin-top:1.6rem;"><a class="btn ghost" href={base + '/diary/'}>All {diary.length} entries →</a></p>
+    </div>
+  </section>
+
+  <!-- explore -->
+  <section>
+    <div class="wrap">
+      <div class="section-head flow">
+        <p class="eyebrow">Explore</p>
+        <h2>Find your way around</h2>
+      </div>
+      <div class="card-grid">
+        {sections.map((s) => (
+          <article class="card">
+            <a class="card-link" href={base + s.href}>
+              <div class="card-body">
+                <span style="font-size:1.8rem">{s.emoji}</span>
+                <h3 class="card-title">{s.title}</h3>
+                <p class="card-excerpt">{s.body}</p>
+              </div>
+            </a>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- VSO -->
+  <section style="background: var(--paper-2);">
+    <div class="wrap">
+      <div class="panel sun flow" style="max-width:var(--measure)">
+        <p class="eyebrow" style="color:var(--navy-deep)">Why we drove</p>
+        <h2 style="color:var(--navy-deep)">It was all for VSO</h2>
+        <p>
+          The whole adventure was a fundraiser for VSO, who send skilled volunteers to work alongside
+          communities around the world. The fundraising is history now, but it was the reason the wheels
+          ever turned. <a href={base + '/about/#vso'} style="color:var(--navy-deep);font-weight:600;">Read more about it →</a>
+        </p>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

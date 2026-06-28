@@ -1,0 +1,56 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getDiary, fmtDate } from '../../utils';
+
+export async function getStaticPaths() {
+  const diary = await getDiary();          // newest first
+  const chrono = diary.slice().reverse();  // oldest first, for prev/next reading order
+  const clean = (s: string) => s.replace(/^\d+-/, '');
+  return chrono.map((entry, i) => ({
+    params: { slug: clean(entry.slug) },
+    props: {
+      entry,
+      prev: chrono[i - 1] ? { slug: clean(chrono[i - 1].slug), title: chrono[i - 1].data.title } : null,
+      next: chrono[i + 1] ? { slug: clean(chrono[i + 1].slug), title: chrono[i + 1].data.title } : null,
+    },
+  }));
+}
+
+const { entry, prev, next } = Astro.props;
+const { Content } = await entry.render();
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+<BaseLayout title={entry.data.title} description={`Diary entry from ${fmtDate(entry.data.date)}. Jolly Follies, Land's End to Sydney.`}>
+  <section>
+    <div class="wrap">
+      <p><a href={base + '/diary/'} style="font-family:var(--serif-display);text-decoration:none;">← The Diary</a></p>
+      <header class="entry-head flow">
+        <span class="entry-date">{fmtDate(entry.data.date)}</span>
+        <h1>{entry.data.title}</h1>
+      </header>
+
+      <article class="prose flow">
+        <Content />
+      </article>
+
+      <nav class="entry-nav" aria-label="More entries">
+        {next ? (
+          <a href={`${base}/diary/${next.slug}/`}>
+            <span class="label">← Earlier</span>{next.title}
+          </a>
+        ) : <span />}
+        {prev ? (
+          <a href={`${base}/diary/${prev.slug}/`} style="text-align:right;">
+            <span class="label">Later →</span>{prev.title}
+          </a>
+        ) : <span />}
+      </nav>
+
+      {entry.data.original_url && (
+        <p style="margin-top:2rem;font-size:.85rem;color:var(--ink-soft);">
+          Originally published at <code>{entry.data.original_url.replace('http://www.','')}</code>
+        </p>
+      )}
+    </div>
+  </section>
+</BaseLayout>

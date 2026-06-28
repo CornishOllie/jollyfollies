@@ -1,0 +1,70 @@
+---
+import DefenderLogo from './DefenderLogo.astro';
+const { pathname } = Astro.url;
+const isHome = pathname === '/' || pathname === `${import.meta.env.BASE_URL}` ;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const nav = [
+  { href: '/', label: 'Home' },
+  { href: '/about/', label: 'About' },
+  { href: '/diary/', label: 'Diary' },
+  { href: '/route/', label: 'Route' },
+  { href: '/vehicle/', label: 'DINO' },
+  { href: '/jogle/', label: 'JOGLE' },
+  { href: '/gallery/', label: 'Gallery' },
+  { href: '/contact/', label: 'Contact' },
+];
+const here = (href: string) => {
+  const full = (base + href).replace(/\/$/, '') || '/';
+  const cur = pathname.replace(/\/$/, '') || '/';
+  return cur === full;
+};
+---
+<header class="site-header">
+  {isHome && (
+    <div class="hero">
+      <div class="wrap hero-inner">
+        <DefenderLogo class="hero-defender" />
+        <h1 class="wordmark">Jolly Follies</h1>
+        <p class="hero-tag">Land's End to Sydney, overland, in a Land Rover called DINO.</p>
+        <div class="hero-meta">
+          <span>🧭 13 April 2009 to Spring 2010</span>
+          <span>🚙 1990s Defender 110 200Tdi</span>
+          <span>💛 Driven for VSO</span>
+        </div>
+      </div>
+    </div>
+  )}
+  <nav class="nav-bar" aria-label="Primary">
+    <div class="wrap nav-inner">
+      <a class="nav-brand" href={base + '/'}>
+        <DefenderLogo />
+        <span>Jolly Follies</span>
+      </a>
+      <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false" id="navToggle">☰</button>
+      <div class="nav-links" id="navLinks">
+        {nav.map((n) => (
+          <a href={base + n.href} aria-current={here(n.href) ? 'page' : undefined}>{n.label}</a>
+        ))}
+        <button class="theme-toggle" id="themeToggle" aria-label="Toggle light/dark theme" title="Toggle light/dark">◐</button>
+      </div>
+    </div>
+  </nav>
+</header>
+
+<script is:inline>
+  // mobile menu
+  const t = document.getElementById('navToggle');
+  const l = document.getElementById('navLinks');
+  t && t.addEventListener('click', () => {
+    const open = l.classList.toggle('open');
+    t.setAttribute('aria-expanded', String(open));
+  });
+  // theme toggle
+  const tt = document.getElementById('themeToggle');
+  tt && tt.addEventListener('click', () => {
+    const root = document.documentElement;
+    const next = root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+    root.setAttribute('data-theme', next);
+    try { localStorage.setItem('jf-theme', next); } catch (e) {}
+  });
+</script>

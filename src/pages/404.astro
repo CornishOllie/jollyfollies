@@ -1,0 +1,19 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+<BaseLayout title="Lost" description="That page took a wrong turn.">
+  <section>
+    <div class="wrap center flow" style="padding-block:5rem;">
+      <p class="eyebrow">404</p>
+      <h1>Took a wrong turn</h1>
+      <p class="lede" style="margin-inline:auto;">
+        This page is off the map. DINO has been known to do that too.
+      </p>
+      <div class="tag-row" style="justify-content:center;">
+        <a class="btn" href={base + '/'}>Back to base</a>
+        <a class="btn ghost" href={base + '/diary/'}>Open the diary</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

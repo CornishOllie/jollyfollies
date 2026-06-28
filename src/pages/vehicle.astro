@@ -1,0 +1,65 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import DefenderLogo from '../components/DefenderLogo.astro';
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+const specs = [
+  ['Vehicle', '1990s Land Rover Defender 110'],
+  ['Engine', '200Tdi diesel'],
+  ['Name', 'DINO'],
+  ['Motto', '“One life, live it”'],
+  ['Job', 'Carry two people and everything they own to Australia'],
+];
+const builds = [
+  { t: 'The roof rack', d: 'Home for the spares, the fuel and anything that would not fit inside.' },
+  { t: 'Awning', d: 'Shade and shelter for the long stops.' },
+  { t: 'Security hasps', d: 'Home-made locks to keep DINO shut tight on the road.' },
+  { t: 'Tyres', d: 'The choice that matters most when the tarmac runs out.' },
+];
+---
+<BaseLayout title="DINO, the Defender" description="DINO, the 1990s Land Rover Defender 110 200Tdi that drove from Land's End to Sydney, and how he was built for it.">
+  <section>
+    <div class="wrap split">
+      <div class="prose flow">
+        <p class="eyebrow">The vehicle</p>
+        <h1>Meet DINO</h1>
+        <p class="lede">
+          A 1990s Defender 110 with a 200Tdi under the bonnet, “One life, live it” across the back
+          window, and enough kit on the roof to live out of for the best part of a year.
+        </p>
+        <p>
+          Most of the build happened on driveways and in spare evenings before we left. DINO was never
+          shiny, but he was ready, and he carried us the whole way.
+        </p>
+      </div>
+      <div class="center">
+        <DefenderLogo class="hero-defender" />
+        <img src={base + '/images/dino-side.gif'} alt="DINO loaded and ready" style="margin-top:1rem;border-radius:var(--radius);" loading="lazy" />
+      </div>
+    </div>
+  </section>
+
+  <section style="background: var(--paper-2);">
+    <div class="wrap">
+      <h2>The specs</h2>
+      <div class="panel" style="max-width:var(--measure);">
+        <dl style="margin:0;display:grid;grid-template-columns:auto 1fr;gap:.5rem 1.5rem;">
+          {specs.map(([k, v]) => (<><dt style="font-family:var(--serif-display);color:var(--navy);font-weight:600;">{k}</dt><dd style="margin:0;">{v}</dd></>))}
+        </dl>
+      </div>
+
+      <h2 style="margin-top:2.5rem;">How he was built</h2>
+      <div class="card-grid">
+        {builds.map((b) => (
+          <article class="card"><div class="card-body">
+            <h3 class="card-title">{b.t}</h3>
+            <p class="card-excerpt">{b.d}</p>
+          </div></article>
+        ))}
+      </div>
+      <p style="margin-top:1.4rem;color:var(--ink-soft);">
+        The full build notes and photos from the original guide will be restored here as the archive is tidied.
+      </p>
+    </div>
+  </section>
+</BaseLayout>

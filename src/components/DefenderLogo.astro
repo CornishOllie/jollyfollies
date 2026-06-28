@@ -1,0 +1,36 @@
+---
+// Crisp redraw of DINO — a Land Rover Defender 110 in side profile.
+// Uses currentColor so it adapts to light/dark. Pass a class for sizing.
+interface Props { class?: string; title?: string; }
+const { class: cls, title = 'DINO, the Land Rover Defender 110' } = Astro.props;
+---
+<svg class={cls} viewBox="0 0 240 130" role="img" aria-label={title} xmlns="http://www.w3.org/2000/svg">
+  <title>{title}</title>
+  <g fill="none" stroke="currentColor" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+    <!-- body tub -->
+    <path d="M14 96 L14 70 Q14 64 20 63 L40 60 L58 40 Q61 37 66 37 L150 37 Q156 37 158 41 L168 60 L214 64 Q224 65 224 74 L224 96"/>
+    <!-- lower sill line -->
+    <path d="M14 96 L224 96"/>
+    <!-- roof rack -->
+    <path d="M60 37 L60 27 L160 27 L160 37" stroke-width="3"/>
+    <path d="M60 27 L160 27" stroke-width="3"/>
+    <path d="M72 27 L72 37 M92 27 L92 37 M112 27 L112 37 M132 27 L132 37 M152 27 L152 37" stroke-width="2"/>
+    <!-- windscreen + doors split -->
+    <path d="M66 41 L82 60 M96 38 L96 60 M118 38 L118 60"/>
+    <!-- windows -->
+    <path d="M70 44 L82 57 L92 57 L92 44 Z" stroke-width="2.5"/>
+    <path d="M100 42 L114 42 L114 57 L100 57 Z" stroke-width="2.5"/>
+    <path d="M122 42 L150 42 L150 57 L122 57 Z" stroke-width="2.5"/>
+    <!-- snorkel -->
+    <path d="M62 60 L62 30 Q62 26 66 26" stroke-width="3"/>
+  </g>
+  <!-- wheels -->
+  <g fill="none" stroke="currentColor" stroke-width="4">
+    <circle cx="58" cy="100" r="18"/>
+    <circle cx="182" cy="100" r="18"/>
+  </g>
+  <g fill="currentColor">
+    <circle cx="58" cy="100" r="5"/>
+    <circle cx="182" cy="100" r="5"/>
+  </g>
+</svg>
