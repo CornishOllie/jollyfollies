@@ -9,8 +9,6 @@ Arambol
 
 Having used the [HUBB](http://www.horizonsunlimited.com/hubb) to find an appropriate beach in Goa to chill out on, we found ourselves at the perfect resort of Arambol. Apparently Arambol was once a major hippy zone, and you can still see some of the leftovers floating around the town. It was then a centre for the Goan party scene, but since a ban on amplified music past 10pm has been introduced the town has become mixture of all things, but is peaceful enough for us oldies to get some sleep.
 
-*(photo coming soon: wierdos.jpg)*
-
 Our days here are beautifully simple, we get up, have a swim, and then spend the rest of the day eating, sleeping, reading and doing crosswords. Occasionally Ollie will have a drink as he watches the sun go down, and sometimes that will result in a slightly longer drink as the moon rises!
 
 After about ten days here we were joined by [Pete, Caf](http://www.curryhunt.co.uk/) and Trev, 3 bikers who have done a similar journey as us, but set off in September. Caf broke her arm on the KKH after a head on collision with a car, and flew down ahead of the other two guys, knowing that we were already here taking on some R&R. It has been nice to be joined by some more people of our ilk, especially as the large majority of the tourists in Arambol are Russian. Da.
@@ -24,8 +22,6 @@ Lots of Love
 Ollie, Jenny and Bam Bam
 
  
-
-*(photo coming soon: mooo.jpg)*
 
  
 

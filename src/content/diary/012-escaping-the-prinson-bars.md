@@ -5,7 +5,7 @@ order: 12
 original_url: 'http://www.jollyfollies.com/Diary/012_escaping_the_prinson_bars.html'
 ---
 
-[*(photo coming soon: SunSet-763295.jpg)*](../blog/uploaded_images/SunSet-768227.jpg)
+[](../blog/uploaded_images/SunSet-768227.jpg)
 
 **
 

@@ -11,11 +11,11 @@ So, after so much planning and waiting we had to leave eventually. And to leave 
 
 Before we left we had decided upon having a big leaving do in Cornwall, and we were incredibly lucky to have most of our close friends and family come along. As mentioned before, we had booked out a lovely youth hostel, ordered a DIY hog roast and arranged a bouncy castle for the nippers to expend their energy on. Add to these ingredients some unexpected fine weather and you get a superb party! Thanks to all those who came and made this such a memorable day in our lives. Even Ollie had tears in his eyes, but apparently that was caused by a bit of stray crackling! After the day party, there was the brilliant night party, at Ollie's dad's, where those with hair left let it down a little before warming up their hands with a nice cup of cocoa.
 
-[*(photo coming soon: P1000239.JPG)*](../Images/TRIP/P1000239.JPG)
+[](../Images/TRIP/P1000239.JPG)
 
  
 
-[*(photo coming soon: 3233_72424425935_711525935_2153302_6249808_n.jpg)*](../Images/TRIP/P1000224.JPG)
+[](../Images/TRIP/P1000224.JPG)
 
 Before moving onto the rest of our trip we must say a few thank you's to all the people who helped us over the past few weeks, without doubt we would have either cracked up or given up without them. In no particular order:
 
@@ -30,8 +30,6 @@ Leaving (13th April 2009) - Day 1
 So, the time came when no one would let us stay behind any longer, so our only option was to leave. Thanks to lots of hard work by a million friends and family, with 90 minutes to go before our arranged meet up in Land's End, we were sat calmly having a cup of tea and a chat with Becky. This, of course, could not last, and as we were putting the last boxes into Dino Ollie off handedly asked Jenny where the passports with the visas were. These babies are the resultant of our previous four months hard worked, and had probably cost us over £500 each, if not more. We had last seen them when Russ had handed them over to us, having done us a favour and picked them up from the Iranian embassy, and bought them down to Cornwall on his bike. We had already had one very panicky day when we thought these were lost, and knew perfectly well that without these the trip was in jeopardy, certainly it would mean either a major delay or a crazy re-route. Needless to say a very fraught search followed, including ringing the youth hostel, driving over to Ollie's mum, and lots contorted expressions from Ollie. Luckily they were found within an hour, hidden in the 'safe place' of our laptop bag. Unbelievably we arrived at Land's End bang on midday, packed, ready and with just a little more adrenalin flowing round our bodies than planned. (note - a safe place has now been found for these passports).
 
 We had planned to keep our departure low key, having said goodbye to most of our friends several times already. and so had only invited family along for the tearful goodbyes. Ollie's mum and Jenny's parents helped ensure that we were both very emotional on driving away, although Ollie expressed this emotion by eating a giant pasty!
-
-*(photo coming soon: P1000247.JPG)*
 
  
 
@@ -65,8 +63,6 @@ Day three brought much better news, starting off with the fact that we had final
 
 By this time we had found out that Ollie could drive with no problems, and so we continued our drive through central Europe, hitting Germany fairly quickly. We spent another 4 or five hours on the road, getting a fair way through Germany, reaching our chosen campsite about 7pm, only to find all the offices were closed. We had a look around and thought about our first wild camp, but as we were discussing this, a friendly jogger (Peter) arrived who asked us in German if he could help. Although he professed to speak no English, he was soon giving us the low down on the campsite. It was 'shiezer', because there was never anyone there to help, and so he would happily let us use his key to enter the gated grounds, and could also convince a cleaner to get us a shower token or two. Then in the morning we could leave and 'pay if we wanted'. Our first wild camp!
 
-*(photo coming soon: P1000252.JPG)*
-
 We quickly took up his offer and headed up to the the camping field, where we were the only ones present, and hence took the prime position next to the running water. We then spent the day and the next morning doing chores such as filling the cooker with petrol the first time, creating our solar shower, and doing our first load of land rover washing - putting all our clothes into a 70l dry bag, half filling with water, adding eco-friendly washing balls and finally attaching to the top of Dino so the sun could heat and Dino's bounces could shake for a full day. The result passed the Jenny smell test! By the time we left our clothes were being washed and we had showered - result!
 
 Escape to Colditz (16th April 2009) - Day 4
@@ -80,7 +76,5 @@ The next day was more of the same, lots of motorway driving, trying to get plent
 We soon worked out that we wouldn't reach Poland, our first destination, until the next day, so started looking for a campsite earlier in the day. We soon realized that the perfect place for us to stop would be Colditz! Neither of us could remember why Colditz was famous, except the castle and maybe an escape, but it was reason enough for us to head there. We arrived in the town, but could not find the campsite anyway, even with GPS assistance, so Jenny popped her head into a gym, where she luckily bumped into a member who was just leaving to cycle to the campsite on his bicycle. So we followed him through pine forests for a mile or so, until he took us to the camp site reception. It seemed that the gods were once again on our side - the sheep sacrifice had obviously done its job.
 
 Upon arrival we were soon circled by two young German boys, aged about ten, who were eager to test their limited English on us and show us (Jenny too) pictures of semi naked women on their mobiles. We spent most of the night being carefully watched by this pair, and this continued the next day. We managed a form of communication with them, and by the time we left they had drawn us two pictures of Dino and one of a British fighter jet!
-
-*(photo coming soon: P1000266.JPG)*
 
 [<< Previous Blog](041_Tomorrow_the_Day.html)        [Next Blog >>](043_Fame_at_last.html)

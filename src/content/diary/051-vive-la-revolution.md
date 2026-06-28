@@ -9,8 +9,6 @@ Tehran
 
 As you know, because of the swine flu issue we were forced to look at a new route and this involved getting new visas for Azerbaijan and Kazakhstan and hence we had to detour to Tehran to apply and pick up these and a Pakistan visa. We weren't sure how sensible it was to go into Tehran with the elections happening, but we asked lots of advice and were told it would not be a problem. Walking around other cities before the election you could feel a party atmosphere, with lots of people on the street talking about the elections, and most of the young urban people who spoke to us were optimistic of some change taking place, although this was tempered with a little pessimism that nothing ever really changes whoever is in power. Who was to be right?
 
-*(photo coming soon: Desert Road.JPG)*
-
 So having had a great time in the rest of Iran we headed into Tehran on the night of the election, feeling confident that our biggest worry was the Tehran traffic. There are absolutely no traffic regulations obeyed in the city, and it is extremely common to see people reversing or driving the wrong way down a street or round a roundabout. The motorbikes swarm around you, and pedestrians have to take their lives in their hands to cross the road. But funnily enough all of this actually makes it great fun to drive in, as you can throw away the British highway code, and not a soul will ever think you are a bad driver. I (Ollie) love it!
 
 We knew we were going to be in Tehran for perhaps 5 nights, and were wanting to find a hotel which would be cheap enough not to eat into our budget, but with enough facilities to keep the princess in the style she has become acustomed. We asked on the Horizons Unlimited bulletin board and were recommended the Hotel Khayyam, but were a little disappointed to be offered a double room for $50 a night, which is extremely expensive for Iran. Luckily when pulling up to this hotel Jenny bumped into a friend we had made in Yazd, Lutz, a German with a very impressive new Landie, with a pop roof. He soon directed us to a hotel next door, The Firuzeh, which was half the price, with similar facilities, except the covered parking. This, of course could be a concern, but we are quite relaxed about the Dino looking after himself, and so we were happy to park him up right in front of the hotel windows, opposite Ludz's new shiny 'Little Elephant'*.
@@ -20,8 +18,6 @@ We would definitely recommend the Firuzeh, although a biker staying there had a 
 Hotel Friends
 
 In Iran we started to feel much more part of a traveler community, probably aided by the fact that most of the foreigners in Iran are travelers, who all share similar guide books and hence stay in the same hostels in the same cities. You soon find you bump into these people throughout the country, and also that they have similar onward plans. At the Silk Road Hotel in Yazd we met a great Turkish biker, Arton, who had already been chatting with Russ online about possibly meeting up, and was thinking about a similar route. We sat and drunk many a chay with Arton, learning lots including the REAL rules for backgammon - expect an Ollie revival in the next few weeks!
-
-*(photo coming soon: Arton.JPG)*
 
 In the Firuzeh we spent our free time chatting and exchanging (sometimes tall) stories with a whole host of different travelers and really enjoyed this time. Alongside Lutz there was Herbie the Swiss biker, whose use of the Anglo-Saxon part of the English language was surprisingly refreshing.
 

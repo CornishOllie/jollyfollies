@@ -15,17 +15,11 @@ Ollie advertised on the [HUBB](http://www.jollyfollies.com/Vehicle/Landy_Guide.h
 
 Below you can see Ollie just after the oil change. Funnily enough Jenny found the nut just to tight for her to undo!
 
-*(photo coming soon: Oilly-791836.jpg)*
-
 [](http://jollyfollies.com/blog/uploaded_images/Oilly-735425.jpg)
 
 So, after the first day of learning all about the 12k mile service Toby took us all out to his local off road course. We went in Dino, Toby in his 1968 Unimog and Wendy followed in their pink land rover. And boy did we have fun. It didn't take long for Dino to get stuck in some mud, but with a quick tow we were out. We then spent an hour or so taking Dino gently around the course before we had lunch. After lunch it was a different story though.
 
-*(photo coming soon: jenny_unimog-755586.jpg)*
-
 Toby gave both Ollie and Jenny a lesson on how to take the Unimog around the course. After Ollie's second go a red fog came in front of his eyes and Jenny refused to get in Dino with him. Before you could say 'I told you so' Ollie had taken Dino into a ditch. Oops! It took about an hour, and all of Toby's experience to get Dino safely out of the ditch. This was a great lesson for the Jolly pair, although Ollie didn't look quite so Jolly whilst all the talk was of Dino rolling.
-
-*(photo coming soon: ditch-792242.jpg)*
 
 **Peddars Way**
 

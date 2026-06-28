@@ -9,11 +9,7 @@ A New Adventure
 
 So the breaking and exciting news is that since the beginning of September we have known that Jenny is pregnant!! We obviously suspected before hand, and certainly next time Jenny is escorted off on her own to natural hot water springs that are a fertility aid, we will consider the implications further. But we're certainly not calling the baby Bibi Fatima!
 
-*(photo coming soon: bbfatima.JPG)*
-
 It was as we crossed the border into Pakistan that we realised we needed some official confirmation of our suspicions, so in the dusty market town of Aliabad,near Karimabad, we popped into the Aga Khan Polyclinic, where we faced a nervous half hour wait. Once the result was confirmed we knew our trip would have to change somewhat. We were both ecstatic with the news, but unprepared for what this actually meant for us.
-
-*(photo coming soon: scan.jpg)*
 
 We have had several changes of plans since that day, all based on how Jenny was feeling and what she thought she could handle. She is as keen as Ollie to continue and finish the trip in Australia, but what we both don't know is how much can she handle in between?
 

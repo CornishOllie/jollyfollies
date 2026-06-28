@@ -5,7 +5,7 @@ order: 13
 original_url: 'http://www.jollyfollies.com/Diary/013_this_ones_for_jimla.html'
 ---
 
-[*(photo coming soon: LandyonFerry-770419.jpg)*](../blog/uploaded_images/LandyonFerry-773967.jpg)
+[](../blog/uploaded_images/LandyonFerry-773967.jpg)
 
 **Dino's Ireland Test**
 
@@ -21,7 +21,7 @@ The only real problem that we came across was that the roof tent leaked after be
 
 When we bought Dino we also inherited a large number of spare parts, most of which we could not really identify. But with the help of Poppa Bridges we are starting the process of figuring out what we've got. We are documenting them all on the [website](http://www.jollyfollies.com/Spares%20Inventory.html), with pictures and a brief description. Only 6 out of nearly 40 done so far, but they should all be there by the end of the week. Then we can go back to our route planning. We have a couple of photos to add to the collection and they should make it onto the site this week also.
 
-[*(photo coming soon: Baldmasnapper1-710560.jpg)*](../blog/uploaded_images/Baldmasnapper1-715719.jpg)
+[](../blog/uploaded_images/Baldmasnapper1-715719.jpg)
 
 **Bald Man's Napper**
 

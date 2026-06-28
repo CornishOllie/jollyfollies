@@ -5,8 +5,6 @@ order: 22
 original_url: 'http://www.jollyfollies.com/Diary/022_shire_land_rover_clubs_rocks.html'
 ---
 
-*(photo coming soon: dino_and_friends-776972.jpg)*
-
 **....and mud and trees and water and grass**
 
 Oh yes we've been off roading. For real. And it is great! Although the weekend had been mostly talked about for the return of Arctic conditions to Britain for the first time in 8,000 years, we spent the weekend camping in west Wales, Seven Sisters to be precise. The event was an eagerly awaited return to the [Seven Sisters](http://www.7sisters.co.uk/) off road site for the [Shire Land Rover Club](http://www.shirelrc.com/) which we have been members off for a while, without having managed to attend an event. We decided to throw ourselves in at the deep end and drove up there without knowing anyone who was going. As usual we wanted to test out some of our equipment, and hence packed our fridge in the back, which of course needed stocking up with 24 cans of beer. As well as being used to test the fridge I felt this could be used to bribe people to tow us from any ditches we may encounter.
@@ -16,8 +14,6 @@ We set of a little later than planned - no surprise there. Soon Ollie realised t
 That night we shared some beers and a couple of sausages with some of the committee members who all made us feel most welcome. We met Mike, Becky, [Dan](http://www.getmuddy.co.uk/) and Jen all of who we spent Sunday with 'greenlaning'. By the time eleven o'clock came around we were shattered and ready for bed, which was going to be the inside of Dino for the first time. We are pleased to report that sleeping inside is lovely and comfy, and takes even less time to set up than the roof tent. We are now very happy that we have a vehicle that covers both eventualities.
 
 The next day we elected to go greenlaning with Dave Lanes the local guide to the site. We were joined by John and Chris a nice couple in a beautiful 90 and we set of for what we thought would be a gentle pootle around the site. After two puddles/lakes we remembered to put our wading plugs in!
-
-*(photo coming soon: wading_plugs-723293.jpg)*
 
 Although I'm sure that most of the people who were at the site would have laughed at our timidness, the level that Dave took us to was just right. Challenging enough to make us gulp and squeal at the same time, but so bad as to make us cry! No, I do exaggerate a little, but it was just right, and we spent a great morning getting Dino stuck and figuring how to get him out.
 

@@ -5,8 +5,6 @@ order: 28
 original_url: 'http://www.jollyfollies.com/Diary/028_john_o_groats_to_lands_end_charity.html'
 ---
 
-*(photo coming soon: First-Training-Run-753852.gif)*
-
 **Charity Time**
 
 Although Project JollyFollies has been moving forward in many directions, very little progress to the charity arm has been made since the London Marathon. The main reason for this is that Jenny and Ollie are keen to avoid charity fatigue (and Ollie is keen to avoid normal fatigue!). So they have decided to leave over a year between fund raising activities. So, what to do next? Because of time constraints due to work commitments, Ollie was always going to be the main fundraiser, but what could he do to follow up the marathon?

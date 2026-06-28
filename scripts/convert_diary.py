@@ -60,7 +60,8 @@ def html_to_md(frag, existing_media):
         alt_t = html.unescape(alt.group(1)) if alt else ''
         if base in existing_media:
             return f'\n\n![{alt_t}](/diary-media/{base})\n\n'
-        return f'\n\n*(photo coming soon: {base})*\n\n'
+        # missing images are dropped; per-entry leg galleries provide the photos
+        return ''
     s = re.sub(r'(?is)<img[^>]*>', img_sub, s)
     # links
     s = re.sub(r'(?is)<a [^>]*href="([^"]+)"[^>]*>(.*?)</a>',

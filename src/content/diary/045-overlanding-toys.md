@@ -15,11 +15,7 @@ Shortly behind the bikes is the COBB, which for those of you who don't know is a
 
 - Bikes, as said above, used lots of times already, the only downside is closing the back door is a little more awkward, but we are used to this already. If they get nicked or break down, to us these are disposable.
 
-*(photo coming soon: Bikes.JPG)*
-
 - COBB. Used for: Pizza, bread , stew, baked bananas, baked potatoes, did I say Pizza?
-
-*(photo coming soon: Cobb and Dino.JPG)*
 
 - Leatherman. Used at least 10 times daily by Ollie. The trick is to put it on your belt, then you use it. And you feel like action man.
 
@@ -38,8 +34,6 @@ Shortly behind the bikes is the COBB, which for those of you who don't know is a
 - Roof Tent. So far we have paid for one nights accommodation, apart from camping, so this is saving us money every day. Keeps us warm and dry too!
 
 - Blow up canoe. Yes, have been out for one lovely paddle already. More to follow hopefully.
-
-*(photo coming soon: Boat.JPG)*
 
 - Kelly kettle. Didn't get used until we free camped and then got used lots. We still love it.
 

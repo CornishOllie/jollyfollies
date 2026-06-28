@@ -15,11 +15,7 @@ The other difference between these countries is the tourist industry in Kyrgyzst
 
 The journey up to Bishkek took us five days in the end, four with the bikers and one day on our own, where we tested Dino our with some fantastic green laning in the hills.
 
-*(photo coming soon: greenlane.JPG)*
-
 It is a pleasure to travel through Kyrgyzstan in Dino, as not only are the roads great fun, but it is no problem to wildcamp anywhere which of course helps to keep the expenses down. One of the massive passes we had to take included a 20 mile climb, whilst all the time passing people selling the most delicious fresh honey - by the litre. Of course we couldn't really refuse could we?
-
-*(photo coming soon: honey.JPG)*
 
 Bishkek
 
@@ -29,11 +25,7 @@ We managed to fill those two days in the fine restaurants the city had to offer,
 
 Our biker friends decided that they needed to see some action, whereas we were happier to see some nature, so once again we split up for a little time. We dusted down our walking flip flops and sticks and headed to the countryside, ready to exercise muscles that had barely twitched in the last couple of months. As well as hiking up to a beautiful waterfall, we also did our first white water rafting - with all instructions barked at us in Russian.
 
-*(photo coming soon: waterful.JPG)*
-
      
-
-*(photo coming soon: gimp.JPG)*
 
 Kyrgyz Lakes
 
@@ -41,17 +33,9 @@ Kyrgyzstan has many great lakes, but two of which are the most famous Issy Kul a
 
 We continued a quick lap of this lake, with the southern shore providing much more of interest, as well as some nice remote beaches. We even found some examples of the amazing hunting eagles that are famous in Kyrgyzstan. The photo below shows a very scared Ollie balancing an eagle and another unknown bird.
 
-*(photo coming soon: Eagle.JPG)*
-
 If Issy Kol is famous for being a Russian tourist trap, then Song Kol is the opposite, situated at over 3000m and up a road really only suitable for 4wd. Of course this doesn't stop the locals driving every type of vehicle up here. This area is the perfect antidote to Issy Kol, and although some tourists do find their way up, generally the view is of the lake, the meadows, yaks, cows and sheep and of course yurts.
 
-*(photo coming soon: song kol.JPG)*
-
 So far on the trip we have traveled some of the most famous and most beautiful roads in the western world, but after leaving Song Kol we found our favorite, a really breathtaking and stunning, twisting and turning 60 kms down to Tash Rabat. If you are looking for great views and enjoyable challenging driving we would recommend this road, particularly as it takes you nicely to the final staging post before the Chinese border. Just remember to look behind you!
-
-*(photo coming soon: switchback.jpg)*
-
-*(photo coming soon: views.jpg)*
 
  
 
@@ -60,7 +44,5 @@ Tash Rabat and the Chinese Posse
 We were now fast approaching the biggest, nonnegotiable deadline of the trip - the 25th August, when we meet up with our guide at the Chinese border. To keep expenses down we had advertised on the [HUBB](http://www.horizonsunlimited.com/hubb/) and had found Jean-Yves and Babak who were happy to share the cost of the guide, along with Russ. We had also picked up Herbie en route, and so were now going to be a six person posse, ready to storm the Chinese border. The meeting point had been set by Jean-Yves, the slowest member of the group, as Tash Rabat, probably the nearest recognizable place to the Chinese border.
 
 We were the first to arrive, and arranged to a yurt for us all to stay in. Soon we were joined by JY and Babak, and not long after by Russ and Herbie. The posse was complete.
-
-*(photo coming soon: posse.jpg)*
 
 [<< Previous Blog](057_mountain_madness_part_2.html)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=87)   [Next Blog >>](059_crazy_china.html)

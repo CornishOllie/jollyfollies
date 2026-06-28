@@ -7,7 +7,7 @@ original_url: 'http://www.jollyfollies.com/Diary/038_Happy_Christmas_2008.html'
 
 **Mistletoe and Wine******(Snogging 'n' Booze)
 
-[*(photo coming soon: christmas_tree_1.jpg)*](../Images/christmas_tree_1.jpg)
+[](../Images/christmas_tree_1.jpg)
 
 Me and Jenny love Christmas, but this year it's extra special. We have said for nearly 3 years now that once Christmas of the final year ticks round we would have to start getting our bums in gear. Well it's almost here and we are beside ourselves with excitement.
 Once the new year is here we have to get ourselves busy with all the red tape, such as visas, carnets, injections, wills, more spreadsheets (Ollie). The list is almost endless. But finally, after all this time, we are startling to realise we *will* set off! As Homer says, woohoo!
@@ -18,7 +18,7 @@ Back onto more interesting things. We have booked ourselves up for some super tr
 
 Exciting Things To Do and See
 
-[*(photo coming soon: Bear_in_Romania.jpg)*](../Images/Bear_in_Romania.jpg)
+[](../Images/Bear_in_Romania.jpg)
 
 Even at this late stage in our preparation we are still changing our minds about our route and what attractions we will visit. For me it is usually a sporting event that takes my fancy, but for Jenny it is normally some natural wonder that she wants to stare at, sober. One of most recent changes to our route was instead of heading north in Europe straight away, instead to head south to start with, aiming for Romania to go and see the bears. This was caused by a combination of factors, including seeing an article on the Romanian bears in [Wanderlust](http://www.wanderlust.co.uk/) and also being approached by Paul from [Transylvania 4x4 Tours](http://www.transylvania4x4tours.com/) who not only has a cheap place to stay, with landie mechanic, but also can arrange the tours for you. Perfect. Paul has been dead nice when chatting by email, so we are more than happy to pop by.
 

@@ -5,7 +5,7 @@ order: 16
 original_url: 'http://www.jollyfollies.com/Diary/016_justgiving_to_vso.html'
 ---
 
-[*(photo coming soon: VSOLogoblack-797761.jpg)*](../blog/uploaded_images/VSOLogoblack-708922.jpg)As frequent guests to these pages will know, as part of our trip we want to raise as much money as possible for [VSO](http://www.vso.org.uk/). To help people give straight to VSO easily we have set up a [JustGiving](http://www.justgiving.com/default.asp) page. Justgiving is the leading charity fundraising website, enabling ordinary people to raise extraordinary amounts of money for the causes they care about.
+[](../blog/uploaded_images/VSOLogoblack-708922.jpg)As frequent guests to these pages will know, as part of our trip we want to raise as much money as possible for [VSO](http://www.vso.org.uk/). To help people give straight to VSO easily we have set up a [JustGiving](http://www.justgiving.com/default.asp) page. Justgiving is the leading charity fundraising website, enabling ordinary people to raise extraordinary amounts of money for the causes they care about.
 
 Since their launch in 2001, their member charities have collected over £100 million in online donations through their website. We hope to add to this!
 

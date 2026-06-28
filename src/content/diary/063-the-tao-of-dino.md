@@ -41,8 +41,6 @@ We definitely over paid, but with the hindsight that is now available to us, nei
 
 With all this work done we were ready to go. Although we were still nervous, every expert who examined Dino told us the chassis and the engine were in fantastic condition and we should be in great shape for our trip.
 
-*(photo coming soon: P1000247.JPG)*
-
 [](../Images/TRIP/export/serivce.jpg)
 
 Dino's First Road Service
@@ -52,8 +50,6 @@ We didn't realise it at the time, but even as we set off Dino had his first mino
 Also whilst we were in Romania we, or at least Dave, gave Dino his first service. Not much was found out of shape, but the power steering and fan belts were changed to something newer and the air filter was replaced. We had brought one of these large air filters with us, as a spare, and luckily Paul, our host in Romania, had another, but this still meant we would have to find more of these on the trip. For some reason Dino leaks oil into the air filter, and so one of our ongoing maintenance tasks is to clean the air filter every 500 miles or so, before the oil spoils the filter.
 
  
-
-*(photo coming soon: dave_pump.jpg)*
 
  
 

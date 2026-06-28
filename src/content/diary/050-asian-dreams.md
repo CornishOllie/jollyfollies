@@ -13,11 +13,7 @@ This latter suggestion was our favorite, but involved getting an Azerbaijani LOI
 
 Safronbolu
 
-*(photo coming soon: Asia.JPG)*
-
 We reached Safronbolu after nearly a full days drive, having crossed the Bosphorus into Asia much earlier in the day. Safronbolu is a very pretty and charming village built mainly from wood, up on the hillside. It was a renowned merchants town, but is now famous for its quaint streets, charming houses and for a lively wooden crafts market. As part of its transformation from industry to tourism some of the fine merchant houses have been converted into hotels, and we thought this would be the ideal time for us to splash out and spend the money that Jenny's colleagues gave her as a leaving present - to have a little bit of luxury. (Thanks guys!!!) Below you can see the breakfast room, which was dominated by the air conditioning unit - a huge pool of water! The atmosphere here certainly helped us in our contemplation - along with the wine! The decision was made, Azerbaijan here we come :)
-
-*(photo coming soon: Safronbolu Breakfast.JPG)*
 
 Although the decision was made, it still meant we had to reconfigure our route and timetable, as we now had to find at least another ten days in case of the ferry delaying us. This is where we really had to make a hard decision, and had to abandon our pre prepared week long 'holiday' on the Med, and also any diversions back west to view the Roman ruins, and start making our way in the general direction of Iran, where we could pick up the appropriate visas.
 
@@ -25,19 +21,11 @@ Goreme
 
 The next day we had a lovely wander around Safronbolu village, even buying the perfect portable wooden chess/backgammon/draughts set, before setting off on yet another 10 hour drive.We are both happy to put in these long days as long as they bring some rewards, and normally the scenery when driving is rewarding enough, but this time it was our destination that blew us away. Goreme is the main backpacker town in the Turkish national park of Cappadoccia, and is a place that everyone should visit once in their lives. Cappadoccia was formed by two volcanoes that exploded roughly 10 million years ago, that covered a bouldorous plain with ash. Over time the effects of erosion has caused the ash to be worn away leaving extremely conical hills, often with a finely balanced boulder on the top. The resourceful people who ended up living here found out that most of the local landscape could be dug out easily, and started living in the 'fairy chimneys'. Hence the whole area is dominated by these caves and hills, and each and every view is like a heavy acid trip. Apparently.
 
-*(photo coming soon: Tripppppyy.JPG)*
-
 We had a truly wonderful time exploring this area, including the open air museum, which shows a section of the area inhabited for the last 1000 years and includes many churches and burial grounds. Although we were slightly unlucky to see it on a Turkish national holiday, we managed to get there early, and avoided some of the worst of the large tour groups. The next day we took a mountain bike trail through some of the crazy valleys, but found that some of the drops were a little too mad for us, and ended up on a walking tour instead. it still was a magical time, and really felt like being a kid again. If you go to Turkey, please follow our advice and pop into Cappadocia!
-
-*(photo coming soon: Cap Church.JPG)*
 
 Inside one of the Church caves.
 
-*(photo coming soon: Hobbit.JPG)*
-
 Ollie the Hobbit
-
-*(photo coming soon: Air Hostess.JPG)*
 
 Jenny pointed to the mad landscape, in case you couldn't see it
 
@@ -49,17 +37,13 @@ We spent nearly three days in Goreme, but the weather started looking thundery, 
 
 There were three famous underground cities, but another 30 or so, less developed. We we hunting for one of the more famous when we stumbled upon one that was apparently open for tourists, but not mentioned in any of the guide books or tourist literature. Upon arrival we found a shack with a rather dirty and cut up man inside who promised to show us around. After chatting with him a while we found out that two days previously, when extremely drunk, he had rolled his car, and when found it was thought he was dead! During the course of our day with him Asmail was thoroughly repentant of his past life wasted on alcohol and was promising to give it all up. Jenny, of course, had heard al this before.
 
-*(photo coming soon: Asmail.JPG)*
-
 A guillotine style trap, with our crazy guide Asmail. He smiled a lot more in real life!
 
 Asmail turned out to be a great guide, who took us around the city with no other visitors, and hence we had his 100% attention and no other distractions. The cities themselves are fascinating, filled with hundreds of Indiana Jones style traps, a communications tower for messenger pigeons and lots of mad staircases to take you from one level to the next. When we were first shown these staircases we were both very glad we didn't have to use them, but to our amazement, this turned out to be our way out. Asmail, obviously not having heard of Health and Safety, could really bring to life what it was like to live in one of these cities. Certainly we were glad we stumbled upon this amazing place before we found the city in the Lonely Planet.
 
-[*(photo coming soon: crawl.JPG)*](../Images/TRIP/export/crawl.JPG)[*(photo coming soon: Climb.JPG)*](../Images/TRIP/export/Climb.JPG)
+[](../Images/TRIP/export/crawl.JPG)[](../Images/TRIP/export/Climb.JPG)
 
 Ollie Crawling, and Jenny trying to decently climb!
-
-*(photo coming soon: exit.JPG)*
 
 We made it out alive!
 
@@ -67,23 +51,19 @@ As well as the underground city Asmail took us to some Roman and pre-Roman buria
 
 Off to see the Deity
 
-[*(photo coming soon: Back.JPG)*](../Images/TRIP/export/Back.JPG)So after all this excitement we still had quite a big drive ahead of us, so set off on the road to Nemrut Dagi, knowing that we would only get about half way that day. It is worth noting here that the Turkish roads we generally a delight to drive as the scenery was usually stunning, and there was rarely more than a lorry or two on the road. So as dusk drew in we found a lay by close to the side of the road, at a height of about 2km, and made camp for the night. This was our first wild camp in Turkey, but also the first time we slept in the back of Dino, rather than the roof tent. We have decided that we can be a lot more anonymous in the back. It is surprisingly comfortable in the back, but it's perhaps not the place to have a nice long leisurely lie in. To sleep in the back we do have to move most of the boxes and the fridge into the front, so we need an area not surrounded by people to start with, and it takes about the same time to do that as to set up the roof tent.
+[](../Images/TRIP/export/Back.JPG)So after all this excitement we still had quite a big drive ahead of us, so set off on the road to Nemrut Dagi, knowing that we would only get about half way that day. It is worth noting here that the Turkish roads we generally a delight to drive as the scenery was usually stunning, and there was rarely more than a lorry or two on the road. So as dusk drew in we found a lay by close to the side of the road, at a height of about 2km, and made camp for the night. This was our first wild camp in Turkey, but also the first time we slept in the back of Dino, rather than the roof tent. We have decided that we can be a lot more anonymous in the back. It is surprisingly comfortable in the back, but it's perhaps not the place to have a nice long leisurely lie in. To sleep in the back we do have to move most of the boxes and the fridge into the front, so we need an area not surrounded by people to start with, and it takes about the same time to do that as to set up the roof tent.
 
 So after a nice early start we were heading off to the magical mountain, with Ollie taking the first leg behind then wheel. We could see from our map that we would be taking a twisting road above 2km most of the time, but it was soon apparent that this road would need nerves of steel. Well for Jenny anyway! The road twisted for about 80 kilometers, climbing and then descending the mountain, all the time with a vertical drop feet away from the side of Dino. To make matters worse there were plenty of road works, reducing the road down to one lane, combined with the usual mad locals haring round the bends. After about an hour and a half, Jenny volunteered to take over the driving, thinking that the signposted last 12kms would be the glory run. Ha, little did she know what was in store for her!
 
 Just after she took over the road became a proper snaking mountain pass, with the (mostly) tarmac becoming a snaking lane with boulders littering the way.
 
-[*(photo coming soon: snake pass.JPG)*](../Images/TRIP/export/snake pass.JPG)[*(photo coming soon: hill.JPG)*](../Images/TRIP/export/hill.JPG)
+[](../Images/TRIP/export/snake pass.JPG)[](../Images/TRIP/export/hill.JPG)
 
 The road we climbed from the rear and front[](../Images/TRIP/export/Hizir Family.JPG)[](../Images/TRIP/export/Kavalte.JPG)
 
 The final few miles took us up to a (then) record of 2150m, and after about 4 hours attempting to summit the mountain (well sort of) we made it to the top to be rewarded with stunning views and mystical ruins of the previous two thousand years. It was worth it, but we both knew we had to go back down!
 
-*(photo coming soon: heads.JPG)*
-
 The statues and heads. The statues fell during numerous earthquakes in the last 2000 years.
-
-*(photo coming soon: close heads.JPG)*
 
 Close up of the heads
 
@@ -98,8 +78,6 @@ We stayed the night in a cheap hotel, and spent the evening catching up with pap
 Doggie Biscuit
 
 The time had come for us to move to the Turkish/Iranian border and so we headed off to the infamous Turkish town of Dogabuzout. This is a typical border town dominated by the army, but also has the amazing backdrop of Mount Ararat, which is supposedly where Noah's Ark ended up We decided against the Ark tour, but headed straight for the overlanders campsite on top of the adjacent hill, and ran into our first fellow travelers. Already in the campsite were two German bikers (Ralf and Marian), who were returning home after 3 years on the road, two German overlanders in a big truck (Uwe and Dani) again returning home, but this time after 8 months, and finally a mad, but lovely French cyclist, Tony, who was cycling home
-
-*(photo coming soon: Ararat.JPG)*
 
 Little and Large Ararat
 

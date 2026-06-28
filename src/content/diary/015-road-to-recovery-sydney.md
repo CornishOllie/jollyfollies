@@ -5,8 +5,6 @@ order: 15
 original_url: 'http://www.jollyfollies.com/Diary/015_road_to_recovery_sydney.html'
 ---
 
-*(photo coming soon: Gall_stone-774874.jpg)*
-
 **Operation Success**
 
 (Who is that crazy fool?)

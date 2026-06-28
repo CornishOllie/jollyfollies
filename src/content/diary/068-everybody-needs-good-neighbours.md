@@ -13,8 +13,6 @@ We left Goa for the 3 day drive to Cochin, stopping off in the buzzing metropoli
 
  
 
-*(photo coming soon: Jolly.JPG)*
-
  
 
 Kerala
@@ -25,11 +23,7 @@ It's a beautiful area and we had arrived four days before Dino had to be shipped
 
 Kerala was the place that the Portuguese explorer/merchant Vasca de Gama landed in 1498, starting the European colonization of India. And because of it's Portuguese and Catholic influence the streets are unrecognizable as Indian, and the state has it's own separate identity. And a symbol of this identity is the backwaters - a chain of lakes, lagoons and canals, both manmade and natural. You could probably spend weeks and months drifting about these beautiful waterways, but we only had one afternoon. We loved it though!
 
-*(photo coming soon: backwaters.JPG)*
-
 We also spent part of the day watching the mahouts washing the elephants down at a river. Although these creatures are best observed in their wild environment, it is still amazing to see these giants close up, and see the pleasure they receive when wallowing in water. The elephants are trained but no longer needed for forestry (although still used in places) and mainly earn their bananas making special guest appearances at religious festivals.
-
-*(photo coming soon: mahoots.JPG)*
 
  
 
@@ -39,13 +33,9 @@ Thailand
 
 After an epic journey across India and over the Bay of Bengal, we arrived in Koh Sumai seventeen years after Ollie had last been here. And boy had it grown up in that time. Ollie was a 22 year old student, who had arrived filled with stories of wild parties, crazy drugs and amazing sights, and had certainly not been disappointed. Now Koh Samui was more akin to the old European stag do capitals of Spain and Greece. Luckily we were there off season, and in amongst the English pubs and breakfast cafes there was still a charm to be found. And damn it - we hadn't eaten an English breakfast for 9 months. As you can all probably guess Ollie ate a few of these, although with Jenny's body now demanding more and more, he certainly wasn't eating alone!
 
-*(photo coming soon: cock.JPG)*
-
 We spent ten days on Samui, enjoying what we had come to call Western comforts in the East. As well as swimming and reading, Ollie found a golf course and managed to entertain himself there for almost a week, ensuring his reputation as a hardcore overlander was maintained.
 
  
-
-*(photo coming soon: Birdie.JPG)*
 
  
 
@@ -55,23 +45,13 @@ Koh Phang Nan
 
 Here we were set up to spend three weeks with several of our friends who had flown in from England and Australia, and enjoy a festive period together. most were not arriving until Ollie's birthday, the 28th December, and so we enjoyed a lovely Christmas day with Russ, on a beachfront Italian restaurant, stuffing our faces and making snowmen. It was a lovely day and maybe our last normal Christmas. Although perhaps normal is the wrong word here!.
 
-*(photo coming soon: Xmas.JPG)*
-
-*(photo coming soon: family christmas.JPG)*
-
-*(photo coming soon: chef.JPG)*
-
  
 
 With Christmas been and gone it was now time to turn our minds to New Years Eve - what should a bunch of 30-40 years old do on NYE when staying in one of the world's party capitals. Well it was almost unanimous (Mr Hurcomb you know who you are) - avoid the big party like the plague. We were all through with that crazy hedonistic stuff, we wanted to have a good time, but keep our clothes on! With a bit of help from our expat yoga friend Emma, we found a great bar, somewhere on the island and got wholly drunk! The most amusing part of the evening being Paul and Russ spending half an hour insisting to everyone that there was no alcohol in the 'buckets' that we were all drinking from. The fact that they were dribbling and slurring their words was enough amusement for the rest of us for us all to nearly miss 12 o'clock. Needless to say most of us spent news years day, as we nearly always do, in bed.... Jenny looked very smug!
 
-*(photo coming soon: bucke.JPG)*
-
 So a big thanks go to our friends who came and saw us for this extra special Christmas - they made it even more special. Thanks Russ, Paul, Jen, Julia, Liza, Nig and Emma :)
 
 Now, I'm sure you have guessed that we didn't have the most cultural of times in Thailand, but we did have great fun, and on top of the socializing we also managed to get in some some serious beachside relaxation. And as an added bonus Ollie managed to catch up with Jenny and become a qualified PADI diver. Woohoo - this is a long term investment into Jollyfollies Mk IV.
-
-*(photo coming soon: dive.JPG)*
 
  
 

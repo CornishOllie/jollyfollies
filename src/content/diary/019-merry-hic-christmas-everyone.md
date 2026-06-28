@@ -5,8 +5,6 @@ order: 19
 original_url: 'http://www.jollyfollies.com/Diary/019_merry_hic_christmas_everyone.html'
 ---
 
-*(photo coming soon: grim8_crew-785970.jpg)*
-
 **Grim 8 and More**
 
 Well it's been a month since our last blog, so firstly apologies for the delay. It's been a busy time in the run up to Christmas, but both of us are now safely off work and enjoying our break.

@@ -5,7 +5,7 @@ order: 18
 original_url: 'http://www.jollyfollies.com/Diary/018_running_repairs.html'
 ---
 
-***(photo coming soon: landy2.jpg)***
+****
 
 **Repairs I**
 
@@ -15,8 +15,6 @@ And although Ollie is perfectly happy in such conditions, Princess Jennifer deci
 
 The fix was to add two more support rods for the flysheet, to keep it separated from the canvas. The rods we attached to the main sheet with pockets made out of old denim jeans attached with [Ambroid](http://www.ambroid.com/Ambroid.html) liquid cement. This is a handy addition to any rooftent repair kit which we first used to fix the canvas canoe that some clut put their foot through (only difference was at least he wasn't reciting the Russia alphabet at the time) .
 
-*(photo coming soon: frontview.jpg)*
-
 **Front View of the Fix**
 
 On the second picture you can see one of the horizontal bars that we have positioned. These two bars mimic what the central bar does.
@@ -24,8 +22,6 @@ On the second picture you can see one of the horizontal bars that we have positi
 We have string running between all 3 bars which also helps to keep the fly sheet away for the canvas. The hardest part of the job was getting the pockets stuck in the correct position, after that it was fairly simple.
 
 We have yet to test this out in extreme weather, but it certainly helps. Once it it tested we will go about making the changes a little more permanent.
-
-*(photo coming soon: Puncture_repair.jpg)*
 
 **Repairs** II
 

@@ -15,19 +15,15 @@ We raced to the border and arrived around 4.30pm, which probably gave us 90 minu
 
 It still took us another day's driving to get to Russ in Nukus, who by this time was feeling better, but still in hospital, and looking unlikely to be let out. Apparently the hospital had diagnosed his illness as possibly infectious, and they would not release him until tests had proven otherwise, It was late on Friday afternoon by the time we got to him, and unless the results were out by 5:30pm he would be kept in until until at least Monday! Just as it was looking like he was doomed to spend another two days in hospital the results came through and we were released to the nearest bar. No need to add, although I will, we were all feeling sick the next day.
 
-*(photo coming soon: Russ in Uzbek Hospital.JPG)*
-
 Uzbekistan Proper
 
 Once we had sprung Russ's release we were free to explore Uzbekistan, which is an ex-Soviet republic, now under the leadership of the same man who was in charge during the Soviet era. Some call him a dictator, and it is certainly apparent that he has a almost total grip on the country. One of his latest edicts was a big help for us, as he had decided that all foreign tourists should be exempt from any police corruption, and hence any policeman who was found to be looking for baksheesh from a foreigner would lose his job immediately, no questions asked. This cut out a big hassle for us, and also meant that twice we got away with being caught on a radar gun - the police are only interested in a 'on the spot fine' which is, of course going straight in their pocket. Insisting on paying at a police station or town soon means a let off.
 
 Our first target was Khiva, which is a town full of stunning turquoise and blue tiled architecture, and famed for its historic slave trading. The splendor is diluted somewhat though, with the town being turned into a virtual museum, with the only occupants being stall holders, hotels and restaurants. It is interesting to see the large and colourful Islamic buildings that existed side by side with the slave centre, but without a true hustle and bustle the town is missing out on one vital ingredient - real people!
 
-*(photo coming soon: Khiva Cityscape.JPG)*
-
  
 
-[*(photo coming soon: Khiva Chimney.JPG)*](../Images/TRIP/export/Khiva Chimney.JPG)          [*(photo coming soon: Khiva Wall.JPG)*](../Images/TRIP/export/Khiva Wall.JPG)
+[](../Images/TRIP/export/Khiva Chimney.JPG)          [](../Images/TRIP/export/Khiva Wall.JPG)
 
  
 
@@ -35,15 +31,11 @@ On the way to Khiva we stopped off for some off road exploration with Russ, look
 
 As well as staying together in Khiva we spent one night wild camping, below some 2500 year old ruins, and near a Yurt stay. We decided not to spend the $40 a person on a night in the yurt, but did take a very pleasant breakfast there, although our French friends decided it was too touristy for them. Their loss!
 
-*(photo coming soon: Yurt Girls.JPG)*
-
  
 
 Khiva, Bhukara and Samarkand
 
 We ended up spending five days at Khiva, which is certainly too long for what is available to see as a tourist, but it was nice for us to spend some chilled time together with Russ, and we had struck a real bargain for our hotel at $10 a night including breakfast. For those heading to Uzbekistan in our wake we would recommend the Hotel Arqonchi, not far from the big fat incomplete minaret, and also the Oriental Nook restaurant (see piccie below), only five minutes walk away. Either way bargain hard for your hotel room as we reduced this down from $35 a night!!!
-
-*(photo coming soon: Dinner.JPG)*
 
 We would have only spent 4 nights in Khiva, but as we were about to leave I managed to pick up our first real bug, a 24 hour vomitathon. Not at all girls blousy like Russ' illness, rather a real man's illness for a real man. As usual Jenny came good and nursed me to complete health (ie she stopped me drinking).
 
@@ -57,13 +49,9 @@ At this point we realised we were going to be in Tashkent for some time, and dec
 
 We also hooked up with our American friends traveling on push bikes, Natalie and Alex, and picked up a new cyclist friend, Andre, the Swiss German percussionist who had cycled from Switzerland to central Asia in an attempt to recapture his love of music. He found it on the decrepit hotel piano, much to the concern of the other guests. Andre confirmed our suspicions that all Swiss Germans are crazy and that all cyclists are crazy. It certainly counted double for him.
 
-*(photo coming soon: Andrea.JPG)*
-
 Lying and Cheating
 
 Fully ensconced in the Grand Orzu ($65/night for triple room) Russ and Jenny set about finding a travel agency that would secure us a Chinese visa, whilst I guarded our place by the pool. The agency, Irena Sport and Travel, took the money and promised us that they would sort out the visa. There was only one hitch, they spoke no English and hence the whole application was done with a combination of mime, basic Russian and a sample application form. Because we needed the visa fast we had to pay double the already extortionate price, but this would be worth it as we would be able to leave the expensive capital and get back to frugal living. All we had to do was wait until Friday at 5pm to pick up the visas, and then hop onto our first class return train to Bhukara at 7pm. Sounds simple - so perhaps time for a celebratory cake?
-
-*(photo coming soon: Cake Eater.JPG)*
 
 Arriving at the travel agency on Friday we were told that we would have to wait until 6pm, as the Chinese were in a meeting (Free Tibet? Flood 10 million people? Remove free tea from the canteen?), so we got out the cards and played a game or two of Sheizer Koffen. At 6pm on the dot our passports turned up and we were ready to party, until I checked the date - it was a month too early! Damn Damn Damn. Obviously a debate started about the rights and wrongs of this, and it was soon obvious that we weren't going to get a replacement visa, and hence all we were discussing was whether we would get a rebate. We knew we had a strict time limit, as our train was leaving in less than an hour, but Irena was a hard ball foe. All we could get out of her was she would give us the agency fee back, but she wanted to rip the visa out of our passports. Obviously no good for us.
 
@@ -75,13 +63,9 @@ Our 1st class journey back to Bhukara was all the merrier for our small victory,
 
 On arrival back to Bhukara we picked up the bike and Dino (who had had the French flag stolen from him) and headed for Tajikistan, via Samarkand where had a quick peep at the Registan, which looked blue and tile like. Soon we were at the border, where again we crossed in about an hour, to find a whole new landscape - hills and mountains.
 
-*(photo coming soon: Tajikistan Hills.JPG)*
-
 Final Destination
 
 Once on the other side of the border we consulted the map, and figured we should be able to reach lake Iskander Kul by dark, where we could hole up for a few days and consider our next moves, both regarding our Chinese visa and our Tajikistan leg of the trip. Unsurprisingly we found the roads in Tajikistan to be nothing like we had met before, with a large percentage of vertical drops, crumbling sides and horrendous pot holes. We tried as hard as we could to get near to our target, but with dusk settling in and a further 70 kms to go we realised we were not only breaking our golden rule of not driving at night, but also doing it on the most tricky and dangerous roads we had yet met. With about 2 seconds conversation me and Jenny decided to call it a day, but the only problem was letting Russ know, who was driving ahead of us. We tried in vain to alert him by flashing our lights, but no matter what we would do Russ would not stop. All we could do was pull in at the first place flat enough to park, and hope Russ had the good sense to realise we were no longer driving, and come back.
-
-*(photo coming soon: bread.JPG)*
 
 We set up camp in a small village, after asking the local elder's permission, having also phoned and texted Russ, with no response. The headman brought out tea, with ginormous sugar cubes, rock hard bread and some sweets, so we tucked into this nutritious dinner. After about an hour we finally got a call from Russ - he was going to try and push on to the lake, as he could find no ground safe enough for him to camp without scorpions, and was also aware of some road works that would close the road for the next day's daylight. All we could do was to settle down and go to bed, and hope in the morning we could safely navigate past the road works down to the lake to meet up with Russ. We were soon asleep, and dreaming of soft bread and sit down toilets when the phone rang. It was an especially cacklerly line, and Jenny could only make out two words being repeated over and over again. 'I've crashed'.......
 

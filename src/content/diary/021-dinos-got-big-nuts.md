@@ -5,8 +5,6 @@ order: 21
 original_url: 'http://www.jollyfollies.com/Diary/021_dinos_got_big_nuts.html'
 ---
 
-*(photo coming soon: Oily_jenny-753734.png)*
-
 **Ups and Downs for Dino**
 
 ****
@@ -18,8 +16,6 @@ Getting the battery in place, alongside the other battery turned out to a major 
 All this practice has done us good, as well as helping us to get ourselves equipped with the tools for the job. As I mentioned above, we are still continuing the mechanics course, and as well as changing Dino's oil, we have now learnt to check the brake pads and disks of his front brakes. One thing we have learned is that a Land Rover needs a whole different tool set to other cars, mainly because all Dino's nuts and bolts are bigger than the average car. That's my boy :)
 
 We have also started putting our own stamp on Dino's interior, and Jenny's brother, who rather conveniently is a blacksmith, has put a fantastic window in our dog guard. This should mean we can leave it up all the time, and still access our gear in the back. This only cost us the price of a pizza! Definitely the start of a beautiful relationship.
-
-*(photo coming soon: dogguard-705455.png)*
 
 **Jenny, would you rather visit a nuclear testing area, a Russian civil war or 1000 miles of frozen wasteland?**
 

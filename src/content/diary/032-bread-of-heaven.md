@@ -5,7 +5,7 @@ order: 32
 original_url: 'http://www.jollyfollies.com/Diary/032_bread_of_heaven.html'
 ---
 
-[*(photo coming soon: bread_of_heaven.jpg)*](../Images/bread_of_heaven.jpg)
+[](../Images/bread_of_heaven.jpg)
 
 Ready Steady Cook
 
@@ -15,8 +15,6 @@ And where better to start than feeding Ollie?
 So for the past 3 weekends we have had a bonfire, come wind or high water (more often both) and tried out various recipes. Because most of these bonfires were accompanied by large amounts of alcohol we don't have many pictures of the produce, but above is a bone fide picture of Jenny and Vicky's Beer Bread. This is Vicky of [Langebaan Sunset](http://www.langebaan-sunset.com/) fame, who was over visiting with her fella Nick and Dassie their Landie.
 
 Ollie, Dino, Nick, Dassie and Vicky after some very junior greenlaning
-
-*(photo coming soon: 3wisemen.jpg)*
 
 So, anyway, back to the cooking! The main thing we wanted to figure out was some simple bread, which we could cook without having to plug our brains in after a long days drive. We firstly followed some [threads](http://www.horizonsunlimited.com/hubb/travellers-questions-dont-fit-anywhere/recipes-for-the-road-32214?highlight=recipes) on The HUBB, which had some original sounding ways to cook bread. Unfortunately Ollie was in charge dough production and hence there were issues. But we did figure out that a chapatti type bread is easy to both simple produce and cook, and yet beautiful versatile. This led us to find this great chapatti [recipe](http://www.asianonlinerecipes.com/online_recipes/indiapakistan/chapatis.php):
 
@@ -66,7 +64,7 @@ The last blog told of how Dino was going in to see the nice men at Foley's again
 
 Much more exciting to the Folliers was the mounting of the spade on Dino's bonnet. Now going for a freestyle poo in the woods will be helped by the easy access of the disposal tool, the spade.
 
-[*(photo coming soon: spade.jpg)*](../Images/spade.jpg)
+[](../Images/spade.jpg)
 
 We now only have one more major visit to Foley's, to get our suspension checked out, and also,most probably a new fuel diesel tank. In the mean time we will be finishing off the interior design, such as adding some addition 12v wiring, tidying up our appliances and generally making our day to day life more comfortable.
 

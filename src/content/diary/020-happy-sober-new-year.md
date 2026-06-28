@@ -21,8 +21,6 @@ On Christmas day the majority of our presents were trip related. Mostly we got l
 
 In the first picture you can see the potje in the background and the Kelly Kettle (or volcano kettle) in the foreground.
 
-*(photo coming soon: kellyandpotje-720643.jpg)*
-
 **Lets Off Road!**
 
 On Ollie's birthday we both took ourselves off to Bristol to learn to off road, with [Bristol Off Road](http://www.bristoloffroad.co.uk/). We had both been a bit nervous regarding this aspect of our trip, but a day in expert hands has certainly helped out on this front. Although the day was not as formal as a lot of the driver training we have seen (i.e. no class room stage or set itinerary) we both enjoyed our day and felt we got lots out of it.
@@ -30,8 +28,6 @@ On Ollie's birthday we both took ourselves off to Bristol to learn to off road, 
 The morning started off with a a session of learning how to drive in extremely muddy and treacherous conditions. We both had a time at the helm, and learnt lots about high and low ratio, central diff locks, engine breaking and most importantly how to have safe fun in a field (Normally Ollie is arrested whenever he has fun in a field!).
 
 The afternoon was spent enjoying some of the local green lanes and tackling some of the more difficult maneuvers. By the end of the day we were both dog tired, but feeling really positive about taking Dino anywhere in the world. Our next task is to go off with our [Land Rover](http://www.shirelrc.com/) club in about two weeks, and then start exploring some of the local green lanes to us.
-
-*(photo coming soon: dinoinbristol-744547.jpg)*
 
 **Mechanical Animal -**Blood transfusion for Dino
 

@@ -5,8 +5,6 @@ order: 14
 original_url: 'http://www.jollyfollies.com/Diary/014_and_now_the_hard_work_begins.html'
 ---
 
-*(photo coming soon: B_and_l_Ol_NF_HMarathon-798790.jpg)*
-
 **Big and Little Ols Celebrate!**
 
 Well it's been another week of putting one foot in front of another to progress to our overall goal, quite literally. Pictured to the side is me and Olive (the bride mentioned in the previous blog), having just completed the [New Forest Half Marathon](http://www.nfma.org.uk/). Both of us completed it without stopping and inside our target times, so big smiles all round. I had vowed that I could only enter the London Marathon if I completed this by running the whole way, and managed this with now problems. So next stop April 22nd for me! I do have to get a place, but hopefully I will be successful with the ballot, otherwise I may be able to get a charity place with VSO.

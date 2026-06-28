@@ -9,25 +9,19 @@ Nighttime Worry
 
 Due to the fact that the phone line was so bad to Russ all we could do was hang up and try and ring him again, finally after five minutes of trying we got through. From what we could find out from Russ his crash had been bad enough to damage the bike and him, but not enough to stop him continuing onto the lake. He said he had some cuts to his hands, what felt like ligament damage to his shoulder and some superficial damage to the bike. We couldn't persuade him not to camp the night and wait for us and so could only try to go back to sleep whilst hoping and praying that he would arrive safely. We normally sleep right through the night in the roof tent, but both of us had a very fitful sleep that night, worrying about Russ's progress. Eventually, at 5am, and with the village surrounding us breaking into full life, we decided it was light enough for us to try and catch up with Russ. We had heard that road works would close the road from 7am, so there was a chance we would get there in time, but our main hope was that as it was Sunday there would be no road works. Tajikistan is an Islamic nation, so we weren't really sure how the weekend would be observed. In Iran the country had a mixture of Friday, Saturday and occasionally Sunday off for the weekend. All we could do was drive and see.
 
-*(photo coming soon: Tajik Traffic Jam.JPG)*
-
 As we drove the road towards the lake it took no time at all to realise we had made the right decision to stop the night before and we thought we understood why Russ had crashed. We did, however, find out later that Russ had crashed on perfect tarmac, having been run off the road by a lorry. But the state of the road we were driving upon meant we had no chance whatsoever of catching the road works before the roads were closed until 7pm. Finally about 8am we arrived in the town of Aini to find a queue of traffic already started, and hence we had no option but to wait. we did try persuading the road crew that we were on a mercy mission, but because they only spoke Chinese and we only knew the words for hello and thank you in their language, we didn't get very far. So we began the 12 hour wait spending a lot the time in the cool rooftent. By this point we had heard from Russ and knew he had arrived at the lake in (just about) one piece, and was with our friends Herbert, Eva and the crazy French. We could stop worrying about Russ and start worrying about ourselves. The next part of our drive to the lake could only start at 7pm, with darkness being complete by 9pm, but was a 3 hour journey. We either had to camp another night or drive an hour or so in the dark. We talked and talked, and so keen were we to see Russ we decided to go for it, driving with spotlights on and at a snails pace. By 11pm we had finally caught up with Russ, over 24 hours since we had last seen him, and could find out the full story of his adventure.
 
 Lake Iskander kul
 
-[*(photo coming soon: Russes Bike.JPG)*](../Images/TRIP/export/Big Bike.JPG)
+[](../Images/TRIP/export/Big Bike.JPG)
 
 We found out that as Russ was driving to the lake a lorry had run him off the road, pushing him onto a pile of earth or sand that caused his bike to flip over, smashing his windscreen, ripping his wing mirrors of and smashing his lights, on top of lots of scratches and scrapes. Russ, himself was just glad not to have any major damage, although he knew he would have to take some time off to recuperate. So, it was decided that we would spend about 5 days down by the lake, reading, chilling, walking and cooking. No problem for us!
 
 Lake Iskander Kul is a beautiful, almost freezing cold lake, fed by torrents of melted glacial water, and surrounded by majestic mountains on every side and with a furry cover of trees on the shores. Although chalets had been built we were either off season, or because it was now the week found it at a quiet time. Although we were joined most days by some local Tajiks, who would play local music at full blast from their cars and try and persuade us to drink vodka from 9 in the morning. In fact at one time the car battery ran out, and they asked for a bump start, which we obliged, only for them to return to the spot and turn the music up louder. Oh well, it was a 90% paradise and, of course, we were in their country.
 
-*(photo coming soon: Iskanderkul.JPG)*
-
 The five days passed quickly, in a haze of good food, good company and bad alcohol. The highlight being when the Russian television station, Mir, turned up to make a film about wildlife, and were apparently very impressed by the tourist wildlife they found. They spent several hours filming our camp and arranged an evening of entertainment, including local musicians and a large campfire for dancing around, accompanied by vodka, and all filmed for the program they were making. This, incidentally, will go out to the whole ex Soviet Union. As usual we were asked to sing, and only Ollie was brave enough to entertain the locals, with a truly tradition Cornish song, Camborne Hill. Later in the evening Ollie also introduced the Russians to the local Cornish tradition of downing a vodka, and when finished balancing the glass on your head, whilst the next person in the circle does the same. Lets hope no cross referencing of facts is made!
 
 It should be pointed out at this stage that this was by no means a one man show, and Jenny, unusually was seen for most of the night hogging the dance floor, giving Russian Polka lessons.
-
-*(photo coming soon: Polka.JPG)*
 
 Tajikistan Roads
 
@@ -39,15 +33,11 @@ Eventually we got to Dushambe, having negotiated the roads with the smiles still
 
 Whilst we were in Dushambe we came across a VSO office, and although we paid a visit, it was a Sunday (see above) and hence closed. We left a calling card and moved on.
 
-*(photo coming soon: VSO.JPG)*
-
 Pamir Highway
 
 One of our dreams before we started the trip was to drive the legendary Pamir highway, an ex-army supply road that is open year round, and has passes over 4600m. The road circles the Pamir mountains and is now a vital supply link for the GBAO area of Tajikistan, which is one of the poorest areas in the world by some measures. To enter this area your need to ensure that you have an additional permit with the Tajik visa, which can be applied for in the UK or in Dushambe.
 
 The Pamir highway is a beautiful, amazing paved road, and the spartan area really has to be visited to be understood. Saying this, we found that the southern road to the start of the highway, including the Wakhan corridor, was the real highlight. If you are considering following in our footsteps then consider the road from Dushambe to Khorag, which follows the Afghan border a lot of the way. The drive to Khorag was originally set to take us two days, but due to constant landslides and dynamiting took an extra day of spine jarring driving. On this road we encountered our first big river crossings, including one river which was actually a waterfall, as well as being first in the queue for a recent landslide. As usual Dino handled everything that was thrown at him, and we were certainly glad to have gone with a 4wd.
-
-*(photo coming soon: Exploded Road.JPG)*
 
 The road that we were first to cross after landscaping following a landslide
 
@@ -57,15 +47,13 @@ Also on the way to the highway we stopped at Ishkashim, which is a small town bo
 
 The market itself sold nothing special, but the mix of people attending and selling made people watching a must, and also interaction a little more interesting than normal. All we bought was an ice cream, some onions and a woolly hat for baby Jessica, but we managed to spend an hour or so dreaming of what Afghanistan must be like. One day maybe?
 
-*(photo coming soon: Afghan market.JPG)*
-
 After Ishkashim we made our way along the beautiful Wakhan corridor, stopping every five minutes to admire the non stop overwhelming beauty. By this point we had also picked up a Canadian backpacker, Joe, who was traveling most of the way we were, after he had been quoted $250 for a ride in a hired car for a two day journey, he decided a couple of days in the back of Dino would do him just fine. Sensible fellow. Not only was Joe good company, but he also had some top notch information, regarding a traditional horse festival being held just inside Kyrgyzstan, at the base camp for mount Lenin on the 1st of August. This was perfect timing for us and we knew we had to go.
 
-[*(photo coming soon: high road.JPG)*](../Images/TRIP/export/high road.JPG)
+[](../Images/TRIP/export/high road.JPG)
 
 But by this time Jenny had started to feel really unwell, and just as we were all planning on heading to the festival together we realised we should take Jenny to a doctor. The only problem was we had just arrived to the Pamir highway proper and were in a fairly remote village. Luckily the woman owner of the homestay we were in spoke good English and helped us take Jenny to the local doctor, currently living in his summer abode - a yurt. Our main worry at this point was the the approximate 4000m altitude had given Jenny altitude sickness, especially as she was suffering a blinding headache. We had already fed her with one of the tablets that Ollie's sister, Vicky had provided, but with no visible signs of helping.
 
-[*(photo coming soon: yurt doc.JPG)*](../Images/TRIP/export/yurt doc.JPG)
+[](../Images/TRIP/export/yurt doc.JPG)
 
 The doctor seemed very professional, and could tell straight away that Jenny had a stomach bug rather that altitude sickness, and said he had just the cure with him. Yogurt! No surprise there. Anyway, this put Jenny's mind at ease and we returned to the homestay to try and sleep off the problem. Unfortunately Jenny's night was punctuated with lots of visits to the shared village loo, and we decided that night to leave the Pamirs that night, and head to Osh, 500kms away. Before we left the village nurse turned up and gave Jenny one further cure, garlic bandaged to her head. We were now ready to leave.
 

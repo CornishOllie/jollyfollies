@@ -5,7 +5,7 @@ order: 17
 original_url: 'http://www.jollyfollies.com/Diary/017_crumpled.html'
 ---
 
-[*(photo coming soon: broken_car-707284.JPG)*](../blog/uploaded_images/broken_car-710760.JPG)**Oops ...**
+[](../blog/uploaded_images/broken_car-710760.JPG)**Oops ...**
 
 ****
 

@@ -17,27 +17,15 @@ The next day we went to visit the cave which was a good little tour - and very p
 
  
 
-*(photo coming soon: P1000408.JPG)*
-
-*(photo coming soon: P1000416.JPG)*
-
 Lake Lesu
 
 The rest of that day was spent driving - but oh what a drive! We looked on our main European road atlas and decided to follow a numbered road up to a Dutch campsite that we were certain existed. It all looked good - we saw the road sign saying 48km to our destination and duly turned off thinking we would make it with plenty of time to kick back and relax.. hahahahah! The road was a classic mix of steep drops, hair-pin bends, no passing points and ruts the size of a small lake. Add fearless truck drivers to the mix and you've got the picture - it was great fun! After a few hours we decided that we really didn't want to be driving this road in the dark and so looked out for a place to wild camp. It didn't take long until we were stopped in an amazing location right next to a lake with a fire going (it seems that all Romanians light a fire when they have a picnic!) and BBQ in preparation...
 
-*(photo coming soon: P1000438.JPG)*
-
 We couldn't let the opportunity of using the canoe go by, so the next morning we woke up early and dragged out the boat onto the crystal clear waters of the lake....
-
-*(photo coming soon: DSCF6005.JPG)*
-
-*(photo coming soon: DSCF6011.JPG)*
 
 For those in NZ - Jenny did not have to drag Sultan Ollie out this time!!!
 
 All that frantic paddling meant that we had to have a hearty breakfast and so lit another fire for a quick fry-up!
-
-*(photo coming soon: DSCF6018.JPG)*
 
  
 
@@ -47,15 +35,9 @@ Our next stay was at a fantastic little campsite with a very arty and homely fee
 
  
 
-*(photo coming soon: P1000452.JPG)*
-
 It was also here that we started our chess championship, albeit slightly onesided as several pieces were missing and several others had had so much homebrew their feet were missing! That said, Jenny still won a resounding victory ;)
 
-*(photo coming soon: P1000458.JPG)*
-
 And for Julia... the cat of the day is Thomasz the crisp eating cat who befriended us and our food for the duration of our stay... and "protected" us from the many other cats that threatened our peace!
-
-*(photo coming soon: P1000457.JPG)*
 
  
 
@@ -65,25 +47,11 @@ Now then, this was all the prelude to the main event of Romania and the reason w
 
 2) Looking around Mr P's small holding as a prelude to getting verrrry verrry drunk on his home grown Polinka (sp again?!) (very strong plum based alcohol) and home made wine. The tradition seems to be that there can't be any more than a 1mm gap at the top of your Polinka glass, if there is it will immediately be topped up. At any point in time Mr. P could command us all to down in one - at which point it would be rude not to!!! Ollie, always the conciencous one, started to struggle with the tradition after about 6 glasses, Jenny started going cross-eyed at 3 glasses and Laura rescued Paul's honour by downing his last glass before moving on to the wine. Boy did the wine taste good after that!!!
 
-*(photo coming soon: P1000533.JPG)*
-
-*(photo coming soon: P1000537.JPG)*
-
-*(photo coming soon: P1000538.JPG)*
-
 3) Taking Dino along some great green lanes in the Transylvanian mountains and reminding ourselves how to winch!
-
-*(photo coming soon: DSC00772.JPG)*
 
 4) Spending the night in a bear-hide with Strider the Ranger (ok, his name was Andres but he was Strider to us!!!). This really was an incredible experience. We got the go-ahead from the ranger at the very last minute so after some crazy rushing around we were collecting Strider from his house and on our way back up the mountain to the bear hide with sleeping bags, flasks and wide eyes It was going to be a full moon.....wooooooo!.
 
-*(photo coming soon: DSC00841.JPG)*
-
 Paul tried to limit our expectations by saying that it's the wrong time to be seeing bears and there had been some heavy logging in the area so we were unlikely to have too much luck. A few hours later we were sat silently in the hide watching wild boar chase each other in circles right in front of us. A few hours later we saw our first bear - a young one - and then the bear legged it... chased off by the same band of boar ... who'd have thought it. To top it all off, a bigger bear and a fox showed up after this: all in all a very good result! Most of the action happened in the pitch black so this is the only photo we have (it wasn't a dream..honest!).. A huge thanks has to go to Strider for showing us the madness of the Transylvanian forest!
-
-*(photo coming soon: DSC00827.JPG)*
-
-*(photo coming soon: P1000479.JPG)*
 
 So, that was that. It really was good fun but also time to go. Massive thanks to Laura for looking after us and feeding us so well; even creating a wonderful veggie dish out of no-where, and for being the translator throughout the night of the thousand drinks! Thanks to Paul for re-routing us to Romania for what we are sure will be one of the highlights of our strip. Finally, thanks to Dave for getting Dino back on the straight and narrow and assuring us that he will make it!!!
 

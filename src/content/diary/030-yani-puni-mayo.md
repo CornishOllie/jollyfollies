@@ -9,8 +9,6 @@ original_url: 'http://www.jollyfollies.com/Diary/030_yani_puni_mayo.html'
 
 Our classroom buddies
 
-*(photo coming soon: classroom-739463.jpg)*
-
 Well we are now six whole weeks into our Russian lessons, and finally they are feeling less like slow torture and more like fun! It has been a real experience to throw ourselves into learning Russian, and the first few weeks were real hard work. Because there is only one two hour lesson each week we cannot afford to take our time and are having to dig deep into our mental reserves (Jenny says she has some of these). So within ten minutes of our first lesson we were reading Russian, in the full [Cyrillic Alphabet](http://en.wikipedia.org/wiki/Cyrillic_alphabet). Each lesson is a challenge that needs not only 100% attention at the time, but a further 4 or 5 hours hard work afterwards. But now we are starting to feel the benefit of the initial effort.
 
 Because the course is run at Southampton University we have coursework and even an exam! The first piece of coursework has been completed and we will be receiving our next one on Wednesday. Although the course is very time consuming and hard work we would recommend doing it to anyone, especially those contemplating going traveling through foreign lands. We will certainly be signing up for the 2nd course which begins in February.
@@ -18,8 +16,6 @@ Because the course is run at Southampton University we have coursework and even 
 The other advantage of the course being at the University is we now both have student unions cards, which give us lots of discounts, including a years gym membership for £85!
 
 Our teacher - Olga
-
-*(photo coming soon: Olga-749899.jpg)*
 
 **
 
