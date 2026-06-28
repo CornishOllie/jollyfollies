@@ -6,7 +6,10 @@ import sitemap from '@astrojs/sitemap';
 //   site: 'https://<user>.github.io', base: '/jollyfollies'
 // For a custom domain (jollyfollies.com) use the bare domain and drop `base`.
 export default defineConfig({
-  site: 'https://jollyfollies.com',
+  // GitHub Pages project site. When the custom domain is registered, switch to
+  // site: 'https://jollyfollies.com' and remove `base` (+ add public/CNAME).
+  site: 'https://cornishollie.github.io',
+  base: '/jollyfollies',
   integrations: [sitemap()],
   build: { format: 'directory' },
 });

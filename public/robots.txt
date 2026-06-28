@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jollyfollies.com/sitemap-index.xml
+Sitemap: https://cornishollie.github.io/jollyfollies/sitemap-index.xml

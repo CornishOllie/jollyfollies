@@ -12,7 +12,7 @@ export async function GET(context) {
     items: entries.map((e) => ({
       title: e.data.title,
       pubDate: e.data.date,
-      link: `/diary/${e.slug.replace(/^\d+-/, '')}/`,
+      link: `${import.meta.env.BASE_URL.replace(/\/$/, '')}/diary/${e.slug.replace(/^\d+-/, '')}/`,
     })),
     customData: `<language>en-gb</language>`,
   });
