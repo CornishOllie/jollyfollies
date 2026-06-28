@@ -10,7 +10,7 @@ const diary = await getDiary();
 const coverFor = {};
 for (const a of galleries.albums) {
   if (a.entry_clean && a.photos.length && !coverFor[a.entry_clean]) {
-    coverFor[a.entry_clean] = a.photos[0].thumb;
+    coverFor[a.entry_clean] = a.photos[Math.floor(a.photos.length/2)].thumb;
   }
 }
 

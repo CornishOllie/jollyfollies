@@ -1,0 +1,21 @@
+{
+  "_comment": "Curated leg -> diary entry mapping (by geography). Edit freely; build_galleries.py prefers these over the automatic date/keyword guess. Key = album slug, value = entry clean-slug (no number prefix).",
+  "cornwall-colditz": "camping-in-colditz",
+  "colditz-wraclaw": "poland",
+  "krakow-to-zakopane": "poland",
+  "balaton-to-gilau": "mooching-in-magyar",
+  "gilau-to-istanbul": "roaming-in-romania",
+  "istanbul-to-doggiebiscuit": "asian-dreams",
+  "doggiebiscuit-to-yazd": "vive-la-revolution",
+  "yazd-to-baku": "iran-in-a-sack",
+  "baku-to-khiva": "drying-out",
+  "khiva-to-dushanbe": "quick-catch-upt",
+  "dushambe-to-osh": "mountain-madness-part-1",
+  "around-osh": "mountain-madness-part-2",
+  "bishkek-to-pasu-pakistan": "crazy-china",
+  "passu-to-gilget": "pakistani-smiles",
+  "gilget-to-islamabad": "on-the-road-expenses",
+  "islamabad-to-mumbai": "hindustan-zindabad",
+  "goa": "sprint-to-goa",
+  "jogle-2008": "john-o-groats-to-lands-end-charity"
+}

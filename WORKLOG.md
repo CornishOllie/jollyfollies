@@ -18,3 +18,5 @@ Working through loops to make this the most complete version possible while Olli
 - **L8 — polish**: per-entry OpenGraph image (the leg cover) with base-path-correct URLs; reading-time on entries; verified light/dark end-to-end (red-diagnostic confirmed nav + body both follow tokens).
 - **L9 — DEPLOYED LIVE**: site is live at https://cornishollie.github.io/jollyfollies/ . Pushed source to main (CornishOllie/jollyfollies), deployed built site to gh-pages branch (workflow scope unavailable to the local token, so CI workflow is parked in deploy/ for later). `npm run deploy` redeploys. All pages + assets verified 200.
 - **L10 — live QA**: verified gallery (thumbnails load over base path), search (index fetch + highlight), route, about, RSS, sitemap all working on the live URL. Site complete and live.
+- **L11 — accurate mapping**: curated leg→entry overrides (manifest/album-entry-overrides.json) so each leg sits on the entry that narrates it (Pamir→mountain-madness, Hungary→magyar, India→hindustan-zindabad, JOGLE→its entry). Diary covers now use a mid-album (more scenic) photo.
+- **L12 — JOGLE facts**: added the recovered daily-run route to the JOGLE page.

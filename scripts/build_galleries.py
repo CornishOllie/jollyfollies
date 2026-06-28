@@ -81,6 +81,19 @@ def main():
     index = json.load(open(INDEX))
     entries = load_entries()
 
+    # curated leg -> entry overrides (clean-slug values); resolve to full slug
+    overrides = {}
+    ovr_path = "manifest/album-entry-overrides.json"
+    if os.path.exists(ovr_path):
+        clean_to_full = {e["clean"]: slug for slug, e in entries.items()}
+        for k, v in json.load(open(ovr_path)).items():
+            if k.startswith("_"):
+                continue
+            if v in clean_to_full:
+                overrides[k] = clean_to_full[v]
+            elif v in entries:
+                overrides[k] = v
+
     by_album = {}
     for r in index:
         by_album.setdefault(r["album"], []).append(r)
@@ -107,7 +120,7 @@ def main():
                 })
                 total += 1
         dates = [p["date"] for p in items]
-        mapped = map_album_to_entry(album, dates, entries)
+        mapped = overrides.get(aslug) or map_album_to_entry(album, dates, entries)
         album_entry[aslug] = mapped
         albums_out.append({
             "name": album,
