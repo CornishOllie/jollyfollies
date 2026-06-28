@@ -1,49 +1,143 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import galleries from '../data/galleries.json';
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
-// The leg structure recovered from the original site, west to east.
-const legs = [
-  { region: 'Britain', emoji: '🇬🇧', places: ['Land\'s End', 'Cornwall', 'the long way to the ferry'] },
-  { region: 'Northern Europe', emoji: '⛴️', places: ['Holland', 'Sweden', 'Finland'] },
-  { region: 'The Baltics', emoji: '🧭', places: ['Estonia', 'Latvia'] },
-  { region: 'Russia & Central Asia', emoji: '🏔️', places: ['Russia', 'the ’stans', 'mountain passes'] },
-  { region: 'South East Asia', emoji: '🌴', places: ['overland through the heat', 'border after border'] },
-  { region: 'Australia', emoji: '🇦🇺', places: ['shipped across', 'and on to Sydney'] },
+// Waypoints along the drive (approx lat/lng), west to east in travel order.
+const waypoints = [
+  { name: "Land's End", lat: 50.07, lng: -5.71, label: true },
+  { name: 'Germany', lat: 51.13, lng: 12.80 },
+  { name: 'Kraków', lat: 50.06, lng: 19.94, label: true },
+  { name: 'Hungary', lat: 46.83, lng: 17.73 },
+  { name: 'Romania', lat: 46.74, lng: 23.37 },
+  { name: 'Istanbul', lat: 41.01, lng: 28.98, label: true },
+  { name: 'Iran', lat: 35.70, lng: 51.42, label: true },
+  { name: 'Yazd', lat: 31.90, lng: 54.37 },
+  { name: 'Baku', lat: 40.41, lng: 49.87 },
+  { name: 'Khiva', lat: 41.38, lng: 60.36 },
+  { name: 'Dushanbe', lat: 38.56, lng: 68.79 },
+  { name: 'Osh', lat: 40.53, lng: 72.80 },
+  { name: 'Bishkek', lat: 42.87, lng: 74.59, label: true },
+  { name: 'Karakoram', lat: 36.46, lng: 74.87, label: true },
+  { name: 'Islamabad', lat: 33.68, lng: 73.05 },
+  { name: 'Mumbai', lat: 19.08, lng: 72.88, label: true },
+  { name: 'Goa', lat: 15.30, lng: 74.12, label: true },
+];
+
+// equirectangular projection into a padded viewBox
+const W = 1000, H = 560, pad = 70;
+const lngs = waypoints.map(w => w.lng), lats = waypoints.map(w => w.lat);
+const minLng = Math.min(...lngs), maxLng = Math.max(...lngs);
+const minLat = Math.min(...lats), maxLat = Math.max(...lats);
+const px = (lng) => pad + (lng - minLng) / (maxLng - minLng) * (W - 2 * pad);
+const py = (lat) => pad + (maxLat - lat) / (maxLat - minLat) * (H - 2 * pad);
+const pts = waypoints.map(w => ({ ...w, x: +px(w.lng).toFixed(1), y: +py(w.lat).toFixed(1) }));
+const pathD = pts.map((p, i) => `${i ? 'L' : 'M'}${p.x} ${p.y}`).join(' ');
+
+// the journey legs from the photo albums (exclude home prep + JOGLE)
+const legs = galleries.albums
+  .filter(a => a.start && a.start >= '2009-04-10' && !/jogle|welding|marchwood|boot/i.test(a.name))
+  .sort((a, b) => (a.start || '').localeCompare(b.start || ''));
+
+const fmt = (d) => d ? new Intl.DateTimeFormat('en-GB', { day: 'numeric', month: 'short', year: 'numeric' }).format(new Date(d)) : '';
+const totalPhotos = galleries.albums.reduce((n, a) => n + a.count, 0);
+const start = new Date('2009-04-13'), lastPhoto = new Date('2009-11-02');
+const daysToIndia = Math.round((lastPhoto - start) / 86400000);
+
+const stats = [
+  { n: '13 Apr 2009', l: 'left Land\'s End' },
+  { n: '20+', l: 'countries crossed' },
+  { n: daysToIndia + '+', l: 'days to reach India' },
+  { n: totalPhotos.toLocaleString(), l: 'photos recovered' },
+  { n: '1', l: 'Land Rover, called DINO' },
 ];
 ---
-<BaseLayout title="The Route" description="The overland route from Land's End to Sydney, country by country.">
+<BaseLayout title="The Route" description="The overland route from Land's End to Sydney, country by country, mapped and dated.">
   <section>
     <div class="wrap">
       <div class="section-head flow">
         <p class="eyebrow">The Route</p>
         <h1>Land's End to Sydney, the long way round</h1>
         <p class="lede">
-          The plan was simple to say and hard to do: point east and keep going until the road ran out
-          at the far side of Australia. Here is the shape of it, west to east.
+          Point east and keep going until the road runs out at the far side of the world. Here is the
+          shape of it: across Europe, through Turkey and Iran, over the roof of Central Asia and down
+          the Karakoram into India.
         </p>
       </div>
 
-      <ol style="list-style:none;padding:0;display:grid;gap:1rem;counter-reset:leg;">
-        {legs.map((leg) => (
-          <li class="panel" style="display:flex;gap:1rem;align-items:flex-start;">
-            <span style="font-size:1.8rem;line-height:1;">{leg.emoji}</span>
-            <div>
-              <h3 style="margin:.1rem 0 .3rem;">{leg.region}</h3>
-              <p style="margin:0;color:var(--ink-soft);">{leg.places.join(' · ')}</p>
-            </div>
-          </li>
-        ))}
-      </ol>
+      <div class="route-map">
+        <svg viewBox={`0 0 ${W} ${H}`} role="img" aria-label="Map of the overland route from Land's End to India">
+          <defs>
+            <linearGradient id="routeline" x1="0" y1="0" x2="1" y2="1">
+              <stop offset="0%" stop-color="var(--sun-coral)" />
+              <stop offset="100%" stop-color="var(--dino-blue)" />
+            </linearGradient>
+          </defs>
+          {Array.from({ length: 9 }, (_, i) => (
+            <line x1={pad + i * (W - 2 * pad) / 8} y1={pad - 20} x2={pad + i * (W - 2 * pad) / 8} y2={H - pad + 20} class="grat" />
+          ))}
+          {Array.from({ length: 6 }, (_, i) => (
+            <line x1={pad - 30} y1={pad + i * (H - 2 * pad) / 5} x2={W - pad + 30} y2={pad + i * (H - 2 * pad) / 5} class="grat" />
+          ))}
+          <path d={pathD} class="route-path" />
+          {pts.map((p) => (
+            <g>
+              <circle cx={p.x} cy={p.y} r={p.label ? 7 : 4.5} class="wp" />
+              {p.label && <text x={p.x} y={p.y - 14} class="wp-label" text-anchor="middle">{p.name}</text>}
+            </g>
+          ))}
+        </svg>
+        <p class="map-note">Approximate route. Distances are not to scale.</p>
+      </div>
 
-      <div class="panel sun flow" style="margin-top:2rem;max-width:var(--measure);">
-        <h3 style="color:var(--navy-deep);margin-top:0;">A proper map is coming</h3>
-        <p style="margin-bottom:0;">
-          An interactive route map with the real campsites and crossings will live here once the
-          photo and GPS export is in. For now, the day-by-day is all in the diary.
-        </p>
-        <p style="margin:.6rem 0 0;"><a class="btn" href={base + '/diary/'}>Follow it in the diary →</a></p>
+      <div class="stats">
+        {stats.map((s) => (
+          <div class="stat"><span class="stat-n">{s.n}</span><span class="stat-l">{s.l}</span></div>
+        ))}
       </div>
     </div>
   </section>
+
+  <section style="background: var(--paper-2);">
+    <div class="wrap">
+      <div class="section-head flow"><h2>The journey, leg by leg</h2>
+        <p class="lede">Each leg as it was driven, with the photos taken along the way.</p></div>
+      <ol class="legs">
+        {legs.map((leg) => (
+          <li class="leg-row">
+            {leg.photos[0] && <img src={base + leg.photos[0].thumb} alt="" class="leg-thumb" loading="lazy" />}
+            <div class="leg-info">
+              <h3>{leg.name}</h3>
+              <p class="leg-dates">{fmt(leg.start)}{leg.end && leg.end !== leg.start ? ` – ${fmt(leg.end)}` : ''} · {leg.count} photos</p>
+            </div>
+            <a class="leg-link" href={`${base}/gallery/#${leg.slug}`} aria-label={`View ${leg.name} photos`}>→</a>
+          </li>
+        ))}
+      </ol>
+    </div>
+  </section>
 </BaseLayout>
+
+<style>
+  .route-map { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 1rem; box-shadow: var(--shadow); overflow-x: auto; }
+  .route-map svg { width: 100%; height: auto; min-width: 640px; }
+  .grat { stroke: var(--line); stroke-width: 1; }
+  .route-path { fill: none; stroke: url(#routeline); stroke-width: 3.5; stroke-dasharray: 2 9; stroke-linecap: round; }
+  .wp { fill: var(--sun-coral); stroke: var(--card); stroke-width: 2; }
+  .wp-label { fill: var(--navy); font-family: var(--serif-display); font-size: 19px; font-weight: 600; }
+  .map-note { text-align: right; color: var(--ink-soft); font-size: .78rem; margin: .4rem .2rem 0; }
+
+  .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 1rem; margin-top: 2rem; }
+  .stat { text-align: center; background: var(--mint-soft); border: 1px solid var(--mint-line); border-radius: var(--radius); padding: 1.2rem .8rem; }
+  .stat-n { display: block; font-family: var(--serif-display); font-size: 1.6rem; font-weight: 600; color: var(--navy); line-height: 1.1; }
+  .stat-l { display: block; margin-top: .3rem; font-size: .82rem; color: var(--ink-soft); }
+
+  .legs { list-style: none; padding: 0; margin: 0; display: grid; gap: .7rem; }
+  .leg-row { display: flex; align-items: center; gap: 1rem; background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: .6rem .8rem; box-shadow: var(--shadow); }
+  .leg-thumb { width: 84px; height: 64px; object-fit: cover; border-radius: var(--radius-sm); flex-shrink: 0; }
+  .leg-info { flex: 1; min-width: 0; }
+  .leg-info h3 { margin: 0; font-size: 1.1rem; }
+  .leg-dates { margin: .15rem 0 0; color: var(--ink-soft); font-size: .85rem; font-family: var(--serif-display); }
+  .leg-link { font-size: 1.4rem; text-decoration: none; color: var(--dino-blue); padding: .3rem .6rem; }
+  .leg-link:hover { color: var(--sun-coral); }
+</style>
