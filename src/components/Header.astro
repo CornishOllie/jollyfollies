@@ -21,7 +21,7 @@ const here = (href: string) => {
 ---
 <header class="site-header">
   {isHome && (
-    <div class="hero">
+    <div class="hero" style={`--hero-img: url('${base}/images/hero-valley.jpg')`}>
       <div class="wrap hero-inner">
         <DefenderLogo class="hero-defender" />
         <h1 class="wordmark">Jolly Follies</h1>
@@ -32,6 +32,7 @@ const here = (href: string) => {
           <span>💛 Driven for VSO</span>
         </div>
       </div>
+      <span class="hero-credit">On the road through Kyrgyzstan</span>
     </div>
   )}
   <nav class="nav-bar" aria-label="Primary">

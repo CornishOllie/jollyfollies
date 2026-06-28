@@ -1,6 +1,8 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import DefenderLogo from '../components/DefenderLogo.astro';
+import PhotoGallery from '../components/PhotoGallery.astro';
+import galleries from '../data/galleries.json';
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
 const specs = [
@@ -8,14 +10,18 @@ const specs = [
   ['Engine', '200Tdi diesel'],
   ['Name', 'DINO'],
   ['Motto', '“One life, live it”'],
+  ['Tyres', 'BFG ATs, going tubeless, two spares'],
   ['Job', 'Carry two people and everything they own to Australia'],
 ];
-const builds = [
-  { t: 'The roof rack', d: 'Home for the spares, the fuel and anything that would not fit inside.' },
-  { t: 'Awning', d: 'Shade and shelter for the long stops.' },
-  { t: 'Security hasps', d: 'Home-made locks to keep DINO shut tight on the road.' },
-  { t: 'Tyres', d: 'The choice that matters most when the tarmac runs out.' },
+
+// verbatim build notes recovered from the original site
+const notes = [
+  { t: 'Tyres', d: `Endless debate on tyres, and from what we can see it would be a choice between tubed and tubeless, All Terrain (AT) or Mud Terrain (MT). We currently have BFG ATs on the back and a couple of Pirellis on the front. These have plenty enough wear to last until we leave, but before we go we will replace them with either all BFGs or Michelin XZYs. Ollie has already bought six 2nd hand XZYs to play with. One thing we have decided upon is going tubeless. These seem to cause less issues, and can even take a tube in an emergency. We will be carry two spares, one on the back and one on the roof, so hopefully shouldn't have too many issues.` },
+  { t: 'Awning', d: `The awning is home made and works a treat. To pack and unpack it takes Ollie about the same amount of time as Jenny takes with the rooftent, perhaps 5 minutes. That means that with the correct motivation (rain!) camp can be made, with the kettle boiling, within five minutes of arrival. Usually there is plenty of essential faffing that must be done first. The awning is water proof and thus works equally well in protecting from sun as rain. It stores rolled up attached to the length of the vehicle.` },
+  { t: 'Hasps and locks', d: `We love locks! Well we certainly hope they will keep us happy on our long trip, and hence have had these hasps and locks added to our other security set up. You can actually see the other two locks as well. We hope that as well as acting as good security they also act as a deterrent as well. Note we had to use the long neck padlocks to fit through the hasps.` },
 ];
+
+const prep = galleries.albums.find((a) => /lee welding/i.test(a.name));
 ---
 <BaseLayout title="DINO, the Defender" description="DINO, the 1990s Land Rover Defender 110 200Tdi that drove from Land's End to Sydney, and how he was built for it.">
   <section>
@@ -29,11 +35,12 @@ const builds = [
         </p>
         <p>
           Most of the build happened on driveways and in spare evenings before we left. DINO was never
-          shiny, but he was ready, and he carried us the whole way.
+          shiny, but he was ready, and he carried us the whole way. The notes below are exactly as we
+          wrote them at the time.
         </p>
       </div>
       <div class="center">
-        <DefenderLogo class="hero-defender" />
+        <div style="color:var(--dino-blue)"><DefenderLogo class="hero-defender" /></div>
         <img src={base + '/images/dino-side.gif'} alt="DINO loaded and ready" style="margin-top:1rem;border-radius:var(--radius);" loading="lazy" />
       </div>
     </div>
@@ -49,17 +56,34 @@ const builds = [
       </div>
 
       <h2 style="margin-top:2.5rem;">How he was built</h2>
-      <div class="card-grid">
-        {builds.map((b) => (
-          <article class="card"><div class="card-body">
-            <h3 class="card-title">{b.t}</h3>
-            <p class="card-excerpt">{b.d}</p>
-          </div></article>
+      <div class="notes">
+        {notes.map((n) => (
+          <article class="note prose">
+            <h3>{n.t}</h3>
+            <p>{n.d}</p>
+          </article>
         ))}
       </div>
-      <p style="margin-top:1.4rem;color:var(--ink-soft);">
-        The full build notes and photos from the original guide will be restored here as the archive is tidied.
-      </p>
     </div>
   </section>
+
+  {prep && (
+    <section>
+      <div class="wrap">
+        <h2>Getting DINO ready</h2>
+        <p style="margin:0 0 .4rem;color:var(--ink-soft);font-family:var(--serif-display);font-size:.9rem;">
+          {prep.count} photos from the welding and the shake-down · <a href={`${base}/gallery/#${prep.slug}`}>see more in the gallery →</a>
+        </p>
+        <PhotoGallery photos={prep.photos.slice(0, 12)} />
+      </div>
+    </section>
+  )}
 </BaseLayout>
+
+<style>
+  .notes { display: grid; gap: 1.5rem; }
+  @media (min-width: 760px) { .notes { grid-template-columns: repeat(2, 1fr); } }
+  .note { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 1.2rem 1.4rem; box-shadow: var(--shadow); max-width: none; }
+  .note h3 { margin: 0 0 .4rem; }
+  .note p { font-size: .96rem; margin: 0; }
+</style>

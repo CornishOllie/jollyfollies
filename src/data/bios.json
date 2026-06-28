@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Ollie",
+    "intro": "Ollie grew up in the small town of St Just, in West Cornwall. Age 19 and half broken he left to study astrophysics at Newcastle University. Five years and 2 universities later he managed to escape with a 2:2 in Maths. After a few more years of finding himself (he was in a bar!) Ollie enrolled with a company promising four months of training in Cape Town. For Ollie this is when things started going right .......",
+    "qa": [
+      {
+        "q": "Why do you want to go on the trip?",
+        "a": "Having always had rather straight forward targets in life I came to the stage when all these had been reached. I found myself working every day with no real goal at the end of it. Suddenly it dawned on me that it didn't have to be like this. Ticking away in the back of my mind I had always wanted an adventure. At the same time I am a big chicken, and so my natural fear had always won. But now that is surpressed and I'm ready to rock and roll!"
+      },
+      {
+        "q": "What are you most looking forward to?",
+        "a": "Waking up in a roof tent in the middle of nowhere, with my own angenda ahead of me."
+      },
+      {
+        "q": "What will you miss from home?",
+        "a": "Cornish pasties, the cats and my friends and family."
+      },
+      {
+        "q": "What will you not miss from home?",
+        "a": "Hangovers!"
+      },
+      {
+        "q": "What are your interests?",
+        "a": "Sport, this trip, weight watching and my friends."
+      },
+      {
+        "q": "What do you fear about the trip?",
+        "a": "Hangovers!"
+      }
+    ]
+  },
+  {
+    "name": "Jenny",
+    "intro": "Growing up in Bishop's Cleeve, Gloucestershire, Jenny has always been more rural than her plummy vowels imply. Having chosen (!!) to attend Sunderland University, Jenny left after a straight forward 3 years with a well earned 2:1. After graduation Jenny signed up for new life and career, starting with a 4 months training course in Cape Town. Waiting for her there was Ollie, and this is where it all started to go wrong",
+    "qa": [
+      {
+        "q": "Why do you want to go on the trip?",
+        "a": "The way I see it I have 3 choices at this point in my life: 1) build a career, 2) have children 3) have an adventure I've already realised that, although money is nice, I'm not exactly a career person. I am not sure about children yet. So, I either carry on plodding along, or I go on an adventure - easy!"
+      },
+      {
+        "q": "What are you most looking forward to?",
+        "a": "The feeling of freedom of camping wherever, whenever"
+      },
+      {
+        "q": "Where are you most looking forward to seeing?",
+        "a": "Mostly the dramatic scenery and things that take us by surprise"
+      },
+      {
+        "q": "What will you miss from home?",
+        "a": "Family, friends, cats and garden..... oh and roasties with Yorkshires"
+      },
+      {
+        "q": "What will you not miss from home?",
+        "a": "Monday mornings"
+      },
+      {
+        "q": "What are your interests?",
+        "a": "Family, friends, cats & garden!"
+      },
+      {
+        "q": "What do you fear about the trip?",
+        "a": "Coming back to Monday mornings"
+      }
+    ]
+  },
+  {
+    "name": "DINO",
+    "intro": "",
+    "qa": [
+      {
+        "q": "Why do you want to go on the trip?",
+        "a": "Ever since returning from South Africa Dino has fancied having another global adventure. Although rumored to be ready for retirement, Dino new that he had at least one more adventure in him. Secretly Dino hopes that Jenny and Ollie will not stop in Australia and continue onto South America. Dino's great ambition is to eventually die on the road, going for the glory of a round the world trip."
+      },
+      {
+        "q": "What are you most looking forward to?",
+        "a": "Helping Jenny balance whilst she uses a SheWee."
+      },
+      {
+        "q": "Where are you most looking forward to seeing?",
+        "a": "Ollie squatting!"
+      },
+      {
+        "q": "What will you miss from home?",
+        "a": "The friendly Freelanders, Discoveries and Range Rovers that Ollie and Jenny have parked me next to in Southampton. Especially the Freelander with the big headlamps and shiny hubs!"
+      },
+      {
+        "q": "What will you not miss from home?",
+        "a": "Dogs cocking their legs."
+      },
+      {
+        "q": "What are your interests?",
+        "a": "Mud, traveling, parking. Getting oiled."
+      },
+      {
+        "q": "What do you fear about the trip?",
+        "a": "Ollie's driving!"
+      }
+    ]
+  }
+]

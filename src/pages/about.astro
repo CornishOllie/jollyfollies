@@ -1,6 +1,13 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import bios from '../data/bios.json';
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+const photo = { Ollie: '/images/ollie.jpg', Jenny: '/images/jenny-in-dino.jpg', DINO: '/images/dino-side.gif' };
+const blurb = {
+  Ollie: 'Ollie', Jenny: 'Jenny',
+  DINO: 'DINO never said much, but he did sit down for an interview.',
+};
 ---
 <BaseLayout title="About us & the trip" description="Who we are, why we drove from Land's End to Sydney, and why it was all for VSO.">
   <section>
@@ -10,30 +17,53 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
         <h1>Two people, one old Defender, and a very long way</h1>
       </div>
 
-      <div class="split">
-        <div class="prose flow">
-          <h2>Who are we?</h2>
-          <p>
-            We have been married for two years, but together for 8, ever since we met in Cape Town
-            (we're both English though). Jenny is an engineer for a broadcast company and has been
-            working in this industry for 7 years. Ollie is a software support engineer, working in
-            telecoms, and has been doing this for eight years now. Ollie is a mad keen sportsman,
-            and plays any sport that his rather large body will allow him. Jenny's main hobby is her
-            garden, which she will sorely miss on leaving the UK.
-          </p>
-          <p style="font-size:.9rem;color:var(--ink-soft);font-style:italic;">
-            (Kept word for word from the original site.)
-          </p>
-        </div>
-        <div class="flow">
-          <img src={base + '/images/ollie-and-dino.jpg'} alt="Ollie with DINO" loading="lazy" />
-          <img src={base + '/images/jenny-in-dino.jpg'} alt="Jenny in the back of DINO" loading="lazy" />
-        </div>
+      <div class="prose flow" style="max-width:var(--measure);">
+        <h2>Who are we?</h2>
+        <p>
+          We have been married for two years, but together for 8, ever since we met in Cape Town
+          (we're both English though). Jenny is an engineer for a broadcast company and has been
+          working in this industry for 7 years. Ollie is a software support engineer, working in
+          telecoms, and has been doing this for eight years now. Ollie is a mad keen sportsman,
+          and plays any sport that his rather large body will allow him. Jenny's main hobby is her
+          garden, which she will sorely miss on leaving the UK.
+        </p>
+        <p style="font-size:.9rem;color:var(--ink-soft);font-style:italic;">Kept word for word from the original site.</p>
       </div>
     </div>
   </section>
 
-  <section id="vso" style="background: var(--paper-2);">
+  <section style="background: var(--paper-2);">
+    <div class="wrap">
+      <div class="section-head flow">
+        <p class="eyebrow">The original cast</p>
+        <h2>Meet the crew</h2>
+        <p class="lede">Back in 2006 we each sat for a little interview. Here they are, untouched.</p>
+      </div>
+
+      <div class="bios">
+        {bios.map((b) => (
+          <article class="bio">
+            <div class="bio-head">
+              <img src={base + photo[b.name]} alt={b.name} class="bio-photo" loading="lazy" />
+              <h3>{b.name}</h3>
+            </div>
+            {b.intro && <p class="bio-intro">{b.intro}</p>}
+            {!b.intro && b.name === 'DINO' && <p class="bio-intro">{blurb.DINO}</p>}
+            <dl class="qa">
+              {b.qa.map((x) => (
+                <div class="qa-row">
+                  <dt>{x.q}</dt>
+                  <dd>{x.a}</dd>
+                </div>
+              ))}
+            </dl>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section id="vso">
     <div class="wrap split rev">
       <div class="prose flow">
         <p class="eyebrow">Why we drove</p>
@@ -56,7 +86,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
     </div>
   </section>
 
-  <section>
+  <section style="background: var(--paper-2);">
     <div class="wrap center flow">
       <h2>Ready for the road?</h2>
       <p class="lede" style="margin-inline:auto;">Start at the beginning, or jump straight to the driving.</p>
@@ -67,3 +97,17 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
     </div>
   </section>
 </BaseLayout>
+
+<style>
+  .bios { display: grid; gap: 1.5rem; }
+  @media (min-width: 900px) { .bios { grid-template-columns: repeat(3, 1fr); align-items: start; } }
+  .bio { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 1.4rem; box-shadow: var(--shadow); }
+  .bio-head { display: flex; gap: 1rem; align-items: center; margin-bottom: .8rem; }
+  .bio-photo { width: 72px; height: 72px; border-radius: 999px; object-fit: cover; flex-shrink: 0; border: 2px solid var(--mint-line); }
+  .bio-head h3 { margin: 0; }
+  .bio-intro { margin: 0 0 1rem; font-size: .9rem; color: var(--ink-soft); padding-bottom: 1rem; border-bottom: 1px solid var(--line); }
+  .qa { margin: 0; }
+  .qa-row + .qa-row { margin-top: .9rem; padding-top: .9rem; border-top: 1px dashed var(--line); }
+  .qa dt { font-family: var(--serif-display); font-weight: 600; color: var(--navy); font-size: .95rem; }
+  .qa dd { margin: .2rem 0 0; font-size: .95rem; color: var(--ink); }
+</style>
