@@ -10,6 +10,7 @@
     "preview": "astro preview",
     "photos": "node scripts/optimize-photos.mjs",
     "convert": "python3 scripts/convert_diary.py",
+    "deploy": "bash scripts/deploy-ghpages.sh",
     "astro": "astro"
   },
   "dependencies": {

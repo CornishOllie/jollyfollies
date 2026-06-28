@@ -16,3 +16,4 @@ Working through loops to make this the most complete version possible while Olli
 - **L6 — Search**: dependency-free client-side diary search (search-index.json endpoint + /search/ page with highlighted snippets) and a ⌕ nav icon.
 - **L7 — marker cleanup**: stripped 233 "(photo coming soon)" markers from 48 entries (per-entry leg galleries now provide the photos); converter updated to drop missing images silently.
 - **L8 — polish**: per-entry OpenGraph image (the leg cover) with base-path-correct URLs; reading-time on entries; verified light/dark end-to-end (red-diagnostic confirmed nav + body both follow tokens).
+- **L9 — DEPLOYED LIVE**: site is live at https://cornishollie.github.io/jollyfollies/ . Pushed source to main (CornishOllie/jollyfollies), deployed built site to gh-pages branch (workflow scope unavailable to the local token, so CI workflow is parked in deploy/ for later). `npm run deploy` redeploys. All pages + assets verified 200.

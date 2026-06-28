@@ -1,5 +1,7 @@
 # Jolly Follies
 
+**Live: https://cornishollie.github.io/jollyfollies/**
+
 A modern restoration of **jollyfollies.com** — the travel diary of an overland drive
 from Land's End, Cornwall to Sydney, Australia in a 1990s Land Rover Defender 110
 ("DINO"), in aid of VSO. The original was hand-built in Dreamweaver as a teenager;
@@ -98,12 +100,21 @@ npm run convert
 
 ## Deploy (GitHub Pages)
 
-A workflow at `.github/workflows/deploy.yml` builds and deploys on every push to
-`main`. To go live:
+The site is already live at **https://cornishollie.github.io/jollyfollies/**, served
+from the `gh-pages` branch. To redeploy after changes:
 
-1. Create a GitHub repo and push this folder to `main`.
-2. In the repo: **Settings → Pages → Build and deployment → Source: GitHub Actions**.
-3. Push. The site builds and publishes automatically.
+```bash
+npm run deploy        # builds and force-pushes dist/ to the gh-pages branch
+```
+
+### Switching to CI deploys (optional, recommended)
+
+This was deployed via the `gh-pages` branch because the local `gh` token lacked the
+`workflow` scope. To use GitHub Actions instead (auto-deploy on push to `main`):
+
+1. `gh auth refresh -s workflow`
+2. `mkdir -p .github/workflows && mv deploy/github-pages-workflow.yml .github/workflows/deploy.yml`
+3. Commit and push, then set **Settings → Pages → Source: GitHub Actions**.
 
 ### URLs and the `site` / `base` config
 
