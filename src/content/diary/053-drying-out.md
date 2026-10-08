@@ -5,6 +5,10 @@ order: 53
 original_url: 'http://www.jollyfollies.com/Diary/053_drying_out.html'
 ---
 
+Having completed our European leg in Turkey, and then driving through the 'easy' part of Asia, it was time for the real adventure to begin. We always had Iran circled as a highlight of the trip, but at the same time we were both nervous of this completely alien country. Certainly Turkey had been a nice gentle introduction and we were both feeling ready for the challenge. But was the challenge ready for us?
+
+At our last stop in Turkey we both went shopping for new appropriate clothes, although all I (Ollie) needed was an extra pair of long trousers, whereas Jenny needed a whole new outfit. She didn't go as far as a chador (literally 'tent' in farsi), instead opting for a nice headscarf/long top combo. With both of us equipped for the job we took a deep breath and ventured into the unknown - a sober unknown at that!
+
 Our First Real Border
 
 We left our familiar campsite at DoggieBiscuit with some nerves, but excited that our adventure was about to really begin. The previous evening we had greedily drank the last of our alcohol with our new friend, the crazy French cyclist, Tony. He had filled us full of stories about his time in Iran, as well as giving us tips on where to go and stay. We had gone to bed giddy with excitement, and woken up with a real thirst for our folly to start in earnest.

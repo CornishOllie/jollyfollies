@@ -5,6 +5,8 @@ order: 65
 original_url: 'http://www.jollyfollies.com/Diary/065_Hindustan_zindabad.html'
 ---
 
+Well our secret is out now, and hopefully you all should realise why our diary entries have been delayed a little - we didn't want to have to 're-align' our stories to explain some of our bizarre movements. So in this latest blog we will have a quick review of Pakistan, before moving onto the more current tales of our adventures in India.
+
 Pakistan - Re-aligned!
 
 We arrived into Pakistan with an inkling that we could soon be having to make some major changes to our plans, but we both knew that we would need to find a hospital to get this confirmed. Our suspicions had been raised to 'Red Alert' when entering China, who insist on having a temperature check on entry. The over-zealous guards would not let Jenny into the country because she was half a degree too hot! Luckily our guide used his initiative and just returned the thermometer to the guard, once the temperature had dropped into the correct zone - leaving the mighty red army with a slightly red face :)

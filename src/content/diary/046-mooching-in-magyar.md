@@ -5,13 +5,13 @@ order: 46
 original_url: 'http://www.jollyfollies.com/Diary/046_Mooching_in_Magyar.html'
 ---
 
+Those amongst you with a vague appreciation of European geography will no doubt be aware that there is a country between Poland and Hungary. We looked at the activities on offer in Slovakia and decided that they were pretty similar to the type of stuff we had been doing in Zakopane; so in the interest of time we decided to race through, stopping only to put the Slovakian flag sticker on Dino and eat some more cheese!
+
 Lake Balaton - Keszthely
 
 We made a bee line down to Balaton as Jenny had been here before as a teenager and we had hopes of getting the canoe out on the lake for the first time. After a solid day of driving we found our campsite and collapsed in the local bar drinking beer that seemed to taste of heaven! The next morning we went down to the lake and realised that there was no paddling to be done - the wind was far too strong and the lake too much like a sea. So instead we went for a wander around the town to see some sites, eat some cake and visit the tourist info - all mandatory components of a town visit!
 
 After some intriguing cake, some very helpful tourist info people and a circuit of the above palace we retired to our campsite to cook PIZZA on the Cobb!!! This was very exciting for us.. in fact, so exciting that Jenny got a bit carried away and built a topping that consisted of all her favouritest ever toppings all combined in to one...it's hard work this camping malarkey!
-
-
 
 The next day we decided to go to the healing waters of Heviz's hot lake to fix all our aching bones. It was a chilly but very sunny day so we cycled from the campsite to Heviz on some lovely cycle paths including a monster down hill on which we had to shout "weeeeeeeee" and stick our legs out at right angles (ok maybe that was just Jenny!).. When we got to the lake we realised that people really do take this healing thing seriously and so we hired ourselves a couple of rubber rings and joined what we thought was the in-water queue to get out to the outside area. After a few strange rings of bells, after which everyone moved one place along we realised that this was either the slowest queue in the world or we were in the wrong (very strange) place! Eventually we found our way out to this.....
 

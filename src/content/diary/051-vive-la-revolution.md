@@ -5,6 +5,8 @@ order: 51
 original_url: 'http://www.jollyfollies.com/Diary/051_vive_la_revolution.html'
 ---
 
+We are currently sat in a cabin on the mainly freight ferry crossing the Caspian Sea from Baku in Azerbaijan to Actau in Kazakhstan, awaiting the winds to die down, having boarded the ferry nearly two days ago. We are about 10 kilometers off shore which we set off from and then immediately dropped anchor due to the high winds that came in. Apparently the normal time for this ferry is 20 hours, but in circumstances such as now it can take 1 week! This is actually good news, because previously these ferries would have made the crossing whatever the weather, but this was stopped when the Mercury II sank midway. The name of our ship is Mercury I.
+
 Tehran
 
 As you know, because of the swine flu issue we were forced to look at a new route and this involved getting new visas for Azerbaijan and Kazakhstan and hence we had to detour to Tehran to apply and pick up these and a Pakistan visa. We weren't sure how sensible it was to go into Tehran with the elections happening, but we asked lots of advice and were told it would not be a problem. Walking around other cities before the election you could feel a party atmosphere, with lots of people on the street talking about the elections, and most of the young urban people who spoke to us were optimistic of some change taking place, although this was tempered with a little pessimism that nothing ever really changes whoever is in power. Who was to be right?

@@ -5,6 +5,8 @@ order: 69
 original_url: 'http://www.jollyfollies.com/Diary/069_Meghan_Jude_Bridges.html'
 ---
 
+We are over the moon with the arrival of our latest and dearest folly - Meghan Jude Bridges, who was born at 02:50, Monday 3rd May. She weighed in at a healthy pi kilograms, and Mum and baby are doing brilliantly! Don't worry about Dad, he's busy earning money and learning about new priorities :)
+
 The Big Day
 
 As every woman in her first pregnancy will tell you, no matter how many books you read, midwives you speak to, or gods you pray to, you will never be prepared for the day that you give birth. Actually ask any first time father and he will tell you the same. It is one crazy day, with so many emotions and thoughts flowing it is amazing that in the end it seems to finish as god deemed it. We had attended plenty of Australia's great anti-natal classes, and knew all about the 3 stages of labour, waters breaking and that we should only arrive at hospital when the contractions were five minutes apart. What neither of us really new, was what a contraction really feels like. In fact one of us still doesn't, but that is balanced out by being full aware of what sharp nails in the arm feels like.

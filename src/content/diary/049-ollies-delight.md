@@ -5,6 +5,8 @@ order: 49
 original_url: 'http://www.jollyfollies.com/Diary/049_Ollies_Delight.html'
 ---
 
+Both Jenny and myself always hoped that Turkey would be a highlight, and it certainly did not let us down. From the moment we entered we were bombarded with amazing sights, delicious food and most memorable of all, hospitality like nothing that we have encountered before. For the whole time we were in Turkey, people made sure we were comfortable and happy, and we wish to thank the Turkish people from the bottom of our hearts for making this such a memorable time. We love you all!
+
 Amazing Memories
 
 Turkey has imprinted some great memories onto our brains, and we are both very glad that fate took our trip in the direction of Turkey. But to get into the country we had to cross our first real border, not an easy peasy EU border, but a proper border with 10 different people to speak to and staff who try and make it as difficult to complete the mission as possible. Once we had completed a section it would be impossible to find the next person to review our documentation, usually because they were outside having a fag or a tea, and if they were at their desks often they would ignore us until we virtually plonked ourselves on their laps. In the end it was only about 90 minutes of paper chasing, but it seemed longer (tip - always eat before you head to a border!), and soon we were driving in Turkey!
@@ -23,11 +25,7 @@ As I mentioned above the Turkish people are incredibly friendly and hospitable, 
 
 Eventually we ended up being dropped off (for free) 10 minutes from the embassy and soon we had completed the forms and were told to ring up on Monday for the results! We then spent the rest of the day wandering around and admiring the beautiful sites of Istanbul
 
-
-
 Later that evening we had our first of many presents of food, a huge plate of freshly caught and cooked fish. This arrived shortly after we had already finished a massive barbeque, and because Jenny is a vegetarian I had to keep our honour by finishing off the scrumptious fish. This was caught, cooked and finally donated to us by our neighbours in the campsite, a great Turkish family who were spending the weekend holidaying in a bus. They were Hizir, his wife Birsen, their daughter Beste and grand daughter Bilge. To top this off they also cooked us a huge breakfast the next day. What a lovely bunch of people ...
-
-
 
  
 

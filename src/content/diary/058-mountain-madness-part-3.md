@@ -5,6 +5,8 @@ order: 58
 original_url: 'http://www.jollyfollies.com/Diary/058_mountain_madness_part_3.html'
 ---
 
+With Ollie patched up and Jenny in her nurses uniform we were ready to explore the rest of the beautiful country of Kyrgyzstan, and then finally leave Central Asia and move onto China, where an independent vehicular traveler cannot explore without a guide. Here we also pickup up the crazy (all French are crazy!) French Vespa driver, Jean-Yves, along with Babak, another large BMW rider. This is in addition to Russ and Herbie who we were already traveling with. .
+
 Leaving Osh
 
 With Ollie in need of getting his head together (literally) and also a feeling we were "citied" out, it was time to hit some of the fine Kyrgyz countryside. We knew we had to be in Bishkek for the 10th of August, which was the earliest we could apply for our Chinese visas, and hence had five or six days to wiggle our way up the country. By this time there was just four of us, me and Jenny, along with Russ and Herbie on the bikes.

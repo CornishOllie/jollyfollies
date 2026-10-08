@@ -11,4 +11,6 @@ After creating this website in this very rudimentary form I am going to start tr
 
 The next step that I want to take is to make the website a bit more visually pleasing, and also a bit more relevant to others who visit.
 
-##
+![Blog is born](/diary-media/extras/first-blog-of-the-trog__blog-is-born.jpg)
+
+And inch by inch the blog is slowly ejected from mother earth into the world.

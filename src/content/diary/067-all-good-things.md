@@ -5,6 +5,8 @@ order: 67
 original_url: 'http://www.jollyfollies.com/Diary/067_all_good_things.html'
 ---
 
+We've been in Goa over a month now and are ready to leave, shipping Dino to Australia and ourselves to Thailand. We've been joined here by some other overlanders who themselves are resting up after one of them had a head on crash and broke her wrist.
+
 Arambol
 
 Having used the [HUBB](http://www.horizonsunlimited.com/hubb) to find an appropriate beach in Goa to chill out on, we found ourselves at the perfect resort of Arambol. Apparently Arambol was once a major hippy zone, and you can still see some of the leftovers floating around the town. It was then a centre for the Goan party scene, but since a ban on amplified music past 10pm has been introduced the town has become mixture of all things, but is peaceful enough for us oldies to get some sleep.

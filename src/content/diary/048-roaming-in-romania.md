@@ -5,6 +5,8 @@ order: 48
 original_url: 'http://www.jollyfollies.com/Diary/048_Roaming_in_Romania.html'
 ---
 
+Up until Romania, border towns on each side of a country line were generally the same, cross-border regions melded, sometimes with the same language but always with the same feel. Romania broke this rule with a resounding thud! Within 10 minutes of crossing the border we had hit several BIG pot-holes, driven up a road that disappeared into a field, cheered on a wedding party walking down the street, slowed to avoid a horse and cart and admired entirely wooden scafolding scaling a four storey building. Welcome to Romania!
+
 En-route to the Bear Cave
 
 We entered Romania at Oradea with a plan to head to a campsite that was listed in our book. We eventually found the campsite and our hearts sank. It was on the edge of a main road and was rammed full ...we made a snap decision to head on to our next target and see what we could see on the way. So, we set the GPS for a cave that we wanted to see and let it do its worst....oh dear! Needless to say, we ended up on a road that got progressively worse until we ended up driving out onto what looked like common land and moor land. We looked around to see a local shepherd leaning on a staff and laughing at us and his family sat around an outside table looking on with bemused faces as we waved, turned around and made a sharp exit.

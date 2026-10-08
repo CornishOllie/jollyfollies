@@ -5,6 +5,10 @@ order: 59
 original_url: 'http://www.jollyfollies.com/Diary/059_crazy_china.html'
 ---
 
+We had finally met up with the last two members of our China Posse, Babak and Jean-Yves, and were safely tucked into a yurt and ready for the final push on China. Our visas were complete, our vehicles were still moving, nothing could stop us now.
+
+We all had mixed expectations about China up until this point, knowing as we did that most things we did would be accompanied by a guide, and that the part of China we were visiting was currently occupied by thousands of army due to the mass demonstrations that had happened in the country recently. This was tempered by the fact that we were all excited to be leaving central Asia and ready for new people, food and culture. Mmmmmm sweet and sour chicken!
+
 The Road to China
 
 The alarm went off at 6am, with our traditional Kyrgyz breakfast already prepared for us, the highlight of which is the fresh bread accompanied by newly churned cream and superb jam. Who would have thought Ollie would be eating a Cornish Cream tea at 6am, at 2500m, in a yurt, on the way to China. It really has been a crazy trip.

@@ -5,6 +5,8 @@ order: 47
 original_url: 'http://www.jollyfollies.com/Diary/047_Overlanding_Life.html'
 ---
 
+Today we thought we'd try and give some insights to prospective overlanders regarding the life we are currently living. In no way is it glamorous, or lazy, and some days it is dirty, noisy and repetitive, but we are enjoying each and every day.
+
 Daily Routine
 
 Most of the chores for the day are now a well established routine, divided up equally between myself and Jenny. Anything that involves bending, coordination or subtlety is assigned to Jenny, and anything that involves weight, repetitive banging or eating is given to me. Our morning usually starts with my watch alarm going off at 8am, and a groggy roof tent conversation about what lies ahead of us for the next 24 hours. Jenny will always open the superb windows in the tent to see what the weather has in store for us, and then we will try and unengage from the roof tent, and make our way down the bonnet and to ground level. Tea and breakfast will follow shortly, with the breakfast usually being one of eggs (poached, scrambled or boiled), porridge, toast or cereal.

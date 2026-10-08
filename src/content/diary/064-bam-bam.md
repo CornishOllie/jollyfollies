@@ -5,6 +5,8 @@ order: 64
 original_url: 'http://www.jollyfollies.com/Diary/064_BAM_BAM.html'
 ---
 
+It has been a while since our last travel blog, and people have been asking us questions such as why are we traveling so fast through India? Why is Jenny so ill? Why are you applying for jobs? Well all will be revealed below .... Bam Bam.
+
 A New Adventure
 
 So the breaking and exciting news is that since the beginning of September we have known that Jenny is pregnant!! We obviously suspected before hand, and certainly next time Jenny is escorted off on her own to natural hot water springs that are a fertility aid, we will consider the implications further. But we're certainly not calling the baby Bibi Fatima!

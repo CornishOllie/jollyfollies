@@ -5,6 +5,8 @@ order: 57
 original_url: 'http://www.jollyfollies.com/Diary/057_mountain_madness_part_2.html'
 ---
 
+With Jenny's illness slowly fading we felt in good enough shape to head the the Kyrgyz horse festival, which was being held at the base camp of Peak Lenin. It was a 400km return trip, back the way we had just come, but we felt it would be a trip worth making.
+
 The Road to the Festival
 
 Whilst in Osh we had a look around the busy market town as we slowly nursed Jenny back to health, and whilst doing this we stumbled across the [CBT](http://www.cbtkyrgyzstan.kg) (Community Based Tourism) office and decided to ask about the rumored horse festival. The CBT initiative in Kyrgyzstan is aimed at helping funnel the tourist dollar into the communities that need the investment, as well as providing interesting and unusual holiday activities Because Kyrgyzstan is so dominated by a horse culture, a lot of the initiatives are horse based, but also often includes staying in a yurt.

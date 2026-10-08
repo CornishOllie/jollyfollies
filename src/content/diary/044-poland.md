@@ -5,13 +5,13 @@ order: 44
 original_url: 'http://www.jollyfollies.com/Diary/044_Poland.html'
 ---
 
+We only clipped the south west corner of Poland, from Wroclaw to Krakow to Zakopane but saw some amazing sites, from colourful market squares full on ski resorts and lots of cafes in between!
+
 Wroclaw
 
 This was our first stop in Poland where we stayed chez Dan & Lucyna. Firstly, a HUGE thanks to these two lovely people for letting us turn their front room into a bomb site and keeping us topped up with wine, food and culture! It really was a very welcome sofa and warm bathroom!
 
 Dan and Lucyna showed us around the sites of Wroclaw (apparently pronounced "vrotswav" but I don't believe it meself!). including the river, the "Rynek" (town square) and up to the top of the cathedral for a panoramic view of the city. Also guiding us were the local gnomes that were placed at strategic and sometimes very odd places on the streets..
-
-
 
 Krakow
 

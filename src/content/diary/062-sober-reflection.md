@@ -5,6 +5,8 @@ order: 62
 original_url: 'http://www.jollyfollies.com/Diary/062_sober_reflection.html'
 ---
 
+We are now holed up in Islamabad, awaiting our Indian visa, and the return of Dino, who has gone in for his first proper service since Romania. The India visa is going to take any time between 10 days and a month, but hopefully nearer ten days, and with Jenny needing to recover from another tummy bug we have decided to drop anchor and take some chill time.
+
 Leaving the KKH
 
 After completing our trek to Rakaposhi base camp we headed straight to Gilgit, which was our first Pakistani city. Although we had already spent a couple of weeks in Pakistan, it had all been at the northern end of the KKH, which is essentially the Ismaili Hunza valley. Now we were faced with Gilgit, what can only be described as a wild west town with Muslim attitude. No matter how hard you looked you couldn't find one female face, and 90% of the males looked like extras from a Taleban movie - we were now in the Pakistan we had imagined.

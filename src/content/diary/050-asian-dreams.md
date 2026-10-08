@@ -5,6 +5,10 @@ order: 50
 original_url: 'http://www.jollyfollies.com/Diary/050_Asian_Dreams.html'
 ---
 
+So, we last left you with a bit of a cliffhanger, were our best laid plans about to fall over, or could we overcome the rejection we received from the Turkmenistan embassy? Well, to tell the truth we still don't know, more on that later.But in the mean time we can update you on the rest of our Turkey leg (gettit?) and our thoughts on leaving Europe.
+
+Also for those of you desperate to know, at the end of this blog will be an update on the board game olympics currently taking place.
+
 A New Plan
 
 As we left you on the last update we were on the side of a motorway just outside Istanbul, about to call our man on the Stans, David, regarding our visa situation. For all the people who haven't contemplated travel through Central Asia, David is a near legend, who is renowned to be the most knowledgeable and professional agent for the area, although not the cheapest. We had already used him for our Iranian and Uzbek Letters of Invitation (LOIs), and hoped that he would now see a solution for us. Well, immediately that Jenny was on the phone it was clear that he had a plan that would get us out of our predicament, and in fact he presented us with a couple of options. Firstly we could consider applying for a tourist visa for Turkmenistan (expensive) and hope that in a week or two the swine flu issue would go. Or secondly, he told us about another route through to Uzbekistan, catching a ferry from Baku in Azerbaijan, to a port in Kazakhstan, and driving on down to Uzbekistan from there.
@@ -41,8 +45,6 @@ A guillotine style trap, with our crazy guide Asmail. He smiled a lot more in re
 
 Asmail turned out to be a great guide, who took us around the city with no other visitors, and hence we had his 100% attention and no other distractions. The cities themselves are fascinating, filled with hundreds of Indiana Jones style traps, a communications tower for messenger pigeons and lots of mad staircases to take you from one level to the next. When we were first shown these staircases we were both very glad we didn't have to use them, but to our amazement, this turned out to be our way out. Asmail, obviously not having heard of Health and Safety, could really bring to life what it was like to live in one of these cities. Certainly we were glad we stumbled upon this amazing place before we found the city in the Lonely Planet.
 
-
-
 Ollie Crawling, and Jenny trying to decently climb!
 
 We made it out alive!
@@ -56,8 +58,6 @@ So after all this excitement we still had quite a big drive ahead of us, so set 
 So after a nice early start we were heading off to the magical mountain, with Ollie taking the first leg behind then wheel. We could see from our map that we would be taking a twisting road above 2km most of the time, but it was soon apparent that this road would need nerves of steel. Well for Jenny anyway! The road twisted for about 80 kilometers, climbing and then descending the mountain, all the time with a vertical drop feet away from the side of Dino. To make matters worse there were plenty of road works, reducing the road down to one lane, combined with the usual mad locals haring round the bends. After about an hour and a half, Jenny volunteered to take over the driving, thinking that the signposted last 12kms would be the glory run. Ha, little did she know what was in store for her!
 
 Just after she took over the road became a proper snaking mountain pass, with the (mostly) tarmac becoming a snaking lane with boulders littering the way.
-
-
 
 The road we climbed from the rear and front
 

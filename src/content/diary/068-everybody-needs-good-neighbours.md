@@ -5,6 +5,10 @@ order: 68
 original_url: 'http://www.jollyfollies.com/Diary/068_everybody_needs_good_neighbours.html'
 ---
 
+Wow! It's been nearly four months since our last blog, and obviously a lot has happened in between. We will detail the next few paragraphs with our adventures from when we left Goa to our final stopoff before arriving in Australia. And then, in the next few updates we will let you all know what we are up to now, and what we plan for the future.
+
+And for all the overlanding geeks out there, plenty of stats and end of term reports will follow - eventually :)
+
 Life After Goa
 
 We ended up staying in Goa for 5 weeks, having great fun with Pete, Caf and Trev, but when our apartment was up, we were ready to leave. There is only so many times you can smile at a cow on a beach whilst some hippies do naked yoga next to you. Well actually there isn't but we really did have to leave to get to Thailand.

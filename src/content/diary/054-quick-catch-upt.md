@@ -5,6 +5,12 @@ order: 54
 original_url: 'http://www.jollyfollies.com/Diary/054_quick_catch_upt.html'
 ---
 
+Wow! It's really hard to keep this blog and website up to date - no matter how hard we try. I know some of you may be saying that we've spent the last five days sat by the pool, but it's really hard to see a laptop screen in such bright sunshine. (I can hear the cries of sympathy as I type!)
+
+We have already dedicated two blogs to Iran, so we will speed through there now and get you all up to date with roughly where we are now. But it should be said here that Iran is an incredible place to visit, with plenty of tourist attractions, although the biggest attraction has to be the people who are truly wonderful hosts in many dimensions. If you are reading this and thinking whether you should visit or not, we would beg you to to go and learn about this country away from the biased viewpoint of the western media. We think this strongly enough to call it lies!
+
+After Iran we'll delve into a bit of detail about how we entered Central Asia, and our first experiences of these ex-soviet states.
+
 Iran Abridged
 
 Because of the need to return to Tehran we had to miss out a little of Iran, and we decided to miss two of Iran's extremities, Mashad the Shiite holy city, and Bam, the mud citadel, recently destroyed by an earthquake. The were chosen as they are in the far corners of Iran, also they are both notoriously hot, and Bam came with the added 'attraction' of police escorts, because of the reputation of those naughty Taliban guys hanging out in Pakistan. Hence our new agenda after Tehran was: Esfahan, Persepolis, Yazd, Dasht-e-Kivir (desert) and back to Tehran. The highlight of this was probably our three days camping in the desert, although we wouldn't advise missing any of the others, particularly Esfahan's main square, the ruins near of Persepolis and the desert oasis town of Yazd. Tehran can be missed mind you! So, here's our experience of the rest of Iran in a nutshell:

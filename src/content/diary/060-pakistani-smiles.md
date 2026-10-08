@@ -5,6 +5,12 @@ order: 60
 original_url: 'http://www.jollyfollies.com/Diary/060_pakistani_smiles.html'
 ---
 
+After our slightly disappointing China experience, we cross the border into Pakistan, one week into Ramadan, ready to start some big time chilling.
+
+Everyone we know, including ourselves, had heard crazy reports coming out of Pakistan, regarding the Taliban, and the resulting safety of the country. At the same time all the travelers we have met on the road have swooned about Pakistan's endless beauty, and reassured us that, as a long as we travel sensibly, there should be no safety issues.
+
+What would we find?
+
 Entering Pakistan
 
 So, after 6 days in China, we were happy to leave and enter the relatively free state of Pakistan! The Karakoram highway, otherwise known as the Peace Highway, runs between Kashgar in China and Islamabad in Pakistan, and is often referred to as the biggest engineering project since the Pyramids. On the China side the road is tarmac all the way, but as soon as we crossed into Pakistan the tarmac disappeared and we were onto mud, dust and bumps. Our favorite!

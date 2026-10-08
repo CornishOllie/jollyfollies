@@ -5,6 +5,10 @@ order: 55
 original_url: 'http://www.jollyfollies.com/Diary/055_one_russell_cleasby.html'
 ---
 
+When we last left you we had just heard from Russ, our old friend who was suffering from an unknown illness in an Uzbek hospital about 500 kms of rough road from us. We ended up traveling through Uzbekistan and onto Tajikistan with Russ.once he was fixed up. Although in Tajikistan we did leave Russ alone for a small period of time, and you will find out how he he faired later in the blog.
+
+We have also updated our reviews section, for both campsites and some on the road updates of the kit we have used. Of course we are also constantly updating our photo section and also hope to add some videos in the next couple of months.
+
 Nuking it to Nukus
 
 For those of you who don't know us so well, Russ is one of my oldest friends dating back to the pre-historic university period. He was also the first person to come and introduce himself to Jenny when we first started 'dating', and so is considered one of our oldest (40!) and dearest friends. As is evident from this blog we had been planning the trip for over 3 years, but were quite happy when, with about 6 months to go Russ decided to learn to ride a motorbike and undertake a similar overlapping trip. We thought, quite correctly that by the time we met up with Russ we would be in need of some further company.
@@ -34,6 +38,8 @@ As well as staying together in Khiva we spent one night wild camping, below some
  
 
 Khiva, Bukhara and Samarkand
+
+## Khiva, Bukhara and Samarkand
 
 We ended up spending five days at Khiva, which is certainly too long for what is available to see as a tourist, but it was nice for us to spend some chilled time together with Russ, and we had struck a real bargain for our hotel at $10 a night including breakfast. For those heading to Uzbekistan in our wake we would recommend the Hotel Arqonchi, not far from the big fat incomplete minaret, and also the Oriental Nook restaurant (see piccie below), only five minutes walk away. Either way bargain hard for your hotel room as we reduced this down from $35 a night!!!
 

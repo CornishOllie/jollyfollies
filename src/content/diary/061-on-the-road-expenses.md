@@ -5,6 +5,10 @@ order: 61
 original_url: 'http://www.jollyfollies.com/Diary/061_on_the_road_expenses.html'
 ---
 
+Before setting out for this trip, one of our biggest concerns was how much was it going to cost us on the road. We had a good idea how much we would spend in advance, and our final pre-trip expenses were just what we thought, but we had very little idea how much we would end up spending on the road. And although the web was full of almost all the other information we needed, we found very rare comments on the actual on the road expenses.
+
+So to give people who follow in our footsteps a better idea than we had, we have tried to keep a very close eye on our budget and record the details in excel. This is published below, and I will update the spreadsheet periodically.
+
 The Spreadsheet of Knowledge
 
 Almost every penny (cent, som, rupee etc) we spend is written down in a notebook that we keep in the front of the landie or in our hotel room. Once a week or so I update this to the spreadsheet, breaking the data down into various groups such as accommodation, eating out or diesel. The catch all is shopping, which is where anything that is not categorised is recorded. I would estimate that we record at least 95% of our spendings, if not more, as I get a kick out of watching the stats grow. I know I am sad, as Jenny reminds me almost every day. although I think she secretly likes it too.

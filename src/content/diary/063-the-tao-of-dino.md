@@ -5,6 +5,12 @@ order: 63
 original_url: 'http://www.jollyfollies.com/Diary/063_The_Tao_of_Dino.html'
 ---
 
+Warning! This is a bit of a Land Rover geeky update. For those more interested in travel stories than gearbox stories - look away now!
+
+Before setting off on our trip we had many worries, but most probably the biggest for either of us was how Dino, our 17 year old, 170 000 mile, 200 tdi Land Rover would perform. Would he even make it out of Europe? Would we be spending most of our time finding people to patch him up? Had the 3 tonnes we had loaded him up to pushed him to his limits?
+
+Well Dino is about to cross his 200 000th mile, whilst on this trip we are celebrating our 15 000th mile, almost 6 months after setting off. Below we will detail how Dino has performed.
+
 Dino's Early Years
 
 When we bought Dino from Richard and Camilla, neither of us had a clue whether we were doing the right thing. We had only decided a couple of months previously that we wanted to go on a driving adventure, but we both knew that to make sure this dream was not just another passing dream - we had to buy a car. The hard cash commitment we made that day ensured that the trip took place, but we were both full of uncertainties about whether Dino was the right vehicle for our dreams.
@@ -40,8 +46,6 @@ We definitely over paid, but with the hindsight that is now available to us, nei
 - News wheels and tyres
 
 With all this work done we were ready to go. Although we were still nervous, every expert who examined Dino told us the chassis and the engine were in fantastic condition and we should be in great shape for our trip.
-
-
 
 Dino's First Road Service
 

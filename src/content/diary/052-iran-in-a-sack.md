@@ -5,6 +5,8 @@ order: 52
 original_url: 'http://www.jollyfollies.com/Diary/052_Iran_in_a_sack.html'
 ---
 
+Before arriving in Iran it's really hard not to have some serious preconceptions about the women in the country and their lives. Having read the guide books and various websites there seemed to be an endless list of rules and general dos and don'ts that would be enough to make Emily Pankhurst turn in her grave. The assumption that the woman wearing a chador (black tent-like cape) is an oppressed woman sounds harsh but it certainly lingered in the back of my mind. What we actually found were some subtleties to life that the books just don't tell you, and that appearances can be deceptive. There's no doubt that women are treated as second class citizens in many aspects of life but as with most things in Iran, it's never black and white. We barely scratched the surface of chatting to people and could have spent another 3 months being invited to every home and talking to every family that wanted to talk to us, but this is just some notes on how I (Jenny) found life as a female tourist in Iran.
+
 It's HOT!
 
 The first rule that you have to contend with is the dress code; for female tourists this is currently a scarf, long sleeves, long trousers and a thigh length top. For men it is simply long trousers and a top with short or long sleeves. I lovingly referred to my tops as sacks and was ready to burn my head scarf by the end of the 3 weeks - it's just toooo HOT for that kind of attire! My advice to anyone planning a visit is to shop around for the lightest tops you can find before entering Iran as most of the Iranian options are just too thick.

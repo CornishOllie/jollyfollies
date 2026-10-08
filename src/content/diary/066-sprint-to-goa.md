@@ -5,6 +5,8 @@ order: 66
 original_url: 'http://www.jollyfollies.com/Diary/066_sprint_to_Goa.html'
 ---
 
+So, having safely entered India, we were now ready to explore this amazing country - assuming we could keep Jenny up and running. Whilst in Islamabad we had bought an India Lonely Planet and so had drawn up a long list of places to visit including Agra, Corbett Tiger Reserve, Jaipur, Udaipur and even a golf course - how much of this would we get to see before reaching Goa?
+
 Simla Shimla
 
 We left you at the last blog with us having enjoyed McCleod Gang and about to head off to Shimla (or Simla, depending on you position in time. India is very obviously changing its towns names back to original names. Mumbai has been returned from Bombay, which was a British pronunciation of Mumbai. Shimla is how this former summer capital is now pronounced, but all the old Indians we met still called it Simla when speaking English. Clear?). On the map, positioned just before Shimla was apparently one of the highest golf courses in the world. Surely we should pop in and say hello.
