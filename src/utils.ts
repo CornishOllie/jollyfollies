@@ -29,5 +29,10 @@ export function excerpt(body: string, max = 150): string {
   return text.slice(0, max).replace(/\s+\S*$/, '') + '…';
 }
 
-export const fmtDate = (d: Date) =>
-  new Intl.DateTimeFormat('en-GB', { day: 'numeric', month: 'long', year: 'numeric' }).format(d);
+export const fmtDate = (d: Date, precision: 'day' | 'month' = 'day') =>
+  new Intl.DateTimeFormat('en-GB', precision === 'month'
+    ? { month: 'long', year: 'numeric' }
+    : { day: 'numeric', month: 'long', year: 'numeric' }).format(d);
+
+/** An entry's date as shown to readers, respecting date_precision. */
+export const entryDate = (e: DiaryEntry) => fmtDate(e.data.date, e.data.date_precision);

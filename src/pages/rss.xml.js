@@ -1,9 +1,8 @@
 import rss from '@astrojs/rss';
-import { getCollection } from 'astro:content';
+import { getDiary, entryDate } from '../utils';
 
 export async function GET(context) {
-  const entries = (await getCollection('diary', ({ data }) => !data.draft))
-    .sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+  const entries = await getDiary(); // newest first, original post order
 
   return rss({
     title: 'Jolly Follies: the diary',

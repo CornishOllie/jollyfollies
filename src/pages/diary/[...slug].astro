@@ -3,7 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import PhotoGallery from '../../components/PhotoGallery.astro';
 import galleries from '../../data/galleries.json';
 import forumComments from '../../data/forum-comments.json';
-import { getDiary, fmtDate } from '../../utils';
+import { getDiary, entryDate } from '../../utils';
 
 export async function getStaticPaths() {
   const diary = await getDiary();          // newest first
@@ -31,12 +31,12 @@ const words = entry.body.split(/\s+/).filter(Boolean).length;
 const readMins = Math.max(1, Math.round(words / 200));
 const ogImg = legs[0]?.photos?.[0]?.src || '/images/ollie-and-dino.jpg';
 ---
-<BaseLayout title={entry.data.title} description={`Diary entry from ${fmtDate(entry.data.date)}. Jolly Follies, Land's End to Sydney.`} image={ogImg}>
+<BaseLayout title={entry.data.title} description={`Diary entry from ${entryDate(entry)}. Jolly Follies, Land's End to Sydney.`} image={ogImg}>
   <section>
     <div class="wrap">
       <p><a href={base + '/diary/'} style="font-family:var(--serif-display);text-decoration:none;">← The Diary</a></p>
       <header class="entry-head flow">
-        <span class="entry-date">{fmtDate(entry.data.date)} · {readMins} min read</span>
+        <span class="entry-date">{entryDate(entry)} · {readMins} min read</span>
         <h1>{entry.data.title}</h1>
       </header>
 

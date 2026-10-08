@@ -1,15 +1,18 @@
 ---
+import { fmtDate } from '../utils';
+
 interface Props {
   href: string;
   title: string;
   date: Date;
+  datePrecision?: 'day' | 'month';
   excerpt?: string;
   index?: number;
   cover?: string | null;
 }
-const { href, title, date, excerpt, index = 0, cover } = Astro.props;
+const { href, title, date, datePrecision = 'day', excerpt, index = 0, cover } = Astro.props;
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
-const fmt = new Intl.DateTimeFormat('en-GB', { day: 'numeric', month: 'long', year: 'numeric' }).format(date);
+const fmt = fmtDate(date, datePrecision);
 // rotate a few warm/mint tints across the placeholder media bands
 const tints = ['var(--sun-peach)', 'var(--mint)', 'var(--sun-gold)', 'var(--mint-soft)'];
 const tint = tints[index % tints.length];

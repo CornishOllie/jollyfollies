@@ -1,6 +1,7 @@
 ---
 title: 'Merry Hic Christmas Everyone'
-date: 2006-06-30
+date: 2006-12-01
+date_precision: month
 order: 19
 original_url: 'http://www.jollyfollies.com/Diary/019_merry_hic_christmas_everyone.html'
 ---

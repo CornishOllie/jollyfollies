@@ -42,6 +42,7 @@ const cleanSlug = (s: string) => s.replace(/^\d+-/, '');
                 href={`${base}/diary/${cleanSlug(e.slug)}/`}
                 title={e.data.title}
                 date={e.data.date}
+                datePrecision={e.data.date_precision}
                 excerpt={excerpt(e.body)}
                 index={i}
                 cover={coverFor[cleanSlug(e.slug)]}

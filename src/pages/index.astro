@@ -60,6 +60,7 @@ const sections = [
             href={`${base}/diary/${clean(e.slug)}/`}
             title={e.data.title}
             date={e.data.date}
+                datePrecision={e.data.date_precision}
             excerpt={excerpt(e.body)}
             index={i}
             cover={coverFor[clean(e.slug)]}
