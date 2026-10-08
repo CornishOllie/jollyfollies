@@ -15,7 +15,7 @@ It must be noted that we have saved hard for a long time on our trip and we know
 
 I have also added some basic graphs and number crunching to try and make sense of the data that is recorded. I will most likely add more analysis at a later date too. Don't forget to have a look at all the tabs on the excel sheet.
 
-Feel free to give [feedback](mailto:ollieandjenny@jollyfollies.com), and perhaps I can explain some of the data, or start recording other details.
+Feel free to give [feedback](mailto:ollieandjenny@jollyfollies.co.uk), and perhaps I can explain some of the data, or start recording other details.
 
 Signed, Ollie the excel geek.
 

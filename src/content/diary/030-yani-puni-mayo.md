@@ -23,7 +23,7 @@ Website Improvements**
 
 It has taken quite a while, but finally Ollie has updated the [Route](http://www.jollyfollies.com/Route/Route.htm)section of the website so there are now interactive Google maps on each country page. Once again Google Analytics had highlighted the fact that a lot of our website visitors were viewing these pages and we felt we needed to give these visitors more information. Google Maps is just out of the beta mode, but it felt still in it, and was quite hard to work with. But the results are pleasing and certainly add another dimension to these pages. Our next ambition for these pages is to work through our guide books and find places of interest to visit, and update each page and map with this information.
 
-Ollie has found out that he cannot view the embedded Google Maps via his work firewall, although if he clicks the 'View larger map' link he can access the maps in Google. As we need to find out how many people can view these, if you cannot see the maps drop us an [email](mailto:ollieandjenny@jollyfollies.com)so we know.
+Ollie has found out that he cannot view the embedded Google Maps via his work firewall, although if he clicks the 'View larger map' link he can access the maps in Google. As we need to find out how many people can view these, if you cannot see the maps drop us an [email](mailto:ollieandjenny@jollyfollies.co.uk)so we know.
 
 **Sponsorship**
 
