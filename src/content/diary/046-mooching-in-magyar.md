@@ -11,7 +11,7 @@ We made a bee line down to Balaton as Jenny had been here before as a teenager a
 
 After some intriguing cake, some very helpful tourist info people and a circuit of the above palace we retired to our campsite to cook PIZZA on the Cobb!!! This was very exciting for us.. in fact, so exciting that Jenny got a bit carried away and built a topping that consisted of all her favouritest ever toppings all combined in to one...it's hard work this camping malarkey!
 
-[](../Images/TRIP/export/gnomes.JPG)
+
 
 The next day we decided to go to the healing waters of Heviz's hot lake to fix all our aching bones. It was a chilly but very sunny day so we cycled from the campsite to Heviz on some lovely cycle paths including a monster down hill on which we had to shout "weeeeeeeee" and stick our legs out at right angles (ok maybe that was just Jenny!).. When we got to the lake we realised that people really do take this healing thing seriously and so we hired ourselves a couple of rubber rings and joined what we thought was the in-water queue to get out to the outside area. After a few strange rings of bells, after which everyone moved one place along we realised that this was either the slowest queue in the world or we were in the wrong (very strange) place! Eventually we found our way out to this.....
 
@@ -19,7 +19,7 @@ The next day we decided to go to the healing waters of Heviz's hot lake to fix a
 
 In the interests of research we tasted a reasonable number of wines and had a lovely spot of lunch and cake before purchasing our premium, top quality wines ....!
 
-[](../Images/TRIP/Salt Mine Cathedral.JPG)[](../Images/TRIP/Last Supper.JPG)Although one of them may look like something that Ollie might temporarily store in a bottle if he couldn't face getting out of the tent in the middle of the night..... they actually tasted really quite nice! (And no, thankfully Ollie's bladder can last the night!) So, thermal lakes and healing wines done.. it was time to move on.
+Although one of them may look like something that Ollie might temporarily store in a bottle if he couldn't face getting out of the tent in the middle of the night..... they actually tasted really quite nice! (And no, thankfully Ollie's bladder can last the night!) So, thermal lakes and healing wines done.. it was time to move on.
 
 Pecs
 
@@ -39,4 +39,4 @@ We spent a lovely couple of days at Lake Tisza, relaxing at the campsite, cyclin
 
 Hungary rescued itself at the last minute and gave us a lovely relaxing bank holiday weekend. Time to stock up with garlic and holy water - here comes Dracula country!
 
-[<< Previous Blog](045_overlanding_toys.html)    [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=78)
+[<< Previous Blog](/diary/overlanding-toys/)    [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=78)

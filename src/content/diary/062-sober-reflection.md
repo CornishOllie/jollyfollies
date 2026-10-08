@@ -19,7 +19,7 @@ We arrived in Skardu to find the four bikers in situ, with Russ, Herbie and Baba
 
 Skardu was another dusty Pakistan town, so we headed straight off for Shigar and the hill fort, where we knew Jenny, and now Jean-Yves, could rest up and recover. The fort was no disappointment (apart from the internet speed!) and we took 2 days off to bring Jenny's stomach back into line, which we thought we did successfully. The staff at the fort could not do enough for us (the groundsman, concerned by our lack of children, even offered Jenny some pills, in case her husband was not 'servicing' her well!), the food absolutely scrumptious and the grounds a sanctuary against the hustle, bustle and noise of normal Pakistani life.
 
-[](../Images/TRIP/export/fort.jpg)    [](../Images/TRIP/export/serivce.jpg)
+    
 
 The Road to Islamabad
 
@@ -39,4 +39,4 @@ So, Dino is now in the garage getting his servicing and we await our Indian visa
 
  
 
-[<< Previous Blog](061_on_the_road_expenses.html)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=87)   [Next Blog >>](063_The_Tao_of_Dino.html)
+[<< Previous Blog](/diary/on-the-road-expenses/)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=87)   [Next Blog >>](/diary/the-tao-of-dino/)

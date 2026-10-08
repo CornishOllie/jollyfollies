@@ -29,6 +29,6 @@ Laters dudes!
 
 Ollie and Jenny
 
-ps Of course we are having lots of fun around all of this, which you should be able to see on our photos in our [GALLERY](../Gallery/Gallery.html)
+ps Of course we are having lots of fun around all of this, which you should be able to see on our photos in our [GALLERY](/gallery/)
 
-[<< Previous Blog](046_Mooching_in_Magyar.html)    [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=79)
+[<< Previous Blog](/diary/mooching-in-magyar/)    [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=79)

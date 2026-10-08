@@ -23,11 +23,11 @@ As I mentioned above the Turkish people are incredibly friendly and hospitable, 
 
 Eventually we ended up being dropped off (for free) 10 minutes from the embassy and soon we had completed the forms and were told to ring up on Monday for the results! We then spent the rest of the day wandering around and admiring the beautiful sites of Istanbul
 
-[](../Images/TRIP/export/Blue Mosque.JPG)[](../Images/TRIP/export/Fountain.JPG)
+
 
 Later that evening we had our first of many presents of food, a huge plate of freshly caught and cooked fish. This arrived shortly after we had already finished a massive barbeque, and because Jenny is a vegetarian I had to keep our honour by finishing off the scrumptious fish. This was caught, cooked and finally donated to us by our neighbours in the campsite, a great Turkish family who were spending the weekend holidaying in a bus. They were Hizir, his wife Birsen, their daughter Beste and grand daughter Bilge. To top this off they also cooked us a huge breakfast the next day. What a lovely bunch of people ...
 
-[](../Images/TRIP/export/Hizir Family.JPG)[](../Images/TRIP/export/Kavalte.JPG)
+
 
  
 
@@ -51,4 +51,4 @@ Love
 
 Meat and Veg
 
-[<< Previous Blog](048_Roaming_in_Romania.html)  Comment  [Next Blog >>](050_Asian_Dreams.html)
+[<< Previous Blog](/diary/roaming-in-romania/)  Comment  [Next Blog >>](/diary/asian-dreams/)

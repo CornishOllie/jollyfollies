@@ -11,11 +11,11 @@ So, after so much planning and waiting we had to leave eventually. And to leave 
 
 Before we left we had decided upon having a big leaving do in Cornwall, and we were incredibly lucky to have most of our close friends and family come along. As mentioned before, we had booked out a lovely youth hostel, ordered a DIY hog roast and arranged a bouncy castle for the nippers to expend their energy on. Add to these ingredients some unexpected fine weather and you get a superb party! Thanks to all those who came and made this such a memorable day in our lives. Even Ollie had tears in his eyes, but apparently that was caused by a bit of stray crackling! After the day party, there was the brilliant night party, at Ollie's dad's, where those with hair left let it down a little before warming up their hands with a nice cup of cocoa.
 
-[](../Images/TRIP/P1000239.JPG)
+
 
  
 
-[](../Images/TRIP/P1000224.JPG)
+
 
 Before moving onto the rest of our trip we must say a few thank you's to all the people who helped us over the past few weeks, without doubt we would have either cracked up or given up without them. In no particular order:
 
@@ -77,4 +77,4 @@ We soon worked out that we wouldn't reach Poland, our first destination, until t
 
 Upon arrival we were soon circled by two young German boys, aged about ten, who were eager to test their limited English on us and show us (Jenny too) pictures of semi naked women on their mobiles. We spent most of the night being carefully watched by this pair, and this continued the next day. We managed a form of communication with them, and by the time we left they had drawn us two pictures of Dino and one of a British fighter jet!
 
-[<< Previous Blog](041_Tomorrow_the_Day.html)        [Next Blog >>](043_Fame_at_last.html)
+[<< Previous Blog](/diary/tomorrow-the-day/)        [Next Blog >>](/diary/fame-at-last/)

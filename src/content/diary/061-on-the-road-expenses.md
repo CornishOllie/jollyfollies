@@ -21,6 +21,6 @@ Signed, Ollie the excel geek.
 
 LAST UPDATED: 24/9/2009
 
-[Download Spreadsheet](../Spending.xls)
+Download Spreadsheet
 
-[<< Previous Blog](060_pakistani_smiles.html)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=87)   [Next Blog >>](062_sober_reflection.html)
+[<< Previous Blog](/diary/pakistani-smiles/)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=87)   [Next Blog >>](/diary/sober-reflection/)

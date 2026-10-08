@@ -5,7 +5,7 @@ order: 32
 original_url: 'http://www.jollyfollies.com/Diary/032_bread_of_heaven.html'
 ---
 
-[](../Images/bread_of_heaven.jpg)
+
 
 Ready Steady Cook
 
@@ -64,13 +64,13 @@ The last blog told of how Dino was going in to see the nice men at Foley's again
 
 Much more exciting to the Folliers was the mounting of the spade on Dino's bonnet. Now going for a freestyle poo in the woods will be helped by the easy access of the disposal tool, the spade.
 
-[](../Images/spade.jpg)
+
 
 We now only have one more major visit to Foley's, to get our suspension checked out, and also,most probably a new fuel diesel tank. In the mean time we will be finishing off the interior design, such as adding some addition 12v wiring, tidying up our appliances and generally making our day to day life more comfortable.
 
 Website
 
-The observant amongst you will have noticed some gradual changes to the website, including added a new menu structure to the left, the diary system moving to generic Jolly Follies look, and changing out [gallery](../Gallery/Gallery.html). Most of this was done with a view to making the site more editable on the road, but also making changes to take into account some of the lessons we have learnt such as CSS style sheets and templates, both important things to use when designing and creating your own website.
+The observant amongst you will have noticed some gradual changes to the website, including added a new menu structure to the left, the diary system moving to generic Jolly Follies look, and changing out [gallery](/gallery/). Most of this was done with a view to making the site more editable on the road, but also making changes to take into account some of the lessons we have learnt such as CSS style sheets and templates, both important things to use when designing and creating your own website.
 
 Wales
 

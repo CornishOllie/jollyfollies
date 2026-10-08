@@ -27,4 +27,4 @@ Ollie, Jenny and Bam Bam
 
  
 
-[<< Previous Blog](066_sprint_to_Goa.html)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=87)
+[<< Previous Blog](/diary/sprint-to-goa/)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=87)

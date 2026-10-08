@@ -59,4 +59,4 @@ Our final effort in Romania was to head for a hippie town on the Black Sea - Ver
 
 Next up, Ollie's Delight, Turkey!
 
-[<< Previous Blog](047_Overlanding_Life.html)    [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=81)    [Next Blog >>](049_Ollies_Delight.html)
+[<< Previous Blog](/diary/overlanding-life/)    [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=81)    [Next Blog >>](/diary/ollies-delight/)

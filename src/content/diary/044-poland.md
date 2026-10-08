@@ -11,7 +11,7 @@ This was our first stop in Poland where we stayed chez Dan & Lucyna. Firstly, a 
 
 Dan and Lucyna showed us around the sites of Wroclaw (apparently pronounced "vrotswav" but I don't believe it meself!). including the river, the "Rynek" (town square) and up to the top of the cathedral for a panoramic view of the city. Also guiding us were the local gnomes that were placed at strategic and sometimes very odd places on the streets..
 
-[](../Images/TRIP/export/gnomes.JPG)
+
 
 Krakow
 
@@ -21,7 +21,7 @@ The next day we went to Auschwitz for a bit more of a sombre tour but it was clo
 
 We continued with a trip to the salt mines just outside Krakow. Again, we caught a local bus to the mines but we had to sign up for an official tour as they don't let individuals into the mine. This place is amazing. There are several chapels, statues and a huge cathedral all within the mine and all carved from the salt. The cathedral is even more incredible when you consider that it was all carved by 3 miners.
 
-[](../Images/TRIP/Salt Mine Cathedral.JPG)[](../Images/TRIP/Last Supper.JPG) [](../Images/TRIP/Salt Mine Carving.JPG)
+ 
 
 The next day we went back to Auschwitz and spent a very quiet 3 hours wandering around the museum trying to comprehend the scale. Needless to say this was quite a harrowing day but they have done a good job of ensuring that events are not forgotten without OTT tourism. We'd recommend a visit to anyone who is in the area but would suggest that buying the simple guide and wandering at your own pace would be preferable to being part of a tour group.
 
@@ -33,4 +33,4 @@ This was also where we finally used our bikes in anger - pedaling up the Chochol
 
 After a few too many Zakopanian beers, pizzas and ice creams we realised that we were having far too much of the good life and so decided to drop over the border into Slovakia - and so ends Poland.
 
-[<< Previous Blog](043_Fame_at_last.html)        [](044_Poland.html)        [Next Blog >>](045_overlanding_toys.html)
+[<< Previous Blog](/diary/fame-at-last/)        [](/diary/poland/)        [Next Blog >>](/diary/overlanding-toys/)

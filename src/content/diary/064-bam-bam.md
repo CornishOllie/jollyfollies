@@ -19,4 +19,4 @@ We now have rented a lovely beach front apartment for a month and are in the pro
 
  
 
-[<< Previous Blog](063_The_Tao_of_Dino.html)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=87)   [Next Blog >>](065_Hindustan_zindabad.html)
+[<< Previous Blog](/diary/the-tao-of-dino/)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=87)   [Next Blog >>](/diary/hindustan-zindabad/)

@@ -7,7 +7,7 @@ original_url: 'http://www.jollyfollies.com/Diary/031_merry_Christmas_happy_new_y
 
 Quick Update
 
-Well it's been a long old time since we made a blog update, so firstly apologies for not keeping this up to date. Hopefully from here we will be back on track. When we last posted Ollie was hobbling along on a [twisted ankle](../Images/bad_ankle.jpg), whilst our heroine Jenny was fully fit and raring to go for the [Grim 8](019_merry_hic_christmas_everyone.html) part two.
+Well it's been a long old time since we made a blog update, so firstly apologies for not keeping this up to date. Hopefully from here we will be back on track. When we last posted Ollie was hobbling along on a twisted ankle, whilst our heroine Jenny was fully fit and raring to go for the [Grim 8](/diary/merry-hic-christmas-everyone/) part two.
 
 Well Ollie continued on the ill health trip having about another 5 injuries/illnesses too dull to discuss here. But the Grim athlete had a resounding success, knocking about 20 minutes off her previous P.B. So a big well done to Jenny (and Julia and JP). Photos of that and the Bupa Great South Run that Ollie and Julia ran are available [here](../Photo Albums/GreatSouthandGrim8/index.html).
 

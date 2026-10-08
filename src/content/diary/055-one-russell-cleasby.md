@@ -23,7 +23,7 @@ Our first target was Khiva, which is a town full of stunning turquoise and blue 
 
  
 
-[](../Images/TRIP/export/Khiva Chimney.JPG)          [](../Images/TRIP/export/Khiva Wall.JPG)
+          
 
  
 
@@ -69,4 +69,4 @@ Once on the other side of the border we consulted the map, and figured we should
 
 We set up camp in a small village, after asking the local elder's permission, having also phoned and texted Russ, with no response. The headman brought out tea, with ginormous sugar cubes, rock hard bread and some sweets, so we tucked into this nutritious dinner. After about an hour we finally got a call from Russ - he was going to try and push on to the lake, as he could find no ground safe enough for him to camp without scorpions, and was also aware of some road works that would close the road for the next day's daylight. All we could do was to settle down and go to bed, and hope in the morning we could safely navigate past the road works down to the lake to meet up with Russ. We were soon asleep, and dreaming of soft bread and sit down toilets when the phone rang. It was an especially cacklerly line, and Jenny could only make out two words being repeated over and over again. 'I've crashed'.......
 
-[<< Previous Blog](054_quick_catch_upt.html)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=87)    [Next Blog >>](056_mountain_madness_part_1.html)
+[<< Previous Blog](/diary/quick-catch-upt/)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=87)    [Next Blog >>](/diary/mountain-madness-part-1/)

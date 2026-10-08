@@ -41,4 +41,4 @@ The trek itself involved a 2000m climb to the base camp of Rakaposhi, a 7700m mo
 
 After spending the second day enjoying the local scenery, and eating yet more delicious food, we tackled the third , and in many ways the hardest, day. This was retracing our steps all the way back down, 2000m of toe crushing, knee grating non stop down hill, which by the end of we were almost crying with happiness to be at the bottom. But it was all worth it, and now we can really say that we have trekked in the Karakarom Mountain range, to the base camp of one of the tallest mountains in the world.Wow!
 
-[<< Previous Blog](059_crazy_china.html)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=87)   [Next Blog >>](061_on_the_road_expenses.html)
+[<< Previous Blog](/diary/crazy-china/)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=87)   [Next Blog >>](/diary/on-the-road-expenses/)

@@ -41,7 +41,7 @@ A guillotine style trap, with our crazy guide Asmail. He smiled a lot more in re
 
 Asmail turned out to be a great guide, who took us around the city with no other visitors, and hence we had his 100% attention and no other distractions. The cities themselves are fascinating, filled with hundreds of Indiana Jones style traps, a communications tower for messenger pigeons and lots of mad staircases to take you from one level to the next. When we were first shown these staircases we were both very glad we didn't have to use them, but to our amazement, this turned out to be our way out. Asmail, obviously not having heard of Health and Safety, could really bring to life what it was like to live in one of these cities. Certainly we were glad we stumbled upon this amazing place before we found the city in the Lonely Planet.
 
-[](../Images/TRIP/export/crawl.JPG)[](../Images/TRIP/export/Climb.JPG)
+
 
 Ollie Crawling, and Jenny trying to decently climb!
 
@@ -51,15 +51,15 @@ As well as the underground city Asmail took us to some Roman and pre-Roman buria
 
 Off to see the Deity
 
-[](../Images/TRIP/export/Back.JPG)So after all this excitement we still had quite a big drive ahead of us, so set off on the road to Nemrut Dagi, knowing that we would only get about half way that day. It is worth noting here that the Turkish roads we generally a delight to drive as the scenery was usually stunning, and there was rarely more than a lorry or two on the road. So as dusk drew in we found a lay by close to the side of the road, at a height of about 2km, and made camp for the night. This was our first wild camp in Turkey, but also the first time we slept in the back of Dino, rather than the roof tent. We have decided that we can be a lot more anonymous in the back. It is surprisingly comfortable in the back, but it's perhaps not the place to have a nice long leisurely lie in. To sleep in the back we do have to move most of the boxes and the fridge into the front, so we need an area not surrounded by people to start with, and it takes about the same time to do that as to set up the roof tent.
+So after all this excitement we still had quite a big drive ahead of us, so set off on the road to Nemrut Dagi, knowing that we would only get about half way that day. It is worth noting here that the Turkish roads we generally a delight to drive as the scenery was usually stunning, and there was rarely more than a lorry or two on the road. So as dusk drew in we found a lay by close to the side of the road, at a height of about 2km, and made camp for the night. This was our first wild camp in Turkey, but also the first time we slept in the back of Dino, rather than the roof tent. We have decided that we can be a lot more anonymous in the back. It is surprisingly comfortable in the back, but it's perhaps not the place to have a nice long leisurely lie in. To sleep in the back we do have to move most of the boxes and the fridge into the front, so we need an area not surrounded by people to start with, and it takes about the same time to do that as to set up the roof tent.
 
 So after a nice early start we were heading off to the magical mountain, with Ollie taking the first leg behind then wheel. We could see from our map that we would be taking a twisting road above 2km most of the time, but it was soon apparent that this road would need nerves of steel. Well for Jenny anyway! The road twisted for about 80 kilometers, climbing and then descending the mountain, all the time with a vertical drop feet away from the side of Dino. To make matters worse there were plenty of road works, reducing the road down to one lane, combined with the usual mad locals haring round the bends. After about an hour and a half, Jenny volunteered to take over the driving, thinking that the signposted last 12kms would be the glory run. Ha, little did she know what was in store for her!
 
 Just after she took over the road became a proper snaking mountain pass, with the (mostly) tarmac becoming a snaking lane with boulders littering the way.
 
-[](../Images/TRIP/export/snake pass.JPG)[](../Images/TRIP/export/hill.JPG)
 
-The road we climbed from the rear and front[](../Images/TRIP/export/Hizir Family.JPG)[](../Images/TRIP/export/Kavalte.JPG)
+
+The road we climbed from the rear and front
 
 The final few miles took us up to a (then) record of 2150m, and after about 4 hours attempting to summit the mountain (well sort of) we made it to the top to be rewarded with stunning views and mystical ruins of the previous two thousand years. It was worth it, but we both knew we had to go back down!
 
@@ -85,7 +85,7 @@ We had a lovely couple of days with these guys, sharing our last drink for a mon
 
 So as you may have guessed we have loved Turkey, even though we have been forced to miss out a lot of the highlights, due to time restrictions. We are sure we will be back some day and would urge anyone with a chance to visit.
 
-Well we are now safely tucked up in Iran, awaiting our Azerbaijan LOI, when that turns up we will be able to make our next firm plan. Remember, if you want to browse larger resolution and more photos, go to our [GALLERY](../Gallery/Gallery.html).
+Well we are now safely tucked up in Iran, awaiting our Azerbaijan LOI, when that turns up we will be able to make our next firm plan. Remember, if you want to browse larger resolution and more photos, go to our [GALLERY](/gallery/).
 
 Laters
 
@@ -99,4 +99,4 @@ Chess* 2:1, Draughts 1:2, Backgammon 11:6 Scrabble 1:1
 
 PPS Not one single drink in ten days - gulp!
 
-[<< Previous Blog](049_Ollies_Delight.html)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=82)
+[<< Previous Blog](/diary/ollies-delight/)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=82)

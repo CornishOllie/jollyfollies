@@ -7,7 +7,7 @@ original_url: 'http://www.jollyfollies.com/Diary/057_mountain_madness_part_2.htm
 
 The Road to the Festival
 
-Whilst in Osh we had a look around the busy market town as we slowly nursed Jenny back to health, and whilst doing this we stumbled across the [CBT](www.cbtkyrgyzstan.kg) (Community Based Tourism) office and decided to ask about the rumored horse festival. The CBT initiative in Kyrgyzstan is aimed at helping funnel the tourist dollar into the communities that need the investment, as well as providing interesting and unusual holiday activities Because Kyrgyzstan is so dominated by a horse culture, a lot of the initiatives are horse based, but also often includes staying in a yurt.
+Whilst in Osh we had a look around the busy market town as we slowly nursed Jenny back to health, and whilst doing this we stumbled across the [CBT](http://www.cbtkyrgyzstan.kg) (Community Based Tourism) office and decided to ask about the rumored horse festival. The CBT initiative in Kyrgyzstan is aimed at helping funnel the tourist dollar into the communities that need the investment, as well as providing interesting and unusual holiday activities Because Kyrgyzstan is so dominated by a horse culture, a lot of the initiatives are horse based, but also often includes staying in a yurt.
 
 Upon entering the CBT office we introduced ourselves to [Talant](mailto:talant_85@yahoo.com), the local CBT officer, and we knew straight away that we would be well looked after. If ever you need any information regarding tourism and Osh/Kyrgyzstan then Talant is your man, and will more than likely sort out whatever you need - he comes now fully endorsed with the Jolly Follies seal of approval!
 
@@ -39,7 +39,7 @@ The festival was comprised of four main games, all of which are supposed to show
 
 - **Ulak Tartysh**- This is the ultimate horse contest, and is played with a goat carcass and resembles a cross between polo and rugby
 
-Alongside the games there were a large number of stalls selling traditional clothes and foods (we even tried the fermented mares milks, kumiz - yumm!) and also some folk singing and dancing. No need to say we had a fantastic day watching all the crazy sights, and would put this down as one of the highlights of the trip so far. Below are some of the photos we took, but there are heaps more on the [gallery](../Gallery/Gallery.html) page. We also have some pretty crazy video of the games which we are in the process of uploading.
+Alongside the games there were a large number of stalls selling traditional clothes and foods (we even tried the fermented mares milks, kumiz - yumm!) and also some folk singing and dancing. No need to say we had a fantastic day watching all the crazy sights, and would put this down as one of the highlights of the trip so far. Below are some of the photos we took, but there are heaps more on the [gallery](/gallery/) page. We also have some pretty crazy video of the games which we are in the process of uploading.
 
 Return to Osh
 
@@ -53,4 +53,4 @@ What had been said between Ollie and this guy is not really for this blog, but o
 
 Ollie is fine now, and the wounds are almost completely healed, and we are ready for the next stage in our trip. Obviously something as stupid as this does make you think, and the rest of our trip is now in a sharp focus, and we are making sure we get the best out of our time on the road. Always a silver lining :)
 
-[<< Previous Blog](056_mountain_madness_part_1.html)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=87)   [Next Blog >>](058_mountain_madness_part_3.html)
+[<< Previous Blog](/diary/mountain-madness-part-1/)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=87)   [Next Blog >>](/diary/mountain-madness-part-3/)

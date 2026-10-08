@@ -41,4 +41,4 @@ But maybe one day ...........
 
  
 
-[<< Previous Blog](068_everybody_needs_good_neighbours.html)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=87)
+[<< Previous Blog](/diary/everybody-needs-good-neighbours/)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=87)

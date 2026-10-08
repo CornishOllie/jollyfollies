@@ -13,7 +13,7 @@ As we drove the road towards the lake it took no time at all to realise we had m
 
 Lake Iskander kul
 
-[](../Images/TRIP/export/Big Bike.JPG)
+
 
 We found out that as Russ was driving to the lake a lorry had run him off the road, pushing him onto a pile of earth or sand that caused his bike to flip over, smashing his windscreen, ripping his wing mirrors of and smashing his lights, on top of lots of scratches and scrapes. Russ, himself was just glad not to have any major damage, although he knew he would have to take some time off to recuperate. So, it was decided that we would spend about 5 days down by the lake, reading, chilling, walking and cooking. No problem for us!
 
@@ -49,14 +49,14 @@ The market itself sold nothing special, but the mix of people attending and sell
 
 After Ishkashim we made our way along the beautiful Wakhan corridor, stopping every five minutes to admire the non stop overwhelming beauty. By this point we had also picked up a Canadian backpacker, Joe, who was traveling most of the way we were, after he had been quoted $250 for a ride in a hired car for a two day journey, he decided a couple of days in the back of Dino would do him just fine. Sensible fellow. Not only was Joe good company, but he also had some top notch information, regarding a traditional horse festival being held just inside Kyrgyzstan, at the base camp for mount Lenin on the 1st of August. This was perfect timing for us and we knew we had to go.
 
-[](../Images/TRIP/export/high road.JPG)
+
 
 But by this time Jenny had started to feel really unwell, and just as we were all planning on heading to the festival together we realised we should take Jenny to a doctor. The only problem was we had just arrived to the Pamir highway proper and were in a fairly remote village. Luckily the woman owner of the homestay we were in spoke good English and helped us take Jenny to the local doctor, currently living in his summer abode - a yurt. Our main worry at this point was the the approximate 4000m altitude had given Jenny altitude sickness, especially as she was suffering a blinding headache. We had already fed her with one of the tablets that Ollie's sister, Vicky had provided, but with no visible signs of helping.
 
-[](../Images/TRIP/export/yurt doc.JPG)
+
 
 The doctor seemed very professional, and could tell straight away that Jenny had a stomach bug rather that altitude sickness, and said he had just the cure with him. Yogurt! No surprise there. Anyway, this put Jenny's mind at ease and we returned to the homestay to try and sleep off the problem. Unfortunately Jenny's night was punctuated with lots of visits to the shared village loo, and we decided that night to leave the Pamirs that night, and head to Osh, 500kms away. Before we left the village nurse turned up and gave Jenny one further cure, garlic bandaged to her head. We were now ready to leave.
 
 We said our goodbyes to our friends and drove with Godspeed, almost all the way to Osh, with Jenny at one point lying down in the back of Dino, just like an ambulance. When we arrived in Osh, we booked ourselves into the Deluxe Hotel (with a price tag to match) and hoped Jenny would be fixed for the 200km journey back the way we had just came, in time for the horse festival.
 
-[<< Previous Blog](055_one_russell_cleasby.html)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=87)
+[<< Previous Blog](/diary/one-russell-cleasby/)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=87)

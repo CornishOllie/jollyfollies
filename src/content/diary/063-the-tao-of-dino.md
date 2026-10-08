@@ -41,7 +41,7 @@ We definitely over paid, but with the hindsight that is now available to us, nei
 
 With all this work done we were ready to go. Although we were still nervous, every expert who examined Dino told us the chassis and the engine were in fantastic condition and we should be in great shape for our trip.
 
-[](../Images/TRIP/export/serivce.jpg)
+
 
 Dino's First Road Service
 
@@ -113,4 +113,4 @@ All in all we are soooo glad we brought Dino from Richard and Camilla, and we ho
 
  
 
-[<< Previous Blog](062_sober_reflection.html)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=87)
+[<< Previous Blog](/diary/sober-reflection/)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=87)

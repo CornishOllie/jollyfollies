@@ -59,4 +59,4 @@ As well as all the kit we have used I should list that which we haven't.
 
  
 
-[<< Previous Blog](044_Poland.html)      [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=77)   [](044_Poland.html)[Next Blog >>](046_Mooching_in_Magyar.html)
+[<< Previous Blog](/diary/poland/)      [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=77)   [](/diary/poland/)[Next Blog >>](/diary/mooching-in-magyar/)

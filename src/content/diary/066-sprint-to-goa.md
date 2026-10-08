@@ -13,7 +13,7 @@ So after an incredibly hard nine holes, where 4 balls and plenty of pride was lo
 
 As well as these lovely people (whom we met again later in the week for more tea) Ollie was also asked to take part in the club competition that was running - "The Dr Y S Parmar Memorial Foundation" - but with Ollie's pride still being nursed from the round, we decided to move onwards to Shimla.
 
-[](../Images/TRIP/export/serivce.jpg)Having stayed the night at the golf course we left with both of us feeling decidedly unwell, but luckily the drive to Shimla was only an hour. Arriving at the quaint hill city of Shimla is like arriving in a strange surreal English village, transplanted to the jungle furred hills of India. The city, until the World War II, was the summer capital of all of Pakistan, India, Bangladesh, Burma and Sri Lanka - an incredibly large and diverse region, and all paperwork and civil servants would be transferred from the sweltering and oppressive heat of Dehli up to the relative cool of the hills. And damn it, they weren't wrong! We loved the climate nestled on the hill, and enjoyed our little strolls along the English style main street, passed the red post office and underneath the custard yellow church.
+Having stayed the night at the golf course we left with both of us feeling decidedly unwell, but luckily the drive to Shimla was only an hour. Arriving at the quaint hill city of Shimla is like arriving in a strange surreal English village, transplanted to the jungle furred hills of India. The city, until the World War II, was the summer capital of all of Pakistan, India, Bangladesh, Burma and Sri Lanka - an incredibly large and diverse region, and all paperwork and civil servants would be transferred from the sweltering and oppressive heat of Dehli up to the relative cool of the hills. And damn it, they weren't wrong! We loved the climate nestled on the hill, and enjoyed our little strolls along the English style main street, passed the red post office and underneath the custard yellow church.
 
     
 
@@ -47,4 +47,4 @@ So, we are now in Goa, along with 3 other bikers who are also recuperating here 
 
  
 
-[<< Previous Blog](065_Hindustan_zindabad.html)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=87)   [Next Blog >>](067_all_good_things.html)
+[<< Previous Blog](/diary/hindustan-zindabad/)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=87)   [Next Blog >>](/diary/all-good-things/)
