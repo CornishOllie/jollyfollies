@@ -5,7 +5,7 @@ import galleries from '../../data/galleries.json';
 import { getDiary, excerpt } from '../../utils';
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
-const diary = await getDiary();
+const diary = (await getDiary()).reverse(); // oldest first by default; the toggle below flips it
 
 const coverFor = {};
 for (const a of galleries.albums) {
@@ -21,7 +21,7 @@ for (const e of diary) {
   if (!byYear.has(y)) byYear.set(y, []);
   byYear.get(y)!.push(e);
 }
-const years = [...byYear.keys()].sort((a, b) => b - a);
+const years = [...byYear.keys()].sort((a, b) => a - b);
 const cleanSlug = (s: string) => s.replace(/^\d+-/, '');
 ---
 <BaseLayout title="The Diary" description="Every entry from the Jolly Follies travel diary. Land's End to Sydney, written on the road.">
@@ -29,12 +29,18 @@ const cleanSlug = (s: string) => s.replace(/^\d+-/, '');
     <div class="wrap">
       <div class="section-head flow">
         <p class="eyebrow">The Diary</p>
-        <h1>Every entry, from the first idea to the far side of the world</h1>
-        <p class="lede">{diary.length} entries, newest first. Written at the time and kept as we wrote them, typos aside.</p>
+        <h1 class="diary-title">Every entry, from the first idea to the far side of the world</h1>
+        <p class="lede">{diary.length} entries. Written at the time and kept as we wrote them, typos aside.</p>
+        <div class="order-toggle" role="group" aria-label="Order of entries">
+          <button type="button" data-order="oldest" aria-pressed="true">Oldest first</button>
+          <button type="button" data-order="newest" aria-pressed="false">Newest first</button>
+        </div>
       </div>
 
+      <div id="diary-years">
+
       {years.map((year) => (
-        <div style="margin-top:2.5rem;">
+        <div class="diary-year" style="margin-top:2.5rem;">
           <h2 style="border-bottom:1px solid var(--line); padding-bottom:.4rem;">{year}</h2>
           <div class="card-grid" style="margin-top:1.4rem;">
             {byYear.get(year)!.map((e, i) => (
@@ -51,6 +57,30 @@ const cleanSlug = (s: string) => s.replace(/^\d+-/, '');
           </div>
         </div>
       ))}
+      </div>
     </div>
   </section>
 </BaseLayout>
+
+<script is:inline>
+  // Flip the year blocks and the cards within each year. The page is built
+  // oldest first, so it reads in order even without JavaScript.
+  (function () {
+    const wrap = document.getElementById('diary-years');
+    const buttons = document.querySelectorAll('.order-toggle button');
+    let current = 'oldest';
+    function apply(order) {
+      if (order !== current) {
+        [...wrap.children].reverse().forEach((y) => wrap.appendChild(y));
+        wrap.querySelectorAll('.card-grid').forEach((g) => [...g.children].reverse().forEach((c) => g.appendChild(c)));
+        current = order;
+      }
+      buttons.forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.order === order)));
+      try { localStorage.setItem('jf-diary-order', order); } catch (e) {}
+    }
+    buttons.forEach((b) => b.addEventListener('click', () => apply(b.dataset.order)));
+    let saved = null;
+    try { saved = localStorage.getItem('jf-diary-order'); } catch (e) {}
+    if (saved === 'newest') apply('newest');
+  })();
+</script>

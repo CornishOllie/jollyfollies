@@ -251,6 +251,15 @@ section { padding-block: clamp(2.5rem, 6vw, 4.5rem); }
 .comment-meta { font-family: var(--serif-display); font-size: .85rem; color: var(--ink-soft); margin-bottom: .3rem !important; }
 .comment-meta strong { color: var(--ink); }
 
+.diary-title { font-size: clamp(1.6rem, 3.4vw, 2.2rem); }
+.order-toggle { display: inline-flex; border: 1px solid var(--line); border-radius: 999px; padding: 3px; gap: 2px; background: var(--card); }
+.order-toggle button {
+  font: inherit; font-family: var(--serif-display); font-size: .88rem; cursor: pointer;
+  border: 0; border-radius: 999px; padding: .35rem .9rem; background: transparent; color: var(--ink-soft);
+}
+.order-toggle button[aria-pressed="true"] { background: var(--navy); color: var(--paper); }
+.order-toggle button:focus-visible { outline: 2px solid var(--sun-coral); outline-offset: 2px; }
+
 /* ---------- panels / callouts ---------- */
 .panel {
   background: var(--mint-soft); border: 1px solid var(--mint-line); border-radius: var(--radius);
