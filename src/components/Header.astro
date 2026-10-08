@@ -19,22 +19,21 @@ const here = (href: string) => {
   return cur === full;
 };
 ---
-<header class="site-header">
-  {isHome && (
-    <div class="hero" style={`--hero-img: url('${base}/images/hero-valley.jpg')`}>
-      <div class="wrap hero-inner">
-        <DefenderLogo class="hero-defender" />
-        <h1 class="wordmark">Jolly Follies</h1>
-        <p class="hero-tag">Land's End to Sydney, overland, in a Land Rover called DINO.</p>
-        <div class="hero-meta">
-          <span>🧭 13 April 2009 to Spring 2010</span>
-          <span>🚙 1990s Defender 110 200Tdi</span>
-          <span>💛 Driven for VSO</span>
-        </div>
+{isHome && (
+  <div class="hero" style={`--hero-img: url('${base}/images/hero-valley.jpg')`}>
+    <div class="wrap hero-inner">
+      <h1 class="wordmark">Jolly Follies</h1>
+      <p class="hero-tag">Land's End to Sydney, overland, in a Land Rover called DINO.</p>
+      <div class="hero-meta">
+        <span>🧭 13 April 2009 to Spring 2010</span>
+        <span>🚙 1990s Defender 110 200Tdi</span>
+        <span>💛 Driven for VSO</span>
       </div>
-      <span class="hero-credit">On the road through Kyrgyzstan</span>
     </div>
-  )}
+    <span class="hero-credit">On the road through Kyrgyzstan</span>
+  </div>
+)}
+<header class="site-header">
   <nav class="nav-bar" aria-label="Primary">
     <div class="wrap nav-inner">
       <a class="nav-brand" href={base + '/'}>

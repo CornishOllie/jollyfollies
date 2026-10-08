@@ -140,18 +140,19 @@ section { padding-block: clamp(2.5rem, 6vw, 4.5rem); }
     radial-gradient(120% 80% at 75% -10%, rgba(246,215,159,.40) 0%, transparent 55%),
     linear-gradient(180deg, rgba(20,42,64,.30) 0%, rgba(20,42,64,.12) 38%, rgba(20,42,64,.55) 78%, rgba(18,34,52,.82) 100%);
 }
-.hero-inner { display: grid; gap: .75rem; padding-block: clamp(2rem, 5vw, 3.25rem); text-align: center; justify-items: center; }
+.hero-inner { display: grid; gap: .35rem; padding-block: clamp(1.1rem, 2.5vw, 1.6rem); text-align: center; justify-items: center; }
 .wordmark {
   font-family: var(--serif-display); font-weight: 600;
-  font-size: clamp(2.4rem, 7vw, 4.25rem); line-height: .95;
+  font-size: clamp(2rem, 4.5vw, 2.9rem); line-height: .95;
   color: #fdf7ec; margin: 0; letter-spacing: -0.02em;
   text-shadow: 0 2px 20px rgba(10,20,30,.5);
 }
-.hero-tag { font-size: clamp(1.05rem, 2.4vw, 1.45rem); font-style: italic; max-width: 52ch; margin: 0; line-height: 1.4; color: #f4ead9; text-shadow: 0 1px 12px rgba(10,20,30,.6); }
-.hero-defender { width: clamp(96px, 14vw, 150px); height: auto; color: #fdf7ec; filter: drop-shadow(0 6px 18px rgba(10,20,30,.6)); }
-.hero-meta { display: flex; flex-wrap: wrap; gap: .4rem 1.2rem; justify-content: center; font-family: var(--serif-display); font-size: .92rem; color: #f4ead9; text-shadow: 0 1px 10px rgba(10,20,30,.7); }
+.hero-tag { font-size: clamp(.95rem, 1.8vw, 1.15rem); font-style: italic; max-width: 52ch; margin: 0; line-height: 1.4; color: #f4ead9; text-shadow: 0 1px 12px rgba(10,20,30,.6); }
+.hero-defender { width: clamp(56px, 7vw, 80px); height: auto; color: #fdf7ec; filter: drop-shadow(0 6px 18px rgba(10,20,30,.6)); }
+.hero-meta { display: flex; flex-wrap: wrap; gap: .4rem 1.2rem; justify-content: center; font-family: var(--serif-display); font-size: .82rem; color: #f4ead9; text-shadow: 0 1px 10px rgba(10,20,30,.7); }
 .hero-meta span { display: inline-flex; align-items: center; gap: .4rem; }
 .hero-credit { position: absolute; bottom: .5rem; right: .8rem; font-size: .7rem; color: rgba(253,247,236,.65); z-index: 1; font-family: var(--serif-display); }
+@media (max-width: 640px) { .hero-credit { display: none; } }
 
 /* ---------- nav ---------- */
 .nav-bar { background: var(--paper); border-bottom: 1px solid var(--line); }
