@@ -234,6 +234,15 @@ section { padding-block: clamp(2.5rem, 6vw, 4.5rem); }
 .entry-nav a { font-family: var(--serif-display); text-decoration: none; max-width: 45%; }
 .entry-nav .label { display: block; font-size: .72rem; text-transform: uppercase; letter-spacing: .1em; color: var(--ink-soft); }
 
+.comments { max-width: var(--measure); margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid var(--line); }
+.comments h2 { margin: 0 0 .2rem; }
+.comments-note { margin: 0 0 1rem; color: var(--ink-soft); font-size: .9rem; }
+.comments ol { list-style: none; margin: 0; padding: 0; display: grid; gap: .8rem; }
+.comments li { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius-sm); padding: .8rem 1rem; }
+.comments li p { margin: 0; }
+.comment-meta { font-family: var(--serif-display); font-size: .85rem; color: var(--ink-soft); margin-bottom: .3rem !important; }
+.comment-meta strong { color: var(--ink); }
+
 /* ---------- panels / callouts ---------- */
 .panel {
   background: var(--mint-soft); border: 1px solid var(--mint-line); border-radius: var(--radius);

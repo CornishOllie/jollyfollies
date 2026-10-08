@@ -2,6 +2,7 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import PhotoGallery from '../../components/PhotoGallery.astro';
 import galleries from '../../data/galleries.json';
+import forumComments from '../../data/forum-comments.json';
 import { getDiary, fmtDate } from '../../utils';
 
 export async function getStaticPaths() {
@@ -23,6 +24,7 @@ const { Content } = await entry.render();
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
 const cleanSelf = entry.slug.replace(/^\d+-/, '');
+const comments = forumComments[cleanSelf] || [];
 const legs = galleries.albums.filter((a) => a.entry_clean === cleanSelf);
 const fmtShort = (d) => d ? new Intl.DateTimeFormat('en-GB', { day: 'numeric', month: 'short', year: 'numeric' }).format(new Date(d)) : '';
 const words = entry.body.split(/\s+/).filter(Boolean).length;
@@ -41,6 +43,21 @@ const ogImg = legs[0]?.photos?.[0]?.src || '/images/ollie-and-dino.jpg';
       <article class="prose flow">
         <Content />
       </article>
+
+      {comments.length > 0 && (
+        <section class="comments" aria-labelledby="comments-h">
+          <h2 id="comments-h">From the forum</h2>
+          <p class="comments-note">Comments left by readers at the time, recovered from the old site.</p>
+          <ol>
+            {comments.map((c) => (
+              <li>
+                <p class="comment-meta"><strong>{c.author}</strong> · <time datetime={c.date}>{fmtShort(c.date)}</time></p>
+                <p>{c.text}</p>
+              </li>
+            ))}
+          </ol>
+        </section>
+      )}
 
       {legs.length > 0 && (
         <section style="padding-block:1.5rem 0;">
@@ -72,7 +89,7 @@ const ogImg = legs[0]?.photos?.[0]?.src || '/images/ollie-and-dino.jpg';
 
       {entry.data.original_url && (
         <p style="margin-top:2rem;font-size:.85rem;color:var(--ink-soft);">
-          Originally published at <code>{entry.data.original_url.replace('http://www.','')}</code>
+          Originally published at <code style="overflow-wrap:anywhere;">{entry.data.original_url.replace('http://www.','')}</code>
         </p>
       )}
     </div>

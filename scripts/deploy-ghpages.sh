@@ -17,6 +17,12 @@ npm run build
 
 echo "Preparing gh-pages tree…"
 cp -R dist/* "$TMP"/
+# The classic replica (../jollyfollies-replica) lives under /classic on the same
+# branch. Carry the live copy over so this force-push does not delete it.
+LIVE="$(mktemp -d)"
+git clone -q --depth 1 --branch gh-pages "$REPO_URL" "$LIVE"
+if [ -d "$LIVE/classic" ]; then cp -R "$LIVE/classic" "$TMP/classic"; else echo "Warning: no /classic on live gh-pages"; fi
+rm -rf "$LIVE"
 touch "$TMP/.nojekyll"
 cd "$TMP"
 git init -q
