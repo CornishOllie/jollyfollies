@@ -2,19 +2,14 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import DiaryCard from '../components/DiaryCard.astro';
 import galleries from '../data/galleries.json';
-import { getDiary, excerpt } from '../utils';
+import { getDiary, excerpt, coverFor } from '../utils';
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const diary = await getDiary();
 const latest = diary.slice(0, 6);
 
-// first photo of an entry's mapped leg, for card covers
-const coverFor = {};
-for (const a of galleries.albums) {
-  if (a.entry_clean && a.photos.length && !coverFor[a.entry_clean]) {
-    coverFor[a.entry_clean] = a.photos[Math.floor(a.photos.length/2)].thumb;
-  }
-}
+// card covers: the entry's own photo, else one from its trip leg (see utils)
+const covers = new Map(await Promise.all(latest.map(async (e) => [e.slug, await coverFor(e)] as const)));
 const clean = (s) => s.replace(/^\d+-/, '');
 
 const sections = [
@@ -63,7 +58,8 @@ const sections = [
                 datePrecision={e.data.date_precision}
             excerpt={excerpt(e.body)}
             index={i}
-            cover={coverFor[clean(e.slug)]}
+            cover={covers.get(e.slug)?.src}
+                coverSmall={covers.get(e.slug)?.small}
           />
         ))}
       </div>

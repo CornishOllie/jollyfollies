@@ -210,6 +210,12 @@ section { padding-block: clamp(2.5rem, 6vw, 4.5rem); }
 .card:hover { transform: translateY(-3px); box-shadow: var(--shadow-lift); }
 .card a.card-link { text-decoration: none; color: inherit; display: flex; flex-direction: column; height: 100%; }
 .card-media { aspect-ratio: 16 / 10; background: var(--mint-soft); position: relative; }
+.card-media-small { overflow: hidden; }
+.card-media-small img {
+  position: absolute; inset: 0; margin: auto; width: auto; height: auto;
+  max-width: calc(100% - 2rem); max-height: calc(100% - 2rem);
+  border-radius: var(--radius-sm); box-shadow: var(--shadow);
+}
 .card-body { padding: 1.1rem 1.2rem 1.3rem; display: flex; flex-direction: column; gap: .5rem; flex: 1; }
 .card-date { font-family: var(--serif-display); font-size: .78rem; letter-spacing: .04em; color: var(--sun-coral); text-transform: uppercase; }
 .card-title { font-family: var(--serif-display); font-size: 1.2rem; color: var(--navy); margin: 0; line-height: 1.2; }

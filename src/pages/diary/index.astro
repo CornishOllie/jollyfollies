@@ -2,17 +2,13 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import DiaryCard from '../../components/DiaryCard.astro';
 import galleries from '../../data/galleries.json';
-import { getDiary, excerpt } from '../../utils';
+import { getDiary, excerpt, coverFor } from '../../utils';
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const diary = (await getDiary()).reverse(); // oldest first by default; the toggle below flips it
 
-const coverFor = {};
-for (const a of galleries.albums) {
-  if (a.entry_clean && a.photos.length && !coverFor[a.entry_clean]) {
-    coverFor[a.entry_clean] = a.photos[Math.floor(a.photos.length/2)].thumb;
-  }
-}
+// card covers: the entry's own photo, else one from its trip leg (see utils)
+const covers = new Map(await Promise.all(diary.map(async (e) => [e.slug, await coverFor(e)] as const)));
 
 // group by year for a scannable timeline
 const byYear = new Map<number, typeof diary>();
@@ -51,7 +47,8 @@ const cleanSlug = (s: string) => s.replace(/^\d+-/, '');
                 datePrecision={e.data.date_precision}
                 excerpt={excerpt(e.body)}
                 index={i}
-                cover={coverFor[cleanSlug(e.slug)]}
+                cover={covers.get(e.slug)?.src}
+                coverSmall={covers.get(e.slug)?.small}
               />
             ))}
           </div>

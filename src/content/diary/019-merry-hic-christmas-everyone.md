@@ -8,6 +8,8 @@ original_url: 'http://www.jollyfollies.com/Diary/019_merry_hic_christmas_everyon
 
 **Grim 8 and More**
 
+![Runners](/diary-media/extras/merry-hic-christmas-everyone__runners.jpg)
+
 Well it's been a month since our last blog, so firstly apologies for the delay. It's been a busy time in the run up to Christmas, but both of us are now safely off work and enjoying our break.
 
 The picture to the left is of the six of us who ran the [Grim Challenge](http://www.grimchallenge.co.uk/index.html), an 8 mile run through horrendous pits of water. We've put a video at the end of this blog for your amusement! All 6 of us completed the run, with Olive finishing the first in a time of just under 1hr 30mins! Well done Olive (again!).
