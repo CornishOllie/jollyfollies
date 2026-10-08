@@ -17,7 +17,7 @@ It looks so painful every time they fall over, and up until the time they rolled
 
 Webify (Ollie);
 
-**I have spent the last week on a fantastic PERL course in Melksham. This is a work sponsored course, but will certainly help me in my long term objective of creating and understanding websites. The tutor is Graham Ellis of [http://www.wellho.net/](http://www.wellho.net/) and I cannot write enough good stuff about him and the course. He is 100% enthusiastic for the subject, with a depth of knowledge only challenged by the legendary UberNerds of Valhalla (ok I'm making that up). Graham is the driving force behind Welllhouse consulting, and I would say that Graham (and Lisa) are just going to create a better and better leaning environment. Big up Graham and big up PERL :)
+**I have spent the last week on a fantastic PERL course in Melksham. This is a work sponsored course, but will certainly help me in my long term objective of creating and understanding websites. The tutor is Graham Ellis of [http://www.wellho.net/](http://www.wellho.net/) and I cannot write enough good stuff about him and the course. He is 100% enthusiastic for the subject, with a depth of knowledge only challenged by the legendary UberNerds of Valhalla (ok I'm making that up). Graham is the driving force behind Wellhouse consulting, and I would say that Graham (and Lisa) are just going to create a better and better leaning environment. Big up Graham and big up PERL :)
 
 So give me 6 months, and this website will have all the bells and whistles!!
 

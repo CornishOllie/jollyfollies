@@ -17,7 +17,7 @@ Because of the lack of staff we had to have other travelers to help translate th
 
 Tabriz
 
-Once out of the border and into Iran we decided to head straight to Tabriz, stopping only to pick up some cakes (cake and pastry shops are everywhere, though no pasty shops). Tabriz is a town made up almost wholly of Turkish Iranians, and is thought of as a modern forward thinking part of Iran. We also learnt that upto 40% of the Iranian population is Turkic, and although they speak Turkish amongst their families, they learn nothing of their heritage at schools. Although not a burning issue, you could tell that this is something they would like changed.
+Once out of the border and into Iran we decided to head straight to Tabriz, stopping only to pick up some cakes (cake and pastry shops are everywhere, though no pasty shops). Tabriz is a town made up almost wholly of Turkish Iranians, and is thought of as a modern forward thinking part of Iran. We also learnt that up to 40% of the Iranian population is Turkic, and although they speak Turkish amongst their families, they learn nothing of their heritage at schools. Although not a burning issue, you could tell that this is something they would like changed.
 
 We managed to time our arrival with dusk and were soon completely lost in the craziest traffic we had ever seen. No one follows any traffic rules and driving in Iranian cities is a macho case of survival of the fittest, quickest and biggest - and this was a total shock to our system. But, funnily enough it is no long before you realise that this form of driving can be fun, because you can throw the highway code out of the window and just go for it.
 

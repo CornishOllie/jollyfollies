@@ -33,13 +33,13 @@ As well as staying together in Khiva we spent one night wild camping, below some
 
  
 
-Khiva, Bhukara and Samarkand
+Khiva, Bukhara and Samarkand
 
 We ended up spending five days at Khiva, which is certainly too long for what is available to see as a tourist, but it was nice for us to spend some chilled time together with Russ, and we had struck a real bargain for our hotel at $10 a night including breakfast. For those heading to Uzbekistan in our wake we would recommend the Hotel Arqonchi, not far from the big fat incomplete minaret, and also the Oriental Nook restaurant (see piccie below), only five minutes walk away. Either way bargain hard for your hotel room as we reduced this down from $35 a night!!!
 
 We would have only spent 4 nights in Khiva, but as we were about to leave I managed to pick up our first real bug, a 24 hour vomitathon. Not at all girls blousy like Russ' illness, rather a real man's illness for a real man. As usual Jenny came good and nursed me to complete health (ie she stopped me drinking).
 
-With Khiva done, the normal tourist route takes you on to Bhukara, Samarkand and possibly Tashkent, but both me and Jenny were a bit overdone on astonishingly beautiful mosques and minarets, so we decided to give Samarkand a miss. And our advice would be, if you are a big Islamic architecture fan, go to all three, otherwise go to either Bhukara or Khiva but not both. So, after two days in Bhukara, we took the overnight, 3rd class train on to Tashkent (to give you a clue how much fun that was, we happily paid for 1st class on our return) and started the search for a Chinese visa.
+With Khiva done, the normal tourist route takes you on to Bukhara, Samarkand and possibly Tashkent, but both me and Jenny were a bit overdone on astonishingly beautiful mosques and minarets, so we decided to give Samarkand a miss. And our advice would be, if you are a big Islamic architecture fan, go to all three, otherwise go to either Bukhara or Khiva but not both. So, after two days in Bukhara, we took the overnight, 3rd class train on to Tashkent (to give you a clue how much fun that was, we happily paid for 1st class on our return) and started the search for a Chinese visa.
 
 Facking Tashkent Chinese Embassy
 
@@ -51,7 +51,7 @@ We also hooked up with our American friends traveling on push bikes, Natalie and
 
 Lying and Cheating
 
-Fully ensconced in the Grand Orzu ($65/night for triple room) Russ and Jenny set about finding a travel agency that would secure us a Chinese visa, whilst I guarded our place by the pool. The agency, Irena Sport and Travel, took the money and promised us that they would sort out the visa. There was only one hitch, they spoke no English and hence the whole application was done with a combination of mime, basic Russian and a sample application form. Because we needed the visa fast we had to pay double the already extortionate price, but this would be worth it as we would be able to leave the expensive capital and get back to frugal living. All we had to do was wait until Friday at 5pm to pick up the visas, and then hop onto our first class return train to Bhukara at 7pm. Sounds simple - so perhaps time for a celebratory cake?
+Fully ensconced in the Grand Orzu ($65/night for triple room) Russ and Jenny set about finding a travel agency that would secure us a Chinese visa, whilst I guarded our place by the pool. The agency, Irena Sport and Travel, took the money and promised us that they would sort out the visa. There was only one hitch, they spoke no English and hence the whole application was done with a combination of mime, basic Russian and a sample application form. Because we needed the visa fast we had to pay double the already extortionate price, but this would be worth it as we would be able to leave the expensive capital and get back to frugal living. All we had to do was wait until Friday at 5pm to pick up the visas, and then hop onto our first class return train to Bukhara at 7pm. Sounds simple - so perhaps time for a celebratory cake?
 
 Arriving at the travel agency on Friday we were told that we would have to wait until 6pm, as the Chinese were in a meeting (Free Tibet? Flood 10 million people? Remove free tea from the canteen?), so we got out the cards and played a game or two of Sheizer Koffen. At 6pm on the dot our passports turned up and we were ready to party, until I checked the date - it was a month too early! Damn Damn Damn. Obviously a debate started about the rights and wrongs of this, and it was soon obvious that we weren't going to get a replacement visa, and hence all we were discussing was whether we would get a rebate. We knew we had a strict time limit, as our train was leaving in less than an hour, but Irena was a hard ball foe. All we could get out of her was she would give us the agency fee back, but she wanted to rip the visa out of our passports. Obviously no good for us.
 
@@ -59,9 +59,9 @@ As the clock moved to half past we played our final hand, a pretend phone call t
 
 To Tajikistan
 
-Our 1st class journey back to Bhukara was all the merrier for our small victory, and we celebrated as we often do in central Asia, with some bread. Bread is, as you would expect, a staple of the central Asia diet, but this does not explain why it is mostly cardboard like and tasteless. Don't mistake this moan for dissatisfaction, as we have all got used to it, and now can chew our way through month old bread like a local.
+Our 1st class journey back to Bukhara was all the merrier for our small victory, and we celebrated as we often do in central Asia, with some bread. Bread is, as you would expect, a staple of the central Asia diet, but this does not explain why it is mostly cardboard like and tasteless. Don't mistake this moan for dissatisfaction, as we have all got used to it, and now can chew our way through month old bread like a local.
 
-On arrival back to Bhukara we picked up the bike and Dino (who had had the French flag stolen from him) and headed for Tajikistan, via Samarkand where had a quick peep at the Registan, which looked blue and tile like. Soon we were at the border, where again we crossed in about an hour, to find a whole new landscape - hills and mountains.
+On arrival back to Bukhara we picked up the bike and Dino (who had had the French flag stolen from him) and headed for Tajikistan, via Samarkand where had a quick peep at the Registan, which looked blue and tile like. Soon we were at the border, where again we crossed in about an hour, to find a whole new landscape - hills and mountains.
 
 Final Destination
 

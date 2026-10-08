@@ -36,7 +36,7 @@ Ha ha, little will people know! The canoe has been tried out locally on the Test
 
 ****
 
-Our final major new piece of kit was a leaving present to Ollie from his work, where he had been working for six years. Ollie's original plan had been to stay in his nice comfortable chair until Jolllyfollies set sail in 2009. But to his surprise Ollie was signed up by the reformed Boy Band, Boyzone. Hence Ollie is currently in Dublin, rehearsing for the new tour. OK, that's not quite true, but Ollie did get an offer of a new job, which made a lot of sense both financially and for his future, bearing in mind he will soon be a nomad. Ollie's long suffering workmates had long known about his plans to drive to Australia, and hence had also known exactly what it was Ollie would want as a leaving present - a LEATHERMAN! Woohoo! Now Ollie can hang round with the real overlanders without being found out!
+Our final major new piece of kit was a leaving present to Ollie from his work, where he had been working for six years. Ollie's original plan had been to stay in his nice comfortable chair until Jollyfollies set sail in 2009. But to his surprise Ollie was signed up by the reformed Boy Band, Boyzone. Hence Ollie is currently in Dublin, rehearsing for the new tour. OK, that's not quite true, but Ollie did get an offer of a new job, which made a lot of sense both financially and for his future, bearing in mind he will soon be a nomad. Ollie's long suffering workmates had long known about his plans to drive to Australia, and hence had also known exactly what it was Ollie would want as a leaving present - a LEATHERMAN! Woohoo! Now Ollie can hang round with the real overlanders without being found out!
 
 **Dino to the Doctors!**
 

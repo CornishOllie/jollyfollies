@@ -13,7 +13,7 @@ So after an incredibly hard nine holes, where 4 balls and plenty of pride was lo
 
 As well as these lovely people (whom we met again later in the week for more tea) Ollie was also asked to take part in the club competition that was running - "The Dr Y S Parmar Memorial Foundation" - but with Ollie's pride still being nursed from the round, we decided to move onwards to Shimla.
 
-Having stayed the night at the golf course we left with both of us feeling decidedly unwell, but luckily the drive to Shimla was only an hour. Arriving at the quaint hill city of Shimla is like arriving in a strange surreal English village, transplanted to the jungle furred hills of India. The city, until the World War II, was the summer capital of all of Pakistan, India, Bangladesh, Burma and Sri Lanka - an incredibly large and diverse region, and all paperwork and civil servants would be transferred from the sweltering and oppressive heat of Dehli up to the relative cool of the hills. And damn it, they weren't wrong! We loved the climate nestled on the hill, and enjoyed our little strolls along the English style main street, passed the red post office and underneath the custard yellow church.
+Having stayed the night at the golf course we left with both of us feeling decidedly unwell, but luckily the drive to Shimla was only an hour. Arriving at the quaint hill city of Shimla is like arriving in a strange surreal English village, transplanted to the jungle furred hills of India. The city, until the World War II, was the summer capital of all of Pakistan, India, Bangladesh, Burma and Sri Lanka - an incredibly large and diverse region, and all paperwork and civil servants would be transferred from the sweltering and oppressive heat of Delhi up to the relative cool of the hills. And damn it, they weren't wrong! We loved the climate nestled on the hill, and enjoyed our little strolls along the English style main street, passed the red post office and underneath the custard yellow church.
 
     
 
@@ -23,7 +23,7 @@ Having stayed the night at the golf course we left with both of us feeling decid
 
 Chandigarh
 
-From Shimla it was a short hop down to Chandigarh, India's most modern town, designed by Le Corbusier in the 1960's. For us though, it was a by product of this new town status that had drawn us here. Chadigarh holds one of India's biggest tourist attractions, Nek Chand's Rock Garden. This was originally a private monument/protest built out of all the rubbish and rubble that was created in the destruction of the old village houses to make way for Modern Chandigarh. Once it was found, it was obvious that something special had been created and the garden now has a special place in Chandigarh's heart, but also history.
+From Shimla it was a short hop down to Chandigarh, India's most modern town, designed by Le Corbusier in the 1960's. For us though, it was a by product of this new town status that had drawn us here. Chandigarh holds one of India's biggest tourist attractions, Nek Chand's Rock Garden. This was originally a private monument/protest built out of all the rubbish and rubble that was created in the destruction of the old village houses to make way for Modern Chandigarh. Once it was found, it was obvious that something special had been created and the garden now has a special place in Chandigarh's heart, but also history.
 
            
 
@@ -37,7 +37,7 @@ After Chandigarh we found that Jenny was ill with morning sickness most of the t
 
 From Hadiwar it was our worst journey of the whole trip, with us arriving in Delhi after non stop five hour drive, with both of us having to sprint for the toilet of the first hotel we could find. (Un?)luckily for us it was a five star hotel and we just felt duty bound to stay there :)
 
-After Jenny's first scan in Delhi, we then made it our mission to get to Goa as quickly as possible, so we could relax, and get Jenny back into good health. Delhi to Goa is a 4 day drive, with no let up, and so we just gritted our teeth and got on with it, passing through both Jaipur and Udapur with hardly a backward glance - although if we could go again Udapur certainly looked worth a second visit. We also missed out Agra and the Taj Mahal, which would have been a highlight for both of us on the trip, but at that point, Jenny was our priority.
+After Jenny's first scan in Delhi, we then made it our mission to get to Goa as quickly as possible, so we could relax, and get Jenny back into good health. Delhi to Goa is a 4 day drive, with no let up, and so we just gritted our teeth and got on with it, passing through both Jaipur and Udaipur with hardly a backward glance - although if we could go again Udaipur certainly looked worth a second visit. We also missed out Agra and the Taj Mahal, which would have been a highlight for both of us on the trip, but at that point, Jenny was our priority.
 
 On the way to Goa we stopped in Mumbai, a huge sprawling city, to get Jenny's 3 month tests completed. We didn't get to explore the city, which is a shame as we have read two books, Shamtaram and the Moor's Last Sigh, which are based there. But our impression was it was just another massive urban sprawl - although we did find the best steak of the trip there - all things have their compensations!
 

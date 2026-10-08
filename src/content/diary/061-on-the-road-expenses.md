@@ -7,7 +7,7 @@ original_url: 'http://www.jollyfollies.com/Diary/061_on_the_road_expenses.html'
 
 The Spreadsheet of Knowledge
 
-Almost every penny (cent, som, rupee etc) we spend is written down in a notebook that we keep in the front of the landie or in our hotel room. Once a week or so I update this to the spreadsheet, breaking the data down into various groups such as accommodation, eating out or diesel. The catch all is shopping, which is where anything that is not catorgorised is recorded. I would estimate that we record at least 95% of our spendings, if not more, as I get a kick out of watching the stats grow. I know I am sad, as Jenny reminds me almost every day. although I think she secretly likes it too.
+Almost every penny (cent, som, rupee etc) we spend is written down in a notebook that we keep in the front of the landie or in our hotel room. Once a week or so I update this to the spreadsheet, breaking the data down into various groups such as accommodation, eating out or diesel. The catch all is shopping, which is where anything that is not categorised is recorded. I would estimate that we record at least 95% of our spendings, if not more, as I get a kick out of watching the stats grow. I know I am sad, as Jenny reminds me almost every day. although I think she secretly likes it too.
 
 The only things missing from our one the road expenses are very few minor bank charges that we don't know about, and some small DDs still coming out of our bank at home.
 

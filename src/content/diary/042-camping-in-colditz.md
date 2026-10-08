@@ -37,7 +37,7 @@ We had driven only as far as Penzance when Mark, a fellow overlander, drove past
 
 The Road to Rouen (14th April 2009) - Day 2
 
-(Food -> Pain au Raisan, cheese baguettes, Jenny's vege pasta (with a little added saucison))
+(Food -> Pain au Raisan, cheese baguettes, Jenny's vege pasta (with a little added saucisson))
 
 (Money ->140 euros )
 
@@ -71,7 +71,7 @@ Escape to Colditz (16th April 2009) - Day 4
 
 (Money ->69 euros )
 
-The next day was more of the same, lots of motorway driving, trying to get plenty of miles behind us, getting to better value for money countries. Driving through Germany was a shock, as it really is a beautiful country, although lots more industry was present too. In fact at one point we had a view of some beautiful countryside, with windmills on one side and a dirty power station on the other. Certainly, to us this was the perfect answer to some people who critisize windfarms as an eyesore.
+The next day was more of the same, lots of motorway driving, trying to get plenty of miles behind us, getting to better value for money countries. Driving through Germany was a shock, as it really is a beautiful country, although lots more industry was present too. In fact at one point we had a view of some beautiful countryside, with windmills on one side and a dirty power station on the other. Certainly, to us this was the perfect answer to some people who criticise windfarms as an eyesore.
 
 We soon worked out that we wouldn't reach Poland, our first destination, until the next day, so started looking for a campsite earlier in the day. We soon realized that the perfect place for us to stop would be Colditz! Neither of us could remember why Colditz was famous, except the castle and maybe an escape, but it was reason enough for us to head there. We arrived in the town, but could not find the campsite anyway, even with GPS assistance, so Jenny popped her head into a gym, where she luckily bumped into a member who was just leaving to cycle to the campsite on his bicycle. So we followed him through pine forests for a mile or so, until he took us to the camp site reception. It seemed that the gods were once again on our side - the sheep sacrifice had obviously done its job.
 
