@@ -33,4 +33,3 @@ This was also where we finally used our bikes in anger - pedaling up the Chochol
 
 After a few too many Zakopanian beers, pizzas and ice creams we realised that we were having far too much of the good life and so decided to drop over the border into Slovakia - and so ends Poland.
 
-[<< Previous Blog](/diary/fame-at-last/)        [](/diary/poland/)        [Next Blog >>](/diary/overlanding-toys/)

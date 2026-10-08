@@ -75,14 +75,14 @@ const ogImg = legs[0]?.photos?.[0]?.src || '/images/ollie-and-dino.jpg';
       )}
 
       <nav class="entry-nav" aria-label="More entries">
-        {next ? (
-          <a href={`${base}/diary/${next.slug}/`}>
-            <span class="label">← Earlier</span>{next.title}
+        {prev ? (
+          <a href={`${base}/diary/${prev.slug}/`}>
+            <span class="label">← Earlier</span>{prev.title}
           </a>
         ) : <span />}
-        {prev ? (
-          <a href={`${base}/diary/${prev.slug}/`} style="text-align:right;">
-            <span class="label">Later →</span>{prev.title}
+        {next ? (
+          <a href={`${base}/diary/${next.slug}/`} style="text-align:right;">
+            <span class="label">Later →</span>{next.title}
           </a>
         ) : <span />}
       </nav>

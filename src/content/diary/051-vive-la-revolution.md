@@ -43,4 +43,3 @@ Because we then drove for more or less 24 hours non stop to ensure we caught thi
 
  
 
-[<< Previous Blog](/diary/asian-dreams/)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=82)

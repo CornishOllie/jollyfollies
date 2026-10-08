@@ -39,4 +39,3 @@ We spent a lovely couple of days at Lake Tisza, relaxing at the campsite, cyclin
 
 Hungary rescued itself at the last minute and gave us a lovely relaxing bank holiday weekend. Time to stock up with garlic and holy water - here comes Dracula country!
 
-[<< Previous Blog](/diary/overlanding-toys/)    [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=78)

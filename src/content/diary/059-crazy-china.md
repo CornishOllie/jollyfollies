@@ -51,4 +51,3 @@ Although Xingjang is Uiger and hence more Central Asian, we were happy to find a
 
 The final point to note is that although the Chinese people are friendly, it is obvious that you are exiting the hospitable world of yurts and heart touching handshakes, and this is a bit of a shock after what seems a lifetime in Central Asia.
 
-[<< Previous Blog](/diary/mountain-madness-part-3/)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=87)   [Next Blog >>](/diary/pakistani-smiles/)

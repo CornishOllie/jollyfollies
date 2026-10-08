@@ -51,4 +51,3 @@ Love
 
 Meat and Veg
 
-[<< Previous Blog](/diary/roaming-in-romania/)  Comment  [Next Blog >>](/diary/asian-dreams/)

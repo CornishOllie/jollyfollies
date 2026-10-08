@@ -14,7 +14,3 @@ As regular followers of this blog will know Ollie is a proud Cornishman, who lik
 (Click photo to see readable larger print)
 
 This though was only our first piece of fame, not only did we appear in the Cornishman, but we were also photographed (papped) as we were leaving Cornwall, and Mark was good enough to send us the photo, which you can see below. This really is the start of world domination.
-
-
-
-[<< Previous Blog](/diary/camping-in-colditz/)        [Next Blog >>](/diary/poland/)

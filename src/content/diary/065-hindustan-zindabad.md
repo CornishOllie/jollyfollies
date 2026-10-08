@@ -47,4 +47,3 @@ But there is a more serious side as well, sat alongside the Tibetan temple is a 
 
  
 
-[<< Previous Blog](/diary/bam-bam/)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=87)

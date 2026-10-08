@@ -53,4 +53,3 @@ What had been said between Ollie and this guy is not really for this blog, but o
 
 Ollie is fine now, and the wounds are almost completely healed, and we are ready for the next stage in our trip. Obviously something as stupid as this does make you think, and the rest of our trip is now in a sharp focus, and we are making sure we get the best out of our time on the road. Always a silver lining :)
 
-[<< Previous Blog](/diary/mountain-madness-part-1/)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=87)   [Next Blog >>](/diary/mountain-madness-part-3/)

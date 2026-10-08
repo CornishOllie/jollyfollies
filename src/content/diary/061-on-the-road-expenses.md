@@ -23,4 +23,3 @@ LAST UPDATED: 24/9/2009
 
 Download Spreadsheet
 
-[<< Previous Blog](/diary/pakistani-smiles/)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=87)   [Next Blog >>](/diary/sober-reflection/)

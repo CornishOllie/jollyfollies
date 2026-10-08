@@ -59,4 +59,3 @@ The doctor seemed very professional, and could tell straight away that Jenny had
 
 We said our goodbyes to our friends and drove with Godspeed, almost all the way to Osh, with Jenny at one point lying down in the back of Dino, just like an ambulance. When we arrived in Osh, we booked ourselves into the Deluxe Hotel (with a price tag to match) and hoped Jenny would be fixed for the 200km journey back the way we had just came, in time for the horse festival.
 
-[<< Previous Blog](/diary/one-russell-cleasby/)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=87)

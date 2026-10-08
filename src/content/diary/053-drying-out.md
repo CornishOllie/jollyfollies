@@ -47,4 +47,3 @@ Although we didn't finalise anything in Tehran we had located all the embassies 
 
  
 
-[<< Previous Blog](/diary/iran-in-a-sack/)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=82)

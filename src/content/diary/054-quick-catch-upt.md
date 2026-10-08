@@ -49,4 +49,3 @@ We were enjoying slow meander to Uzbekistan, when out of the blue we got a text 
 
  
 
-[<< Previous Blog](/diary/drying-out/)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=87)   [Next Blog >>](/diary/one-russell-cleasby/)

@@ -2,10 +2,13 @@ import { getCollection, type CollectionEntry } from 'astro:content';
 
 export type DiaryEntry = CollectionEntry<'diary'>;
 
-/** All non-draft diary entries, newest first. */
+/** All non-draft diary entries, newest first. Sorted by the original post
+ *  order (`order`), not `date`: a few dates mark when events happened, so
+ *  date order would shuffle entries out of the sequence they were written. */
 export async function getDiary(): Promise<DiaryEntry[]> {
   const entries = await getCollection('diary', ({ data }) => !data.draft);
-  return entries.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+  const key = (e: DiaryEntry) => e.data.order ?? Number.MAX_SAFE_INTEGER;
+  return entries.sort((a, b) => key(b) - key(a) || b.data.date.getTime() - a.data.date.getTime());
 }
 
 /** All diary entries oldest first (chronological reading order). */

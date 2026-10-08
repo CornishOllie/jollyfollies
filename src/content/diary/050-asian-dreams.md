@@ -99,4 +99,3 @@ Chess* 2:1, Draughts 1:2, Backgammon 11:6 Scrabble 1:1
 
 PPS Not one single drink in ten days - gulp!
 
-[<< Previous Blog](/diary/ollies-delight/)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=82)

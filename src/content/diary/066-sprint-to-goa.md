@@ -47,4 +47,3 @@ So, we are now in Goa, along with 3 other bikers who are also recuperating here 
 
  
 
-[<< Previous Blog](/diary/hindustan-zindabad/)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=87)   [Next Blog >>](/diary/all-good-things/)

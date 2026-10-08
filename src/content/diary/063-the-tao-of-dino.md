@@ -113,4 +113,3 @@ All in all we are soooo glad we brought Dino from Richard and Camilla, and we ho
 
  
 
-[<< Previous Blog](/diary/sober-reflection/)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=87)

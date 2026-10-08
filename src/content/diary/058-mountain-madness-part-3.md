@@ -45,4 +45,3 @@ We were now fast approaching the biggest, nonnegotiable deadline of the trip - t
 
 We were the first to arrive, and arranged to a yurt for us all to stay in. Soon we were joined by JY and Babak, and not long after by Russ and Herbie. The posse was complete.
 
-[<< Previous Blog](/diary/mountain-madness-part-2/)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=87)   [Next Blog >>](/diary/crazy-china/)

@@ -55,4 +55,3 @@ Now, I'm sure you have guessed that we didn't have the most cultural of times in
 
  
 
-[<< Previous Blog](/diary/all-good-things/)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=87)    [Next Blog >>](/diary/meghan-jude-bridges/)

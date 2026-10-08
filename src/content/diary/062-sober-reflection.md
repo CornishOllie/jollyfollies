@@ -39,4 +39,3 @@ So, Dino is now in the garage getting his servicing and we await our Indian visa
 
  
 
-[<< Previous Blog](/diary/on-the-road-expenses/)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=87)   [Next Blog >>](/diary/the-tao-of-dino/)

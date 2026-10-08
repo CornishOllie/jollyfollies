@@ -37,4 +37,3 @@ There is no escaping the fact that many aspects of life for a woman in Iran are 
 
  
 
-[<< Previous Blog](/diary/vive-la-revolution/)   [Comment](http://jollyfollies.proboards.com/index.cgi?action=display&board=comments&thread=82)

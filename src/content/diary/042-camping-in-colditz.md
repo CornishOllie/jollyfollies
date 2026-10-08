@@ -77,4 +77,3 @@ We soon worked out that we wouldn't reach Poland, our first destination, until t
 
 Upon arrival we were soon circled by two young German boys, aged about ten, who were eager to test their limited English on us and show us (Jenny too) pictures of semi naked women on their mobiles. We spent most of the night being carefully watched by this pair, and this continued the next day. We managed a form of communication with them, and by the time we left they had drawn us two pictures of Dino and one of a British fighter jet!
 
-[<< Previous Blog](/diary/tomorrow-the-day/)        [Next Blog >>](/diary/fame-at-last/)

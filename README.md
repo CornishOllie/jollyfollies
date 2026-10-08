@@ -4,7 +4,7 @@
 
 A modern restoration of **jollyfollies.com** — the travel diary of an overland drive
 from Land's End, Cornwall to Sydney, Australia in a 1990s Land Rover Defender 110
-("DINO"), in aid of VSO. The original was hand-built in Dreamweaver as a teenager;
+("DINO"), in aid of VSO. The original was hand-built in Dreamweaver;
 the live site lapsed and survived only in the Internet Archive. This rebuild keeps
 the identity and the words, and replaces the plumbing with a fast, responsive,
 maintainable static site.
