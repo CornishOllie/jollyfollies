@@ -154,6 +154,13 @@ section { padding-block: clamp(2.5rem, 6vw, 4.5rem); }
 .hero-credit { position: absolute; bottom: .5rem; right: .8rem; font-size: .7rem; color: rgba(253,247,236,.65); z-index: 1; font-family: var(--serif-display); }
 @media (max-width: 640px) { .hero-credit { display: none; } }
 
+.teaser {
+  margin: 0; padding: .55rem 16px; text-align: center;
+  background: var(--mint-soft); border-bottom: 1px solid var(--mint-line);
+  font-family: var(--serif-display); font-style: italic; font-size: .95rem; color: var(--ink);
+}
+.teaser strong { font-style: normal; color: var(--navy); white-space: nowrap; }
+
 /* ---------- nav ---------- */
 .nav-bar { background: var(--paper); border-bottom: 1px solid var(--line); }
 .nav-inner { display: flex; align-items: center; gap: 1rem; min-height: 56px; }
