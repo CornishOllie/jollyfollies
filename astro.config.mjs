@@ -2,14 +2,10 @@
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 
-// Set this to your final URL. For GitHub Pages project sites use:
-//   site: 'https://<user>.github.io', base: '/jollyfollies'
-// For a custom domain (jollyfollies.com) use the bare domain and drop `base`.
+// Live at the custom domain jollyfollies.co.uk (public/CNAME), so no base path.
+// The 2009 replica (../jollyfollies-replica) is built into /classic by the deploy script.
 export default defineConfig({
-  // GitHub Pages project site. When the custom domain is registered, switch to
-  // site: 'https://jollyfollies.com' and remove `base` (+ add public/CNAME).
-  site: 'https://cornishollie.github.io',
-  base: '/jollyfollies',
+  site: 'https://jollyfollies.co.uk',
   integrations: [sitemap()],
   build: { format: 'directory' },
 });

@@ -17,12 +17,11 @@ npm run build
 
 echo "Preparing gh-pages tree…"
 cp -R dist/* "$TMP"/
-# The classic replica (../jollyfollies-replica) lives under /classic on the same
-# branch. Carry the live copy over so this force-push does not delete it.
-LIVE="$(mktemp -d)"
-git clone -q --depth 1 --branch gh-pages "$REPO_URL" "$LIVE"
-if [ -d "$LIVE/classic" ]; then cp -R "$LIVE/classic" "$TMP/classic"; else echo "Warning: no /classic on live gh-pages"; fi
-rm -rf "$LIVE"
+# The 2009 replica lives under /classic on the same branch. Build it from the
+# local copy so its paths match this domain.
+REPLICA="$(cd "$(dirname "$0")/../../jollyfollies-replica" && pwd)"
+(cd "$REPLICA" && npx astro build --site https://jollyfollies.co.uk --base /classic --outDir "$TMP/classic")
+[ -f "$TMP/classic/index.html" ] || { echo "Replica build missing, aborting"; exit 1; }
 touch "$TMP/.nojekyll"
 cd "$TMP"
 git init -q
@@ -31,5 +30,5 @@ git add -A
 git -c user.name="CornishOllie" -c user.email="o.bridges@urbanchain.co.uk" commit -q -m "Deploy $(date -u +%Y-%m-%dT%H:%MZ)"
 git push -f "$REPO_URL" gh-pages
 
-echo "Deployed → https://cornishollie.github.io/jollyfollies/"
+echo "Deployed → https://jollyfollies.co.uk/"
 rm -rf "$TMP"
