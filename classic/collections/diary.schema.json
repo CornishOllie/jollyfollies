@@ -1,0 +1,62 @@
+{
+  "$ref": "#/definitions/diary",
+  "definitions": {
+    "diary": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "date": {
+          "anyOf": [
+            {
+              "type": "string",
+              "format": "date-time"
+            },
+            {
+              "type": "string",
+              "format": "date"
+            },
+            {
+              "type": "integer",
+              "format": "unix-time"
+            }
+          ]
+        },
+        "date_precision": {
+          "type": "string",
+          "enum": [
+            "day",
+            "month"
+          ],
+          "default": "day"
+        },
+        "order": {
+          "type": "number"
+        },
+        "original_url": {
+          "type": "string"
+        },
+        "location": {
+          "type": "string"
+        },
+        "cover": {
+          "type": "string"
+        },
+        "draft": {
+          "type": "boolean",
+          "default": false
+        },
+        "$schema": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "title",
+        "date"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}
