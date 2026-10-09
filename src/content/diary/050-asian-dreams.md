@@ -11,6 +11,10 @@ Also for those of you desperate to know, at the end of this blog will be an upda
 
 A New Plan
 
+![Backgammon](/diary-media/gilau-to-istanbul/P1000571.jpg)
+
+*Backgammon*
+
 As we left you on the last update we were on the side of a motorway just outside Istanbul, about to call our man on the Stans, David, regarding our visa situation. For all the people who haven't contemplated travel through Central Asia, David is a near legend, who is renowned to be the most knowledgeable and professional agent for the area, although not the cheapest. We had already used him for our Iranian and Uzbek Letters of Invitation (LOIs), and hoped that he would now see a solution for us. Well, immediately that Jenny was on the phone it was clear that he had a plan that would get us out of our predicament, and in fact he presented us with a couple of options. Firstly we could consider applying for a tourist visa for Turkmenistan (expensive) and hope that in a week or two the swine flu issue would go. Or secondly, he told us about another route through to Uzbekistan, catching a ferry from Baku in Azerbaijan, to a port in Kazakhstan, and driving on down to Uzbekistan from there.
 
 This latter suggestion was our favorite, but involved getting an Azerbaijani LOI and visa, and also a second Kazakh visa. All this was possible, but the worst part was the ferry runs to no timetable and only leaves the port when full, and this could mean a wait in the town of about ten days - not very helpful when your next few months are full of visa entry and exit dates! So, we took in as much of this as we could and decided that we needed to get somewhere to think, and make a decision fast. Our next destination was another world heritage site, Safranbolu, so we decided to hot tail up there and make some decisions.
@@ -18,6 +22,10 @@ This latter suggestion was our favorite, but involved getting an Azerbaijani LOI
 Safranbolu
 
 We reached Safranbolu after nearly a full days drive, having crossed the Bosphorus into Asia much earlier in the day. Safranbolu is a very pretty and charming village built mainly from wood, up on the hillside. It was a renowned merchants town, but is now famous for its quaint streets, charming houses and for a lively wooden crafts market. As part of its transformation from industry to tourism some of the fine merchant houses have been converted into hotels, and we thought this would be the ideal time for us to splash out and spend the money that Jenny's colleagues gave her as a leaving present - to have a little bit of luxury. (Thanks guys!!!) Below you can see the breakfast room, which was dominated by the air conditioning unit - a huge pool of water! The atmosphere here certainly helped us in our contemplation - along with the wine! The decision was made, Azerbaijan here we come :)
+
+![Safronbolu Hotel](/diary-media/istanbul-to-doggiebiscuit/P1000610.jpg)
+
+*Safronbolu Hotel*
 
 Although the decision was made, it still meant we had to reconfigure our route and timetable, as we now had to find at least another ten days in case of the ferry delaying us. This is where we really had to make a hard decision, and had to abandon our pre prepared week long 'holiday' on the Med, and also any diversions back west to view the Roman ruins, and start making our way in the general direction of Iran, where we could pick up the appropriate visas.
 
@@ -27,9 +35,17 @@ The next day we had a lovely wander around Safranbolu village, even buying the p
 
 We had a truly wonderful time exploring this area, including the open air museum, which shows a section of the area inhabited for the last 1000 years and includes many churches and burial grounds. Although we were slightly unlucky to see it on a Turkish national holiday, we managed to get there early, and avoided some of the worst of the large tour groups. The next day we took a mountain bike trail through some of the crazy valleys, but found that some of the drops were a little too mad for us, and ended up on a walking tour instead. it still was a magical time, and really felt like being a kid again. If you go to Turkey, please follow our advice and pop into Cappadocia!
 
+![Church](/diary-media/istanbul-to-doggiebiscuit/P1000636.jpg)
+
+*Church*
+
 Inside one of the Church caves.
 
 Ollie the Hobbit
+
+![Jenny in Cappaddoccia](/diary-media/istanbul-to-doggiebiscuit/P1000673.jpg)
+
+*Jenny in Cappaddoccia*
 
 Jenny pointed to the mad landscape, in case you couldn't see it
 
@@ -41,11 +57,27 @@ We spent nearly three days in Goreme, but the weather started looking thundery, 
 
 There were three famous underground cities, but another 30 or so, less developed. We we hunting for one of the more famous when we stumbled upon one that was apparently open for tourists, but not mentioned in any of the guide books or tourist literature. Upon arrival we found a shack with a rather dirty and cut up man inside who promised to show us around. After chatting with him a while we found out that two days previously, when extremely drunk, he had rolled his car, and when found it was thought he was dead! During the course of our day with him Asmail was thoroughly repentant of his past life wasted on alcohol and was promising to give it all up. Jenny, of course, had heard al this before.
 
+![Asmail](/diary-media/istanbul-to-doggiebiscuit/P1000695.jpg)
+
+*Asmail*
+
 A guillotine style trap, with our crazy guide Asmail. He smiled a lot more in real life!
 
 Asmail turned out to be a great guide, who took us around the city with no other visitors, and hence we had his 100% attention and no other distractions. The cities themselves are fascinating, filled with hundreds of Indiana Jones style traps, a communications tower for messenger pigeons and lots of mad staircases to take you from one level to the next. When we were first shown these staircases we were both very glad we didn't have to use them, but to our amazement, this turned out to be our way out. Asmail, obviously not having heard of Health and Safety, could really bring to life what it was like to live in one of these cities. Certainly we were glad we stumbled upon this amazing place before we found the city in the Lonely Planet.
 
+![Ollie Crawling](/diary-media/istanbul-to-doggiebiscuit/P1000693.jpg)
+
+*Ollie Crawling*
+
+![Jenny Climbing](/diary-media/istanbul-to-doggiebiscuit/P1000705.jpg)
+
+*Jenny Climbing*
+
 Ollie Crawling, and Jenny trying to decently climb!
+
+![Cave Exit](/diary-media/istanbul-to-doggiebiscuit/P1000708.jpg)
+
+*Cave Exit*
 
 We made it out alive!
 
@@ -53,17 +85,37 @@ As well as the underground city Asmail took us to some Roman and pre-Roman buria
 
 Off to see the Deity
 
+![Ollie in the back](/diary-media/istanbul-to-doggiebiscuit/P1000746.jpg)
+
+*Ollie in the back*
+
 So after all this excitement we still had quite a big drive ahead of us, so set off on the road to Nemrut Dagi, knowing that we would only get about half way that day. It is worth noting here that the Turkish roads we generally a delight to drive as the scenery was usually stunning, and there was rarely more than a lorry or two on the road. So as dusk drew in we found a lay by close to the side of the road, at a height of about 2km, and made camp for the night. This was our first wild camp in Turkey, but also the first time we slept in the back of Dino, rather than the roof tent. We have decided that we can be a lot more anonymous in the back. It is surprisingly comfortable in the back, but it's perhaps not the place to have a nice long leisurely lie in. To sleep in the back we do have to move most of the boxes and the fridge into the front, so we need an area not surrounded by people to start with, and it takes about the same time to do that as to set up the roof tent.
 
 So after a nice early start we were heading off to the magical mountain, with Ollie taking the first leg behind then wheel. We could see from our map that we would be taking a twisting road above 2km most of the time, but it was soon apparent that this road would need nerves of steel. Well for Jenny anyway! The road twisted for about 80 kilometers, climbing and then descending the mountain, all the time with a vertical drop feet away from the side of Dino. To make matters worse there were plenty of road works, reducing the road down to one lane, combined with the usual mad locals haring round the bends. After about an hour and a half, Jenny volunteered to take over the driving, thinking that the signposted last 12kms would be the glory run. Ha, little did she know what was in store for her!
 
 Just after she took over the road became a proper snaking mountain pass, with the (mostly) tarmac becoming a snaking lane with boulders littering the way.
 
+![Snaking Road](/diary-media/istanbul-to-doggiebiscuit/P1000751.jpg)
+
+*Snaking Road*
+
+![Dino up hill](/diary-media/istanbul-to-doggiebiscuit/P1000744.jpg)
+
+*Dino up hill*
+
 The road we climbed from the rear and front
 
 The final few miles took us up to a (then) record of 2150m, and after about 4 hours attempting to summit the mountain (well sort of) we made it to the top to be rewarded with stunning views and mystical ruins of the previous two thousand years. It was worth it, but we both knew we had to go back down!
 
+![Statue Heads](/diary-media/istanbul-to-doggiebiscuit/P1000783.jpg)
+
+*Statue Heads*
+
 The statues and heads. The statues fell during numerous earthquakes in the last 2000 years.
+
+![Close up of heads](/diary-media/istanbul-to-doggiebiscuit/P1000789.jpg)
+
+*Close up of heads*
 
 Close up of the heads
 

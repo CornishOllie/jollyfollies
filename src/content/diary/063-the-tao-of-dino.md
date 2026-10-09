@@ -47,6 +47,10 @@ We definitely over paid, but with the hindsight that is now available to us, nei
 
 With all this work done we were ready to go. Although we were still nervous, every expert who examined Dino told us the chassis and the engine were in fantastic condition and we should be in great shape for our trip.
 
+![Land's End](/diary-media/cornwall-colditz/P1000247.jpg)
+
+*Land's End*
+
 Dino's First Road Service
 
 We didn't realise it at the time, but even as we set off Dino had his first minor issue, a slow puncture to one of his tyres. These had only done about 500 miles and at first we were worried that we had been sold a dud, but when we finally took it to a garage, in Romania, we found a large nail embedded in the tyre. Incredibly the tyre had only needed topping up once on the 3000 miles until there. The tyres we had bought we BFG A/Ts and and show very little sign of wear so far. We have had two other slow punctures, both caused by nail like objects, and each time we have had plenty of time to make the change.

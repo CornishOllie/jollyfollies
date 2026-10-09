@@ -7,6 +7,10 @@ original_url: 'http://www.jollyfollies.com/Diary/065_Hindustan_zindabad.html'
 
 Well our secret is out now, and hopefully you all should realise why our diary entries have been delayed a little - we didn't want to have to 're-align' our stories to explain some of our bizarre movements. So in this latest blog we will have a quick review of Pakistan, before moving onto the more current tales of our adventures in India.
 
+![Shiva](/diary-media/islamabad-to-mumbai/P1030424.jpg)
+
+*Shiva*
+
 Pakistan - Re-aligned!
 
 We arrived into Pakistan with an inkling that we could soon be having to make some major changes to our plans, but we both knew that we would need to find a hospital to get this confirmed. Our suspicions had been raised to 'Red Alert' when entering China, who insist on having a temperature check on entry. The over-zealous guards would not let Jenny into the country because she was half a degree too hot! Luckily our guide used his initiative and just returned the thermometer to the guard, once the temperature had dropped into the correct zone - leaving the mighty red army with a slightly red face :)
@@ -31,21 +35,45 @@ The guards themselves are dressed up in their finest show uniforms, groomed to p
 
 The ministry of silly walks is accompanied by a non stop chant of 'Hindustan - zindabad!' - which essentially means long live Hindustan, which is taken up to answer cries of 'Pakistan - zindabad' from the other side.
 
+![Indian guard](/diary-media/islamabad-to-mumbai/P1030237.jpg)
+
+*Indian guard*
+
 The whole affair is a fantastic bit of pantomime, only brought back into sharp focus by the fact that this is two warring (although not having a declared war currently, there is a non stop dispute between India and Pakistan, with Kashmir being the most famous, but in no way only, issue) nuclear powers. We loved it, especially as it was all preceded by two of the finest, coldest beers Ollie had tasted. But now it was on to Amritsar.
 
 Amritsar and The Real India
 
 As we said above, entering India we were in search of two things, one for Ollie and one for Jenny. Ollie got his beer at the border and Jenny was insistent that we found a hotel with a pool on arrival in India. Amritsar is the first port of call for anyone entering India by the land crossing and the city holds the holiest Sikh temple in the world - the Golden Temple. We had a quick tour around the hotels in the city with pools, and found that the only one that would match Jenny's high standards was the Ritz plaza, which had all we wanted including the much longed for pool. Of course, the price was not in our [budget](/diary/on-the-road-expenses/), but by now we had long blown away our original budget, as the trip is going to be a lot shorter than planned, and we both knew that to continue the trip with Jenny in her current state, would involve raising the comfort level a couple of bars. In reality we were both happy with this, but of course Ollie never let Jenny know that :) The Ritz it had to be then!
 
+![Ritz Pool](/diary-media/islamabad-to-mumbai/P1030275.jpg)
+
+*Ritz Pool*
+
 It may appear from the above writing that we were now getting more exited by hotel pools than by the amazing historical and religious features such as the Golden Temple, and this is in part true - but only on a temporary basis! Upon entering the Golden Temple, where for once it was Ollie who was forced to don some fancy head ware, you are overtaken by the completely serene and peaceful atmosphere of what must be one of the worlds finest building. The temple is at the centre of a lake, which in itself is surrounded by four sheer white ornamental buildings. The water is used to bathe in to cleanse one's soul, and in the Temple itself is a non stop recital from the Sikh's holiest books (which is actually broadcast non stop on national television too) accompanied by some beautiful sitar playing. The place is incredible and a must see for anyone within 1000kms of the area!
+
+![Golden Temple](/diary-media/islamabad-to-mumbai/P1030265.jpg)
+
+*Golden Temple*
 
 Having had our souls cleansed, our bodies relaxed and Ollie's liver exercised we were ready to head onto our next target McCleod Gang, which is the exiled home of the Dalai Lama, and many other Tibetans who have crossed the Himalayas. This was long day's drive away, which was to be our introduction to the crazy Indian roads. not only crazy because of the maneuvers that you are forced to perform to continue at more than walking pace, but also crazy because of the sights and sounds that you overtake as you go along. One of the main problems for the traffic is caused by the fact that the road is occupied by every shape and speed of road user that you can consider, such as:- camels, elephants, ox carts, tractors, rickshaws, lorries, cyclists, people cycling in two by two to carry sheets of metal, cows meandering as is their right. Not only will you see all this and more on most of the roads, but you will often meet it coming the wrong way, parked in the middle or just doing something totally unexpected. In many ways it is fun to drive it, but at the end of a long day you are left exhausted.
 
 Dalai Lama Hunt
 
+![Camel](/diary-media/islamabad-to-mumbai/P1030470.jpg)
+
+*Camel*
+
 We arrived at McCleod Gang tired, but happy to be alive, having completed our first full day of true Indian driving. We had heard that you could, if you were lucky, get an audience to some of the Dalai Lama's public speaking if he was in town, but it turned out he was in America at the time. Still, the town is well worth a visit (even though our friend Russ was very scathing of it) and we really enjoyed ourselves here. It is full of tourists - stoned hippies or middle aged women to be exact, and also all the things associated with tourists, but it still is an amazing place. It is, like a lot of Northern Indian towns, impossibly built, perched on a hillside, overlooking jungle in all directions. The town itself is a cross between little Tibet and Koh San Road, but it is amusing to sit, drinking cappuccino and watch middle aged women in full Tibetan garb, debating with monks, whilst Facebooking on the wifi!
 
+![Prayer Wheels](/diary-media/islamabad-to-mumbai/P1030285.jpg)
+
+*Prayer Wheels*
+
 But there is a more serious side as well, sat alongside the Tibetan temple is a very moving museum which tells the story of the suffering the Tibetan people have gone through since the Chinese invasion 50 odd years ago. Without doubt this is a story that must continued to be told, given that it is estimated that 1.3 million Tibetans have been killed in the struggle to remain independent, either directly through military action, or indirectly through Chinese policies. We hate to make any 'right on' political statements through this website, but we believe it is essential that the world continues to listen to and tries to help the Tibetan struggle.
+
+![Tibetan art](/diary-media/islamabad-to-mumbai/P1030286.jpg)
+
+*Tibetan art*
 
  
 

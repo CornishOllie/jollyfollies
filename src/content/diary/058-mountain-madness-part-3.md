@@ -17,6 +17,10 @@ The other difference between these countries is the tourist industry in Kyrgyzst
 
 The journey up to Bishkek took us five days in the end, four with the bikers and one day on our own, where we tested Dino our with some fantastic green laning in the hills.
 
+![green dino](/diary-media/bishkek-to-pasu-pakistan/P1020319.jpg)
+
+*green dino*
+
 It is a pleasure to travel through Kyrgyzstan in Dino, as not only are the roads great fun, but it is no problem to wildcamp anywhere which of course helps to keep the expenses down. One of the massive passes we had to take included a 20 mile climb, whilst all the time passing people selling the most delicious fresh honey - by the litre. Of course we couldn't really refuse could we?
 
 Bishkek
@@ -31,19 +35,43 @@ Our biker friends decided that they needed to see some action, whereas we were h
 
 Kyrgyz Lakes
 
+![waterful](/diary-media/bishkek-to-pasu-pakistan/P1020334.jpg)
+
+*waterful*
+
+![gimp](/diary-media/bishkek-to-pasu-pakistan/DSCF6128.jpg)
+
+*gimp*
+
 Kyrgyzstan has many great lakes, but two of which are the most famous Issy Kul and Song Kul. The former is the second largest alpine lake in the world, coming in just behind Titticarma in South America. It is a huge lake, 160km long and half as wide. This size, combined with some thermal activity, means it never freezes, and in summer the water is warm enough to become a tourist resort. After our rural activities we were happy to hook up with the bikers for a day here, although the only conversation we could get out of them revolved around the members of the opposite sex that would not speak with them! It had been a long time on the road for the two of them ......
 
 We continued a quick lap of this lake, with the southern shore providing much more of interest, as well as some nice remote beaches. We even found some examples of the amazing hunting eagles that are famous in Kyrgyzstan. The photo below shows a very scared Ollie balancing an eagle and another unknown bird.
 
+![Ollie with some birds](/diary-media/bishkek-to-pasu-pakistan/P1020366.jpg)
+
+*Ollie with some birds*
+
 If Issy Kol is famous for being a Russian tourist trap, then Song Kol is the opposite, situated at over 3000m and up a road really only suitable for 4wd. Of course this doesn't stop the locals driving every type of vehicle up here. This area is the perfect antidote to Issy Kol, and although some tourists do find their way up, generally the view is of the lake, the meadows, yaks, cows and sheep and of course yurts.
+
+![Song Kol](/diary-media/bishkek-to-pasu-pakistan/P1020467.jpg)
+
+*Song Kol*
 
 So far on the trip we have traveled some of the most famous and most beautiful roads in the western world, but after leaving Song Kol we found our favorite, a really breathtaking and stunning, twisting and turning 60 kms down to Tash Rabat. If you are looking for great views and enjoyable challenging driving we would recommend this road, particularly as it takes you nicely to the final staging post before the Chinese border. Just remember to look behind you!
 
  
+
+![switchback road](/diary-media/bishkek-to-pasu-pakistan/P1020505.jpg)
+
+*switchback road*
 
 Tash Rabat and the Chinese Posse
 
 We were now fast approaching the biggest, nonnegotiable deadline of the trip - the 25th August, when we meet up with our guide at the Chinese border. To keep expenses down we had advertised on the [HUBB](http://www.horizonsunlimited.com/hubb/) and had found Jean-Yves and Babak who were happy to share the cost of the guide, along with Russ. We had also picked up Herbie en route, and so were now going to be a six person posse, ready to storm the Chinese border. The meeting point had been set by Jean-Yves, the slowest member of the group, as Tash Rabat, probably the nearest recognizable place to the Chinese border.
 
 We were the first to arrive, and arranged to a yurt for us all to stay in. Soon we were joined by JY and Babak, and not long after by Russ and Herbie. The posse was complete.
+
+![Kyrgyz Brides](/diary-media/bishkek-to-pasu-pakistan/P1020601.jpg)
+
+*Kyrgyz Brides*
 

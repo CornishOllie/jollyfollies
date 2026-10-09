@@ -9,11 +9,19 @@ We had finally met up with the last two members of our China Posse, Babak and Je
 
 We all had mixed expectations about China up until this point, knowing as we did that most things we did would be accompanied by a guide, and that the part of China we were visiting was currently occupied by thousands of army due to the mass demonstrations that had happened in the country recently. This was tempered by the fact that we were all excited to be leaving central Asia and ready for new people, food and culture. Mmmmmm sweet and sour chicken!
 
+![Chairman Mao](/diary-media/bishkek-to-pasu-pakistan/P1020652.jpg)
+
+*Chairman Mao*
+
 The Road to China
 
 The alarm went off at 6am, with our traditional Kyrgyz breakfast already prepared for us, the highlight of which is the fresh bread accompanied by newly churned cream and superb jam. Who would have thought Ollie would be eating a Cornish Cream tea at 6am, at 2500m, in a yurt, on the way to China. It really has been a crazy trip.
 
 We were all excited like schoolboys, well except Jenny, and had even been awoken by Russ screaming in the night that he was being walked over by a pig. The morning was clear and by 7:30am we we ready to start the big push for China. Ahead of us was 200 kms of dirt track, never before conquered by a Vespa, and an altitude of 3700m, again a new record for a two stroke vehicle ridden from France. We agreed to stay behind Jean-Yves in case of mishap and within 2 kms we had already picked up his fuel can and nozzle that had fallen off. By the time we had reached the Chinese border we also had his bag, tent, luggage rack and mirror on board. And yet he was still going ...
+
+![Jean-Yves and Vespa](/diary-media/bishkek-to-pasu-pakistan/P1020659.jpg)
+
+*Jean-Yves and Vespa*
 
 We had elected to cross into China via the Torugart Pass, which is infamous for the difficulties that non-locals have in crossing. But we had been assured by our Chinese guide agency that we would be met at the vital point by our guide who would complete all the paperwork for us. The whole process is complicated by the fact that the two border posts are 100km apart, and that each country also divides its border up into separated posts, customs and passport control. You never quite know where you are, and at all times you think you may be stopped and turned back.
 
@@ -35,6 +43,14 @@ So, instead of a driving tour, we split up and all spent a great day taking in t
 
 Chinese Tourism
 
+![Spices](/diary-media/bishkek-to-pasu-pakistan/P1020639.jpg)
+
+*Spices*
+
+![Snakes](/diary-media/bishkek-to-pasu-pakistan/P1020642.jpg)
+
+*Snakes*
+
 After Kashgar we were scheduled in to visit a desert, a glacier and a lake, but we soon found out that these were all places that had been converted into resorts, with hotels constructed and prices created for the western pocket. Having all independently traveled form Europe, this was not what we were used to, and it certainly created some irate opinions in the group. Perhaps some of these came from a lack of research, or understanding of quite what having a guide in the group would entail. The final straw at each resort was usually that not only were we being charged European prices for our food and accommodation, but we were also charged an entrance fee for the resorts, and parking as well, and this includes the desert!! When we asked what these fees were going towards, we were told to help build more hotels!
 
 We finally broke free of the yoke, and abandoned our stay at the beautiful, yet heavily littered Karakol lake, and hot footed it down to Tashgurgen, were we told Jack we were leaving a day early. Surprisingly enough he agreed (after several phone calls to the agency and the police), and after signing a disclaimer that the decision was our own, were allowed to plot our escape.
@@ -42,6 +58,10 @@ We finally broke free of the yoke, and abandoned our stay at the beautiful, yet 
      
 
 Chinese KKH
+
+![Glacial Resort](/diary-media/bishkek-to-pasu-pakistan/P1020743.jpg)
+
+*Glacial Resort*
 
 We traveled nearly 500km along the Chinese KKH, and never once did we leave immaculate tarmac, and this was evident from Jean-Yves almost permanent driving smile. The views along the highway, although beautiful, were never as dramatic or breathtaking as we had seen already. It is an incredible piece of engineering, no doubt, but as we have now found out, the real beauty of the road is on the Pakistan side. If you want to see the best of this road then don't worry about driving up and down the Pakistan side, without hitting China.
 
@@ -52,6 +72,10 @@ China Summary
 China is undoubtedly an amazing place to visit, but for overland tourists bringing in their own vehicles, it is not easy. The guide is the first problem, and although Jack was nice enough he is still restricted by what the government insist upon. Also the tourist industry in China seems more interested in making a quick buck, than creating a sustainable diverse industry. The country is incredibly cheap, and this is very obvious when we were left unattended, but more often than not you are corralled to tourist places that charge western prices, which again is hard to believe that the money goes back into the community or even the tourist industry.
 
 Although Xinjiang is Uighur and hence more Central Asian, we were happy to find a place which served food other than plov or shashlick, and the food is a big plus for those exiting the Stans. To help the food go down, there is also the great Xinjiang beer, which is everywhere and sold ice cold. And at less than a dollar bottle a real plus!
+
+![Xingjang beer](/diary-media/bishkek-to-pasu-pakistan/P1020726.jpg)
+
+*Xingjang beer*
 
 The final point to note is that although the Chinese people are friendly, it is obvious that you are exiting the hospitable world of yurts and heart touching handshakes, and this is a bit of a shock after what seems a lifetime in Central Asia.
 

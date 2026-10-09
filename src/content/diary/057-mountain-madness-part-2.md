@@ -7,6 +7,10 @@ original_url: 'http://www.jollyfollies.com/Diary/057_mountain_madness_part_2.htm
 
 With Jenny's illness slowly fading we felt in good enough shape to head the the Kyrgyz horse festival, which was being held at the base camp of Peak Lenin. It was a 400km return trip, back the way we had just come, but we felt it would be a trip worth making.
 
+![Kyrgyz Girl](/diary-media/around-osh/P1020120.jpg)
+
+*Kyrgyz Girl*
+
 The Road to the Festival
 
 Whilst in Osh we had a look around the busy market town as we slowly nursed Jenny back to health, and whilst doing this we stumbled across the [CBT](http://www.cbtkyrgyzstan.kg) (Community Based Tourism) office and decided to ask about the rumored horse festival. The CBT initiative in Kyrgyzstan is aimed at helping funnel the tourist dollar into the communities that need the investment, as well as providing interesting and unusual holiday activities Because Kyrgyzstan is so dominated by a horse culture, a lot of the initiatives are horse based, but also often includes staying in a yurt.
@@ -21,15 +25,31 @@ They were heading to the festival, but had also had some problems with illness a
 
 With the Americans tucked in the back with their luggage, and their bikes on the roof of Dino, we found ourselves even more behind the minibuses, and with the human cargo in the back we couldn't really step on it to catch up. Luckily the road soon disintegrated into a series of potholes, and it is in these conditions that Dino is at his best. By the time we hit the last town we had caught both minibuses and were ready for the proper off road section. Here we had 30 kms of fantastic mountain track, where we could really put Dino through his paces. Unfortunately Ollie was at the wheel, and just as we were going through one of the last big puddles Jenny screamed out 'ROOOCKK!', but just too late. When we came to a stop we could see that although we had had great fun splashing through the water, we had also put a small hole into the corner of our water tank. Not the worst damage we could face, but still something that would need fixing at a later date.
 
+![Road to Peak Lenin](/diary-media/around-osh/P1020117.jpg)
+
+*Road to Peak Lenin*
+
 We were some of the first tourists to arrive at the festival and soon had sorted ourselves out a Yurt for our stay. Because Natalie and Alex were on a tight budget we sub-let our roof tent to them (the price being future dinners at their not yet found or opened cafe in South East Asia) and we were all now nicely settled for the weekend.
 
 As well as Russ and Herbie in our Yurt we also had Joe, the Canadian, Eva the Russian photographer, and Nathan the English biker. We had agreed a price of a little of $10 a person per night, which also included 3 meals a day and endless cups of tea. What a bargain!
+
+![Dino and yurts at Peak Lenin](/diary-media/around-osh/P1020140.jpg)
+
+*Dino and yurts at Peak Lenin*
+
+![Yurt Interior](/diary-media/around-osh/P1020127.jpg)
+
+*Yurt Interior*
 
 The Horse Festival
 
 After spending a pleasant evening drinking vodka and playing cards we all had a great night's sleep, and were ready for the day's festivities. Not only were we celebrating the horse festival, but it was also Swiss National Day! Herbie, our crazy Swiss biker friend was soon on the vodka again, but we all left him too it .... after all we weren't Swiss!
 
 Walking around the base camp in the morning we soon realised that this was going to be a very big festival, as more and more cars arrived, having obviously made the same journey as us up the mountain. How most have them got there god only knows, but you have to take your hat off to the Kyrgyz driving and mechanical skills. All around us were young Kyrgyz guys on horseback, letting of steam whilst obviously letting the girls know who was the local hero. You could almost smell the testosterone amongst the more equine smells about. Not only were the Kyrgyz males out on show, but the woman also, often in their national dress, obviously waiting for the bride abductions to begin!
+
+![Kyrgyz Brides](/diary-media/around-osh/P1020155.jpg)
+
+*Kyrgyz Brides*
 
 The festival was comprised of four main games, all of which are supposed to show off the main skills needed to live in the Kyrgyz countryside. The games are:
 
@@ -44,6 +64,14 @@ The festival was comprised of four main games, all of which are supposed to show
 Alongside the games there were a large number of stalls selling traditional clothes and foods (we even tried the fermented mares milks, kumiz - yumm!) and also some folk singing and dancing. No need to say we had a fantastic day watching all the crazy sights, and would put this down as one of the highlights of the trip so far. Below are some of the photos we took, but there are heaps more on the [gallery](/gallery/) page. We also have some pretty crazy video of the games which we are in the process of uploading.
 
 Return to Osh
+
+![Horse Wrestling](/diary-media/around-osh/P1020221.jpg)
+
+*Horse Wrestling*
+
+![Jenny abducts herself a nice bride](/diary-media/around-osh/P1020167.jpg)
+
+*Jenny abducts herself a nice bride*
 
 With the games completed it was time to return to Osh and get ourselves ready for the rest of Kyrgyzstan. Once again we took Natalie and Alex in the back, this time only down to the local town of Sary Tash, where Eva jumped in in their place, having finally given up on the crazy French, who seemed to be on a path of self destruction.
 

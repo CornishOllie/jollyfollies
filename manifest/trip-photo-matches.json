@@ -1,0 +1,940 @@
+[
+ {
+  "slug": "camping-in-colditz",
+  "slot": 2,
+  "caption": "Lands End",
+  "file": "/diary-media/cornwall-colditz/P1000247.jpg",
+  "confidence": "exact"
+ },
+ {
+  "slug": "camping-in-colditz",
+  "slot": 3,
+  "caption": "Wild camp",
+  "file": "/diary-media/cornwall-colditz/P1000252.jpg",
+  "confidence": "exact"
+ },
+ {
+  "slug": "camping-in-colditz",
+  "slot": 4,
+  "caption": "Germans",
+  "file": "/diary-media/colditz-wraclaw/P1000266.jpg",
+  "confidence": "exact"
+ },
+ {
+  "slug": "mooching-in-magyar",
+  "slot": 0,
+  "caption": "Palace in Keszthely",
+  "file": "/diary-media/balaton-to-gilau/P1000399.jpg",
+  "confidence": "exact"
+ },
+ {
+  "slug": "mooching-in-magyar",
+  "slot": 1,
+  "caption": "Wroclaw Town Hall",
+  "file": "/diary-media/balaton-to-gilau/DSCF2005.jpg",
+  "confidence": "exact"
+ },
+ {
+  "slug": "mooching-in-magyar",
+  "slot": 2,
+  "caption": "Heviz",
+  "file": "/diary-media/balaton-to-gilau/DSCF0972.jpg",
+  "confidence": "exact"
+ },
+ {
+  "slug": "mooching-in-magyar",
+  "slot": 3,
+  "caption": "Ollie tries to decide, then plumps for all 3!",
+  "file": "/diary-media/balaton-to-gilau/DSCF0981.jpg",
+  "confidence": "exact"
+ },
+ {
+  "slug": "mooching-in-magyar",
+  "slot": 4,
+  "caption": "Heviz Wine",
+  "file": "/diary-media/balaton-to-gilau/DSCF2002.jpg",
+  "confidence": "exact"
+ },
+ {
+  "slug": "mooching-in-magyar",
+  "slot": 5,
+  "caption": "Dino dresses up as Thomas",
+  "file": "/diary-media/balaton-to-gilau/DSCF0994.jpg",
+  "confidence": "exact"
+ },
+ {
+  "slug": "overlanding-life",
+  "slot": 0,
+  "caption": "Roof tent",
+  "file": "/diary-media/krakow-to-zakopane/P1000307.jpg",
+  "confidence": "exact"
+ },
+ {
+  "slug": "roaming-in-romania",
+  "slot": 0,
+  "caption": "Random Romanian Wedding",
+  "file": "/diary-media/balaton-to-gilau/P1000402.jpg",
+  "confidence": "exact"
+ },
+ {
+  "slug": "roaming-in-romania",
+  "slot": 1,
+  "caption": "Field of candles",
+  "file": "/diary-media/balaton-to-gilau/P1000408.jpg",
+  "confidence": "exact"
+ },
+ {
+  "slug": "roaming-in-romania",
+  "slot": 2,
+  "caption": "Monster!",
+  "file": "/diary-media/balaton-to-gilau/P1000416.jpg",
+  "confidence": "exact"
+ },
+ {
+  "slug": "roaming-in-romania",
+  "slot": 3,
+  "caption": "Romania Rough Camp - so tough!",
+  "file": "/diary-media/balaton-to-gilau/P1000438.jpg",
+  "confidence": "exact"
+ },
+ {
+  "slug": "roaming-in-romania",
+  "slot": 4,
+  "caption": "Mirror Lake",
+  "file": "/diary-media/balaton-to-gilau/DSCF6005.jpg",
+  "confidence": "exact"
+ },
+ {
+  "slug": "roaming-in-romania",
+  "slot": 5,
+  "caption": "Paddling back to Dino",
+  "file": "/diary-media/balaton-to-gilau/DSCF6011.jpg",
+  "confidence": "exact"
+ },
+ {
+  "slug": "roaming-in-romania",
+  "slot": 6,
+  "caption": "Post Paddle Fry Up",
+  "file": "/diary-media/balaton-to-gilau/DSCF6018.jpg",
+  "confidence": "exact"
+ },
+ {
+  "slug": "roaming-in-romania",
+  "slot": 7,
+  "caption": "Jenny tries out the homebrew",
+  "file": "/diary-media/balaton-to-gilau/P1000452.jpg",
+  "confidence": "exact"
+ },
+ {
+  "slug": "roaming-in-romania",
+  "slot": 8,
+  "caption": "Chess Chins",
+  "file": "/diary-media/balaton-to-gilau/P1000458.jpg",
+  "confidence": "exact"
+ },
+ {
+  "slug": "roaming-in-romania",
+  "slot": 9,
+  "caption": "Tomasz the crisp eating cat",
+  "file": "/diary-media/balaton-to-gilau/P1000457.jpg",
+  "confidence": "exact"
+ },
+ {
+  "slug": "roaming-in-romania",
+  "slot": 10,
+  "caption": "P1000533",
+  "file": "/diary-media/gilau-to-istanbul/P1000533.jpg",
+  "confidence": "exact"
+ },
+ {
+  "slug": "roaming-in-romania",
+  "slot": 11,
+  "caption": "...but it looks so civilised!",
+  "file": "/diary-media/gilau-to-istanbul/P1000537.jpg",
+  "confidence": "exact"
+ },
+ {
+  "slug": "roaming-in-romania",
+  "slot": 12,
+  "caption": "Mr. P",
+  "file": "/diary-media/gilau-to-istanbul/P1000538.jpg",
+  "confidence": "exact"
+ },
+ {
+  "slug": "roaming-in-romania",
+  "slot": 13,
+  "caption": "It's big out there...",
+  "file": "/diary-media/gilau-to-istanbul/DSC00772.jpg",
+  "confidence": "exact"
+ },
+ {
+  "slug": "roaming-in-romania",
+  "slot": 14,
+  "caption": "Jenny, Ollie, Dave & \"Strider\"",
+  "file": "/diary-media/gilau-to-istanbul/DSC00841.jpg",
+  "confidence": "exact"
+ },
+ {
+  "slug": "roaming-in-romania",
+  "slot": 15,
+  "caption": "Svine",
+  "file": "/diary-media/gilau-to-istanbul/DSC00827.jpg",
+  "confidence": "exact"
+ },
+ {
+  "slug": "the-tao-of-dino",
+  "slot": 1,
+  "caption": "Land's End",
+  "file": "/diary-media/cornwall-colditz/P1000247.jpg",
+  "confidence": "exact"
+ },
+ {
+  "slug": "poland",
+  "slot": 0,
+  "caption": "Party",
+  "file": "/diary-media/colditz-wraclaw/P1000272.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "poland",
+  "slot": 1,
+  "caption": "Gnomes",
+  "file": "/diary-media/colditz-wraclaw/P1000268.jpg",
+  "confidence": "high"
+ },
+ {
+  "slug": "poland",
+  "slot": 2,
+  "caption": "Wroclaw Town Hall",
+  "file": "/diary-media/colditz-wraclaw/P1000270.jpg",
+  "confidence": "high"
+ },
+ {
+  "slug": "poland",
+  "slot": 3,
+  "caption": "Castle",
+  "file": "/diary-media/krakow-to-zakopane/P1000293.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "poland",
+  "slot": 4,
+  "caption": "March for Life",
+  "file": "/diary-media/krakow-to-zakopane/P1000309.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "poland",
+  "slot": 5,
+  "caption": "Salt Mine Cathedral",
+  "file": "/diary-media/krakow-to-zakopane/P1000341.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "poland",
+  "slot": 6,
+  "caption": "The Last Supper - Salt Mine Style",
+  "file": "/diary-media/krakow-to-zakopane/P1000340.jpg",
+  "confidence": "high"
+ },
+ {
+  "slug": "poland",
+  "slot": 8,
+  "caption": "Ollie & Jenny in Snow",
+  "file": "/diary-media/krakow-to-zakopane/P1000364.jpg",
+  "confidence": "high"
+ },
+ {
+  "slug": "poland",
+  "slot": 9,
+  "caption": "Ollie's Rest",
+  "file": "/diary-media/krakow-to-zakopane/P1000389.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "overlanding-toys",
+  "slot": 0,
+  "caption": "Bikes",
+  "file": "/diary-media/balaton-to-gilau/P1000447.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "overlanding-toys",
+  "slot": 1,
+  "caption": "COBB",
+  "file": "/diary-media/balaton-to-gilau/DSCF0987.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "overlanding-toys",
+  "slot": 2,
+  "caption": "Boat",
+  "file": "/diary-media/balaton-to-gilau/DSCF6002.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "overlanding-life",
+  "slot": 1,
+  "caption": "Sand",
+  "file": "/diary-media/gilau-to-istanbul/P1000539.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "overlanding-life",
+  "slot": 3,
+  "caption": "Boozey Ollie",
+  "file": "/diary-media/balaton-to-gilau/DSCF0981.jpg",
+  "confidence": "high"
+ },
+ {
+  "slug": "ollies-delight",
+  "slot": 1,
+  "caption": "Sign",
+  "file": "/diary-media/gilau-to-istanbul/P1000544.jpg",
+  "confidence": "high"
+ },
+ {
+  "slug": "ollies-delight",
+  "slot": 2,
+  "caption": "Dino by the seaside",
+  "file": "/diary-media/gilau-to-istanbul/P1000562.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "ollies-delight",
+  "slot": 3,
+  "caption": "Lazy Ollie",
+  "file": "/diary-media/gilau-to-istanbul/P1000547.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "ollies-delight",
+  "slot": 4,
+  "caption": "Blue Mosque",
+  "file": "/diary-media/gilau-to-istanbul/P1000550.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "ollies-delight",
+  "slot": 5,
+  "caption": "Fountain",
+  "file": "/diary-media/gilau-to-istanbul/P1000548.jpg",
+  "confidence": "high"
+ },
+ {
+  "slug": "ollies-delight",
+  "slot": 6,
+  "caption": "Hizir",
+  "file": "/diary-media/gilau-to-istanbul/P1000593.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "ollies-delight",
+  "slot": 7,
+  "caption": "Kavalte",
+  "file": "/diary-media/gilau-to-istanbul/DSCF6090.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "asian-dreams",
+  "slot": 0,
+  "caption": "Backgammon",
+  "file": "/diary-media/gilau-to-istanbul/P1000571.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "asian-dreams",
+  "slot": 2,
+  "caption": "Safronbolu Hotel",
+  "file": "/diary-media/istanbul-to-doggiebiscuit/P1000610.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "asian-dreams",
+  "slot": 4,
+  "caption": "Church",
+  "file": "/diary-media/istanbul-to-doggiebiscuit/P1000636.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "asian-dreams",
+  "slot": 6,
+  "caption": "Jenny in Cappaddoccia",
+  "file": "/diary-media/istanbul-to-doggiebiscuit/P1000673.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "asian-dreams",
+  "slot": 7,
+  "caption": "Asmail",
+  "file": "/diary-media/istanbul-to-doggiebiscuit/P1000695.jpg",
+  "confidence": "high"
+ },
+ {
+  "slug": "asian-dreams",
+  "slot": 8,
+  "caption": "Ollie Crawling",
+  "file": "/diary-media/istanbul-to-doggiebiscuit/P1000693.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "asian-dreams",
+  "slot": 9,
+  "caption": "Jenny Climbing",
+  "file": "/diary-media/istanbul-to-doggiebiscuit/P1000705.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "asian-dreams",
+  "slot": 10,
+  "caption": "Cave Exit",
+  "file": "/diary-media/istanbul-to-doggiebiscuit/P1000708.jpg",
+  "confidence": "high"
+ },
+ {
+  "slug": "asian-dreams",
+  "slot": 11,
+  "caption": "Ollie in the back",
+  "file": "/diary-media/istanbul-to-doggiebiscuit/P1000746.jpg",
+  "confidence": "high"
+ },
+ {
+  "slug": "asian-dreams",
+  "slot": 12,
+  "caption": "Snaking Road",
+  "file": "/diary-media/istanbul-to-doggiebiscuit/P1000751.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "asian-dreams",
+  "slot": 13,
+  "caption": "Dino up hill",
+  "file": "/diary-media/istanbul-to-doggiebiscuit/P1000744.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "asian-dreams",
+  "slot": 14,
+  "caption": "Statue Heads",
+  "file": "/diary-media/istanbul-to-doggiebiscuit/P1000783.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "asian-dreams",
+  "slot": 15,
+  "caption": "Close up of heads",
+  "file": "/diary-media/istanbul-to-doggiebiscuit/P1000789.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "iran-in-a-sack",
+  "slot": 1,
+  "caption": "The Sack!",
+  "file": "/diary-media/doggiebiscuit-to-yazd/P1000889.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "iran-in-a-sack",
+  "slot": 2,
+  "caption": "Typical street scene",
+  "file": "/diary-media/doggiebiscuit-to-yazd/P1000932.jpg",
+  "confidence": "high"
+ },
+ {
+  "slug": "iran-in-a-sack",
+  "slot": 3,
+  "caption": "1 million questions from the girls",
+  "file": "/diary-media/doggiebiscuit-to-yazd/P1000981.jpg",
+  "confidence": "high"
+ },
+ {
+  "slug": "iran-in-a-sack",
+  "slot": 4,
+  "caption": "Arton",
+  "file": "/diary-media/doggiebiscuit-to-yazd/P1000946.jpg",
+  "confidence": "high"
+ },
+ {
+  "slug": "quick-catch-upt",
+  "slot": 0,
+  "caption": "Men - Elagance Vodka",
+  "file": "/diary-media/baku-to-khiva/P1010194.jpg",
+  "confidence": "high"
+ },
+ {
+  "slug": "quick-catch-upt",
+  "slot": 3,
+  "caption": "Yazd",
+  "file": "/diary-media/yazd-to-baku/P1010067.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "quick-catch-upt",
+  "slot": 5,
+  "caption": "Ferry Posse",
+  "file": "/diary-media/yazd-to-baku/P1010172.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "quick-catch-upt",
+  "slot": 7,
+  "caption": "Drunks",
+  "file": "/diary-media/baku-to-khiva/P1010199.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "quick-catch-upt",
+  "slot": 9,
+  "caption": "Citreons",
+  "file": "/diary-media/baku-to-khiva/P1010223.jpg",
+  "confidence": "high"
+ },
+ {
+  "slug": "quick-catch-upt",
+  "slot": 10,
+  "caption": "Kazakh Sunset",
+  "file": "/diary-media/baku-to-khiva/P1010229.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "one-russell-cleasby",
+  "slot": 1,
+  "caption": "Russ in hospital",
+  "file": "/diary-media/khiva-to-dushanbe/DSCF6121.jpg",
+  "confidence": "high"
+ },
+ {
+  "slug": "one-russell-cleasby",
+  "slot": 2,
+  "caption": "Khiva",
+  "file": "/diary-media/khiva-to-dushanbe/P1010406.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "one-russell-cleasby",
+  "slot": 3,
+  "caption": "Fat Khiva",
+  "file": "/diary-media/khiva-to-dushanbe/P1010404.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "one-russell-cleasby",
+  "slot": 4,
+  "caption": "Walls",
+  "file": "/diary-media/baku-to-khiva/P1010336.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "one-russell-cleasby",
+  "slot": 5,
+  "caption": "Yurt Girls",
+  "file": "/diary-media/baku-to-khiva/P1010301.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "one-russell-cleasby",
+  "slot": 7,
+  "caption": "Andre",
+  "file": "/diary-media/khiva-to-dushanbe/P1010493.jpg",
+  "confidence": "high"
+ },
+ {
+  "slug": "one-russell-cleasby",
+  "slot": 8,
+  "caption": "Cake Eater",
+  "file": "/diary-media/khiva-to-dushanbe/P1010477.jpg",
+  "confidence": "high"
+ },
+ {
+  "slug": "one-russell-cleasby",
+  "slot": 9,
+  "caption": "Tajikistan Hills",
+  "file": "/diary-media/khiva-to-dushanbe/P1010498.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "one-russell-cleasby",
+  "slot": 10,
+  "caption": "Bread and Sugar",
+  "file": "/diary-media/khiva-to-dushanbe/P1010551.jpg",
+  "confidence": "high"
+ },
+ {
+  "slug": "mountain-madness-part-1",
+  "slot": 1,
+  "caption": "Tajik Traffic Jam",
+  "file": "/diary-media/dushambe-to-osh/P1010873.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "mountain-madness-part-1",
+  "slot": 2,
+  "caption": "Russ' Bike",
+  "file": "/diary-media/dushambe-to-osh/P1010820.jpg",
+  "confidence": "high"
+ },
+ {
+  "slug": "mountain-madness-part-1",
+  "slot": 5,
+  "caption": "Land Slide",
+  "file": "/diary-media/dushambe-to-osh/P1010868.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "mountain-madness-part-1",
+  "slot": 6,
+  "caption": "Afghan market",
+  "file": "/diary-media/dushambe-to-osh/P1010932.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "mountain-madness-part-1",
+  "slot": 7,
+  "caption": "Altitude",
+  "file": "/diary-media/dushambe-to-osh/P1020090.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "mountain-madness-part-2",
+  "slot": 0,
+  "caption": "Kyrgyz Girl",
+  "file": "/diary-media/around-osh/P1020120.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "mountain-madness-part-2",
+  "slot": 2,
+  "caption": "Road to Peak Lenin",
+  "file": "/diary-media/around-osh/P1020117.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "mountain-madness-part-2",
+  "slot": 3,
+  "caption": "Dino and yurts at Peak Lenin",
+  "file": "/diary-media/around-osh/P1020140.jpg",
+  "confidence": "high"
+ },
+ {
+  "slug": "mountain-madness-part-2",
+  "slot": 4,
+  "caption": "Yurt Interior",
+  "file": "/diary-media/around-osh/P1020127.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "mountain-madness-part-2",
+  "slot": 5,
+  "caption": "Kyrgyz Brides",
+  "file": "/diary-media/around-osh/P1020155.jpg",
+  "confidence": "high"
+ },
+ {
+  "slug": "mountain-madness-part-2",
+  "slot": 7,
+  "caption": "Horse Wrestling",
+  "file": "/diary-media/around-osh/P1020221.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "mountain-madness-part-2",
+  "slot": 8,
+  "caption": "Jenny abducts herself a nice bride",
+  "file": "/diary-media/around-osh/P1020167.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "mountain-madness-part-3",
+  "slot": 1,
+  "caption": "green dino",
+  "file": "/diary-media/bishkek-to-pasu-pakistan/P1020319.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "mountain-madness-part-3",
+  "slot": 3,
+  "caption": "waterful",
+  "file": "/diary-media/bishkek-to-pasu-pakistan/P1020334.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "mountain-madness-part-3",
+  "slot": 4,
+  "caption": "gimp",
+  "file": "/diary-media/bishkek-to-pasu-pakistan/DSCF6128.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "mountain-madness-part-3",
+  "slot": 5,
+  "caption": "Ollie with some birds",
+  "file": "/diary-media/bishkek-to-pasu-pakistan/P1020366.jpg",
+  "confidence": "high"
+ },
+ {
+  "slug": "mountain-madness-part-3",
+  "slot": 6,
+  "caption": "Song Kol",
+  "file": "/diary-media/bishkek-to-pasu-pakistan/P1020467.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "mountain-madness-part-3",
+  "slot": 7,
+  "caption": "switchback road",
+  "file": "/diary-media/bishkek-to-pasu-pakistan/P1020505.jpg",
+  "confidence": "high"
+ },
+ {
+  "slug": "mountain-madness-part-3",
+  "slot": 9,
+  "caption": "Kyrgyz Brides",
+  "file": "/diary-media/bishkek-to-pasu-pakistan/P1020601.jpg",
+  "confidence": "high"
+ },
+ {
+  "slug": "crazy-china",
+  "slot": 0,
+  "caption": "Chairman Mao",
+  "file": "/diary-media/bishkek-to-pasu-pakistan/P1020652.jpg",
+  "confidence": "high"
+ },
+ {
+  "slug": "crazy-china",
+  "slot": 1,
+  "caption": "Jean-Yves and Vespa",
+  "file": "/diary-media/bishkek-to-pasu-pakistan/P1020659.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "crazy-china",
+  "slot": 3,
+  "caption": "Spices",
+  "file": "/diary-media/bishkek-to-pasu-pakistan/P1020639.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "crazy-china",
+  "slot": 4,
+  "caption": "Snakes",
+  "file": "/diary-media/bishkek-to-pasu-pakistan/P1020642.jpg",
+  "confidence": "high"
+ },
+ {
+  "slug": "crazy-china",
+  "slot": 5,
+  "caption": "Glacial Resort",
+  "file": "/diary-media/bishkek-to-pasu-pakistan/P1020743.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "crazy-china",
+  "slot": 7,
+  "caption": "Xingjang beer",
+  "file": "/diary-media/bishkek-to-pasu-pakistan/P1020726.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "pakistani-smiles",
+  "slot": 0,
+  "caption": "Moody Moutain",
+  "file": "/diary-media/bishkek-to-pasu-pakistan/P1020900.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "pakistani-smiles",
+  "slot": 2,
+  "caption": "River Crossing",
+  "file": "/diary-media/bishkek-to-pasu-pakistan/P1020913.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "pakistani-smiles",
+  "slot": 3,
+  "caption": "Happy Couple",
+  "file": "/diary-media/passu-to-gilget/P1030028.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "pakistani-smiles",
+  "slot": 4,
+  "caption": "Ollie",
+  "file": "/diary-media/passu-to-gilget/P1020965.jpg",
+  "confidence": "high"
+ },
+ {
+  "slug": "pakistani-smiles",
+  "slot": 5,
+  "caption": "Jenny",
+  "file": "/diary-media/passu-to-gilget/P1020966.jpg",
+  "confidence": "high"
+ },
+ {
+  "slug": "pakistani-smiles",
+  "slot": 6,
+  "caption": "Our porters",
+  "file": "/diary-media/passu-to-gilget/P1020986.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "pakistani-smiles",
+  "slot": 7,
+  "caption": "Base Camp",
+  "file": "/diary-media/passu-to-gilget/P1030045.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "pakistani-smiles",
+  "slot": 8,
+  "caption": "Wow",
+  "file": "/diary-media/passu-to-gilget/P1030100.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "sober-reflection",
+  "slot": 1,
+  "caption": "Pakistani Trucks",
+  "file": "/diary-media/gilget-to-islamabad/P1030175.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "sober-reflection",
+  "slot": 2,
+  "caption": "car wash",
+  "file": "/diary-media/gilget-to-islamabad/P1030115.jpg",
+  "confidence": "high"
+ },
+ {
+  "slug": "sober-reflection",
+  "slot": 3,
+  "caption": "Shigar Fort",
+  "file": "/diary-media/gilget-to-islamabad/P1030128.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "sober-reflection",
+  "slot": 5,
+  "caption": "Suspension Bridge",
+  "file": "/diary-media/gilget-to-islamabad/P1030150.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "hindustan-zindabad",
+  "slot": 0,
+  "caption": "Shiva",
+  "file": "/diary-media/islamabad-to-mumbai/P1030424.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "hindustan-zindabad",
+  "slot": 2,
+  "caption": "Indian guard",
+  "file": "/diary-media/islamabad-to-mumbai/P1030237.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "hindustan-zindabad",
+  "slot": 3,
+  "caption": "Ritz Pool",
+  "file": "/diary-media/islamabad-to-mumbai/P1030275.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "hindustan-zindabad",
+  "slot": 4,
+  "caption": "Golden Temple",
+  "file": "/diary-media/islamabad-to-mumbai/P1030265.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "hindustan-zindabad",
+  "slot": 5,
+  "caption": "Camel",
+  "file": "/diary-media/islamabad-to-mumbai/P1030470.jpg",
+  "confidence": "high"
+ },
+ {
+  "slug": "hindustan-zindabad",
+  "slot": 6,
+  "caption": "Prayer Wheels",
+  "file": "/diary-media/islamabad-to-mumbai/P1030285.jpg",
+  "confidence": "high"
+ },
+ {
+  "slug": "hindustan-zindabad",
+  "slot": 7,
+  "caption": "Tibetan art",
+  "file": "/diary-media/islamabad-to-mumbai/P1030286.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "sprint-to-goa",
+  "slot": 1,
+  "caption": "Birdie",
+  "file": "/diary-media/islamabad-to-mumbai/P1030299.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "sprint-to-goa",
+  "slot": 2,
+  "caption": "Clubhouse",
+  "file": "/diary-media/islamabad-to-mumbai/P1030302.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "sprint-to-goa",
+  "slot": 3,
+  "caption": "Shimla",
+  "file": "/diary-media/islamabad-to-mumbai/P1030317.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "sprint-to-goa",
+  "slot": 4,
+  "caption": "Shimla Church",
+  "file": "/diary-media/islamabad-to-mumbai/P1030309.jpg",
+  "confidence": "high"
+ },
+ {
+  "slug": "sprint-to-goa",
+  "slot": 5,
+  "caption": "Post Office",
+  "file": "/diary-media/islamabad-to-mumbai/P1030318.jpg",
+  "confidence": "high"
+ },
+ {
+  "slug": "sprint-to-goa",
+  "slot": 6,
+  "caption": "Canyon",
+  "file": "/diary-media/islamabad-to-mumbai/P1030339.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "sprint-to-goa",
+  "slot": 8,
+  "caption": "People",
+  "file": "/diary-media/islamabad-to-mumbai/P1030361.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "sprint-to-goa",
+  "slot": 9,
+  "caption": "Hadiwar Ganges",
+  "file": "/diary-media/islamabad-to-mumbai/P1030429.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "sprint-to-goa",
+  "slot": 10,
+  "caption": "Diwali Celebrations",
+  "file": "/diary-media/islamabad-to-mumbai/P1030431.jpg",
+  "confidence": "medium"
+ },
+ {
+  "slug": "sprint-to-goa",
+  "slot": 11,
+  "caption": "Goa",
+  "file": "/diary-media/goa/P1030601.jpg",
+  "confidence": "high"
+ }
+]

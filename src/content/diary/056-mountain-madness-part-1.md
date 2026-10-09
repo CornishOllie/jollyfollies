@@ -11,9 +11,17 @@ Nighttime Worry
 
 Due to the fact that the phone line was so bad to Russ all we could do was hang up and try and ring him again, finally after five minutes of trying we got through. From what we could find out from Russ his crash had been bad enough to damage the bike and him, but not enough to stop him continuing onto the lake. He said he had some cuts to his hands, what felt like ligament damage to his shoulder and some superficial damage to the bike. We couldn't persuade him not to camp the night and wait for us and so could only try to go back to sleep whilst hoping and praying that he would arrive safely. We normally sleep right through the night in the roof tent, but both of us had a very fitful sleep that night, worrying about Russ's progress. Eventually, at 5am, and with the village surrounding us breaking into full life, we decided it was light enough for us to try and catch up with Russ. We had heard that road works would close the road from 7am, so there was a chance we would get there in time, but our main hope was that as it was Sunday there would be no road works. Tajikistan is an Islamic nation, so we weren't really sure how the weekend would be observed. In Iran the country had a mixture of Friday, Saturday and occasionally Sunday off for the weekend. All we could do was drive and see.
 
+![Tajik Traffic Jam](/diary-media/dushambe-to-osh/P1010873.jpg)
+
+*Tajik Traffic Jam*
+
 As we drove the road towards the lake it took no time at all to realise we had made the right decision to stop the night before and we thought we understood why Russ had crashed. We did, however, find out later that Russ had crashed on perfect tarmac, having been run off the road by a lorry. But the state of the road we were driving upon meant we had no chance whatsoever of catching the road works before the roads were closed until 7pm. Finally about 8am we arrived in the town of Aini to find a queue of traffic already started, and hence we had no option but to wait. we did try persuading the road crew that we were on a mercy mission, but because they only spoke Chinese and we only knew the words for hello and thank you in their language, we didn't get very far. So we began the 12 hour wait spending a lot the time in the cool rooftent. By this point we had heard from Russ and knew he had arrived at the lake in (just about) one piece, and was with our friends Herbert, Eva and the crazy French. We could stop worrying about Russ and start worrying about ourselves. The next part of our drive to the lake could only start at 7pm, with darkness being complete by 9pm, but was a 3 hour journey. We either had to camp another night or drive an hour or so in the dark. We talked and talked, and so keen were we to see Russ we decided to go for it, driving with spotlights on and at a snails pace. By 11pm we had finally caught up with Russ, over 24 hours since we had last seen him, and could find out the full story of his adventure.
 
 Lake Iskander kul
+
+![Russ' Bike](/diary-media/dushambe-to-osh/P1010820.jpg)
+
+*Russ' Bike*
 
 We found out that as Russ was driving to the lake a lorry had run him off the road, pushing him onto a pile of earth or sand that caused his bike to flip over, smashing his windscreen, ripping his wing mirrors of and smashing his lights, on top of lots of scratches and scrapes. Russ, himself was just glad not to have any major damage, although he knew he would have to take some time off to recuperate. So, it was decided that we would spend about 5 days down by the lake, reading, chilling, walking and cooking. No problem for us!
 
@@ -39,6 +47,10 @@ One of our dreams before we started the trip was to drive the legendary Pamir hi
 
 The Pamir highway is a beautiful, amazing paved road, and the spartan area really has to be visited to be understood. Saying this, we found that the southern road to the start of the highway, including the Wakhan corridor, was the real highlight. If you are considering following in our footsteps then consider the road from Dushanbe to Khorag, which follows the Afghan border a lot of the way. The drive to Khorag was originally set to take us two days, but due to constant landslides and dynamiting took an extra day of spine jarring driving. On this road we encountered our first big river crossings, including one river which was actually a waterfall, as well as being first in the queue for a recent landslide. As usual Dino handled everything that was thrown at him, and we were certainly glad to have gone with a 4wd.
 
+![Land Slide](/diary-media/dushambe-to-osh/P1010868.jpg)
+
+*Land Slide*
+
 The road that we were first to cross after landscaping following a landslide
 
 On the way to the Pamirs we stopped at the Bibi Fatima hot springs, that were worth the visit for the crazy drive up six hundred vertical metres of switchback roads alone. Once at the springs you are treated to both hot springs and a freezing cold plunge river, which are both shocking and refreshing. Unfortunately the men and women are separated and the women only have the hot springs. By the time the men were finished Jenny was about poached inside and out and had to be escorted back to the Landie. This was to be a sign of things to come for Jenny, unfortunately.
@@ -47,7 +59,15 @@ Also on the way to the highway we stopped at Ishkashim, which is a small town bo
 
 The market itself sold nothing special, but the mix of people attending and selling made people watching a must, and also interaction a little more interesting than normal. All we bought was an ice cream, some onions and a woolly hat for baby Jessica, but we managed to spend an hour or so dreaming of what Afghanistan must be like. One day maybe?
 
+![Afghan market](/diary-media/dushambe-to-osh/P1010932.jpg)
+
+*Afghan market*
+
 After Ishkashim we made our way along the beautiful Wakhan corridor, stopping every five minutes to admire the non stop overwhelming beauty. By this point we had also picked up a Canadian backpacker, Joe, who was traveling most of the way we were, after he had been quoted $250 for a ride in a hired car for a two day journey, he decided a couple of days in the back of Dino would do him just fine. Sensible fellow. Not only was Joe good company, but he also had some top notch information, regarding a traditional horse festival being held just inside Kyrgyzstan, at the base camp for mount Lenin on the 1st of August. This was perfect timing for us and we knew we had to go.
+
+![Altitude](/diary-media/dushambe-to-osh/P1020090.jpg)
+
+*Altitude*
 
 But by this time Jenny had started to feel really unwell, and just as we were all planning on heading to the festival together we realised we should take Jenny to a doctor. The only problem was we had just arrived to the Pamir highway proper and were in a fairly remote village. Luckily the woman owner of the homestay we were in spoke good English and helped us take Jenny to the local doctor, currently living in his summer abode - a yurt. Our main worry at this point was the the approximate 4000m altitude had given Jenny altitude sickness, especially as she was suffering a blinding headache. We had already fed her with one of the tablets that Ollie's sister, Vicky had provided, but with no visible signs of helping.
 
