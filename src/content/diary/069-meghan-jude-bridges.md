@@ -7,7 +7,7 @@ original_url: 'http://www.jollyfollies.com/Diary/069_Meghan_Jude_Bridges.html'
 
 We are over the moon with the arrival of our latest and dearest folly - Meghan Jude Bridges, who was born at 02:50, Monday 3rd May. She weighed in at a healthy pi kilograms, and Mum and baby are doing brilliantly! Don't worry about Dad, he's busy earning money and learning about new priorities :)
 
-![From The First Days of Meghan](/diary-media/meghan/p1120035.jpg)
+![From The First Days of Meghan](/diary-media/first-days-of-meghan/010.jpg)
 
 *From The First Days of Meghan*
 
@@ -17,22 +17,22 @@ As every woman in her first pregnancy will tell you, no matter how many books yo
 
 Luckily Jenny's parents flew in the morning before Meghan's birth, and after a little bit of confusion managed to arrive at our house, ready to give 4 labour's worth of advice. After some debate a vote was taken, and it was agreed that Jenny was indeed in labour. Wow! Ollie, who had spent hundreds of hours preparing for this trip, could find no details on pregnancy in Tom Sheppard's Vehicle Dependant Expedition Manual, decided it was time to hand over to the experts, and jumped into Dino, with Jenny safely strapped into the passenger seat, and towels and a good book to pass the time in the back. How wrong can a man be! Dino, as usual, started first time, and with an excited growl headed straight for the hospital.
 
-![From The First Days of Meghan](/diary-media/meghan/p1120004.jpg)
+![From The First Days of Meghan](/diary-media/first-days-of-meghan/002.jpg)
 
 *From The First Days of Meghan*
 Birthing Centre - Royal Prince Alfred Hospital
 
 Through a mixture of luck and judgment we were booked into the Birthing Centre of the RPA hospital in Sydney. This is a fabulous place to have a child if you are feeling brave (woman and man) and a little hippyish.We had most of our anti-natal care through the midwives here, and so learned about the birthing song, and how mother nature would look after Jenny during the birth process, thanks to her millions of years of experience. It is actually all pretty true, and refreshing compared to some of the books and articles that we managed to read. But there is a downside of attending here, and that is it practices natural birthing, and all the good drugs are banned! Jenny discovered that when she did eventually ask for some painkillers that a hot towel is considered the main aid here! But after considerable begging (mainly by Ollie due to severe bleeding of the arm) Jenny was eventually allowed access to gas and air.
 
-![From The First Days of Meghan](/diary-media/meghan/p1120020.jpg)
+![From The First Days of Meghan](/diary-media/first-days-of-meghan/004.jpg)
 
 *From The First Days of Meghan*
 Without going into too much detail (Ollie has already had privileges revoked for posting labour pictures on Facebook) the labour lasted seven hours, and eventually ended up in the bath, with Meghan Jude being born with one final mighty push, under water at ten to three in the morning. All involved were exhausted but thrilled. Ollie was hallucinating (he hopes!) but still cut the umbilical cord like a pro. The final thrill for Ollie was finding out that Meghan weighed exactly pi kilograms - today was surely and auspicious day!
 
-![From The First Days of Meghan](/diary-media/meghan/p1120017.jpg)
+![From The First Days of Meghan](/diary-media/first-days-of-meghan/003.jpg)
 
 *From The First Days of Meghan*
-![From The First Days of Meghan](/diary-media/meghan/p1120027.jpg)
+![From The First Days of Meghan](/diary-media/first-days-of-meghan/007.jpg)
 
 *From The First Days of Meghan*
 Meghan Comes Home

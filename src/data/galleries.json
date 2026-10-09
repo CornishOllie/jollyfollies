@@ -6526,6 +6526,93 @@
           "date": "2009-11-02"
         }
       ]
+    },
+    {
+      "name": "The First Days of Meghan",
+      "slug": "first-days-of-meghan",
+      "count": 15,
+      "start": "2010-05-03",
+      "end": "2010-05-23",
+      "entry": "069-meghan-jude-bridges",
+      "entry_clean": "meghan-jude-bridges",
+      "entry_title": "Meghan Jude Bridges",
+      "photos": [
+        {
+          "src": "/diary-media/first-days-of-meghan/001.jpg",
+          "thumb": "/diary-media/first-days-of-meghan/thumb/001.jpg",
+          "date": null
+        },
+        {
+          "src": "/diary-media/first-days-of-meghan/002.jpg",
+          "thumb": "/diary-media/first-days-of-meghan/thumb/002.jpg",
+          "date": null
+        },
+        {
+          "src": "/diary-media/first-days-of-meghan/003.jpg",
+          "thumb": "/diary-media/first-days-of-meghan/thumb/003.jpg",
+          "date": null
+        },
+        {
+          "src": "/diary-media/first-days-of-meghan/004.jpg",
+          "thumb": "/diary-media/first-days-of-meghan/thumb/004.jpg",
+          "date": null
+        },
+        {
+          "src": "/diary-media/first-days-of-meghan/005.jpg",
+          "thumb": "/diary-media/first-days-of-meghan/thumb/005.jpg",
+          "date": null
+        },
+        {
+          "src": "/diary-media/first-days-of-meghan/006.jpg",
+          "thumb": "/diary-media/first-days-of-meghan/thumb/006.jpg",
+          "date": null
+        },
+        {
+          "src": "/diary-media/first-days-of-meghan/007.jpg",
+          "thumb": "/diary-media/first-days-of-meghan/thumb/007.jpg",
+          "date": null
+        },
+        {
+          "src": "/diary-media/first-days-of-meghan/008.jpg",
+          "thumb": "/diary-media/first-days-of-meghan/thumb/008.jpg",
+          "date": null
+        },
+        {
+          "src": "/diary-media/first-days-of-meghan/009.jpg",
+          "thumb": "/diary-media/first-days-of-meghan/thumb/009.jpg",
+          "date": null
+        },
+        {
+          "src": "/diary-media/first-days-of-meghan/010.jpg",
+          "thumb": "/diary-media/first-days-of-meghan/thumb/010.jpg",
+          "date": null
+        },
+        {
+          "src": "/diary-media/first-days-of-meghan/011.jpg",
+          "thumb": "/diary-media/first-days-of-meghan/thumb/011.jpg",
+          "date": null
+        },
+        {
+          "src": "/diary-media/first-days-of-meghan/012.jpg",
+          "thumb": "/diary-media/first-days-of-meghan/thumb/012.jpg",
+          "date": null
+        },
+        {
+          "src": "/diary-media/first-days-of-meghan/013.jpg",
+          "thumb": "/diary-media/first-days-of-meghan/thumb/013.jpg",
+          "date": null
+        },
+        {
+          "src": "/diary-media/first-days-of-meghan/014.jpg",
+          "thumb": "/diary-media/first-days-of-meghan/thumb/014.jpg",
+          "date": null
+        },
+        {
+          "src": "/diary-media/first-days-of-meghan/015.jpg",
+          "thumb": "/diary-media/first-days-of-meghan/thumb/015.jpg",
+          "date": null
+        }
+      ]
     }
   ],
   "entryGalleries": {
@@ -6585,6 +6672,9 @@
     ],
     "sprint-to-goa": [
       "goa"
+    ],
+    "meghan-jude-bridges": [
+      "first-days-of-meghan"
     ]
   }
 }
