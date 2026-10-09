@@ -62,6 +62,8 @@ const ogImage = new URL(baseUrl + image, Astro.site);
         } catch (e) {}
       })();
     </script>
+    <!-- Cloudflare Web Analytics: cookieless visit counts (dashboard: Cloudflare > Web analytics) -->
+    <script is:inline type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "3734e2b4c9ce424f8a6d991b05575b50"}'></script>
   </head>
   <body>
     <a class="skip-link" href="#main">Skip to content</a>
