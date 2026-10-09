@@ -1,9 +1,12 @@
 ---
 title: 'Happy Christmas 2008'
-date: 2008-06-29
+date: 2008-12-16
 order: 38
 original_url: 'http://www.jollyfollies.com/Diary/038_Happy_Christmas_2008.html'
 ---
+![the red tape begins](/diary-media/illustrations/drawing-red-tape.png)
+
+*Illustration: the red tape begins*
 
 **Mistletoe and Wine******(Snogging 'n' Booze)
 

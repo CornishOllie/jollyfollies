@@ -4,6 +4,9 @@ date: 2006-07-14
 order: 10
 original_url: 'http://www.jollyfollies.com/Diary/010_arrival_of_thunderbird_4.html'
 ---
+![The River Test, Hampshire](/diary-media/illustrations/river-test.jpg)
+
+*Illustration: The River Test, Hampshire. Photo: FishingBeats, CC BY 4.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_River_Test.jpg)*
 
 **Dino and Thunderbird 4**
 

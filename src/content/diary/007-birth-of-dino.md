@@ -4,6 +4,9 @@ date: 2006-06-30
 order: 7
 original_url: 'http://www.jollyfollies.com/Diary/007_birth_of_dino.html'
 ---
+![DINO](/images/dino-side.gif)
+
+*DINO*
 
 **We Have a Vehicle!**
 

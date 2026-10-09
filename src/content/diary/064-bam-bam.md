@@ -4,6 +4,9 @@ date: 2009-10-30
 order: 64
 original_url: 'http://www.jollyfollies.com/Diary/064_BAM_BAM.html'
 ---
+![Goa, 31 October 2009](/diary-media/goa/P1030543.jpg)
+
+*Goa, 31 October 2009*
 
 It has been a while since our last travel blog, and people have been asking us questions such as why are we traveling so fast through India? Why is Jenny so ill? Why are you applying for jobs? Well all will be revealed below .... Bam Bam.
 

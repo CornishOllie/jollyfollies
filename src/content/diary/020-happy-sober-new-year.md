@@ -4,6 +4,9 @@ date: 2007-01-15
 order: 20
 original_url: 'http://www.jollyfollies.com/Diary/020_happy_sober_new_year.html'
 ---
+![A potjie stew](/diary-media/illustrations/potjie-stew.jpg)
+
+*Illustration: A potjie stew. Photo: Chrstphr.jones, CC BY-SA 4.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Potjie_is_ready.JPG)*
 
 **Busy Little Bees**
 

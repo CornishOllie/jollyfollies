@@ -27,9 +27,17 @@ It's a beautiful area and we had arrived four days before Dino had to be shipped
 
 Kerala was the place that the Portuguese explorer/merchant Vasca de Gama landed in 1498, starting the European colonization of India. And because of it's Portuguese and Catholic influence the streets are unrecognizable as Indian, and the state has it's own separate identity. And a symbol of this identity is the backwaters - a chain of lakes, lagoons and canals, both manmade and natural. You could probably spend weeks and months drifting about these beautiful waterways, but we only had one afternoon. We loved it though!
 
+![Backwaters](/diary-media/illustrations/kerala-houseboat.jpg)
+
+*Illustration: A houseboat on the Kerala backwaters. Photo: Vyacheslav Argenberg, CC BY 4.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kerala_backwaters,_Houseboats,_India.jpg)*
+
 We also spent part of the day watching the mahouts washing the elephants down at a river. Although these creatures are best observed in their wild environment, it is still amazing to see these giants close up, and see the pleasure they receive when wallowing in water. The elephants are trained but no longer needed for forestry (although still used in places) and mainly earn their bananas making special guest appearances at religious festivals.
 
  
+
+![Mahoots](/diary-media/illustrations/mahout.jpg)
+
+*Illustration: A mahout and his elephant, Thailand. Photo: Alexander Klink, CC BY 3.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mahout_with_young_elephant.jpg)*
 
 So after fours days enjoying Kerala's laid back pace and warm beers, we packed Dino into a crate and prepared to fly to Thailand to meet our friends for a months R&R (as if we needed it!) and to celebrate Christmas in circumstances we could never imagine. Bye bye Dino!
 

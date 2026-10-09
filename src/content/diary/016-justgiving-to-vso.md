@@ -4,6 +4,9 @@ date: 2006-10-23
 order: 16
 original_url: 'http://www.jollyfollies.com/Diary/016_justgiving_to_vso.html'
 ---
+![the £30,000 target for VSO](/diary-media/illustrations/drawing-justgiving.png)
+
+*Illustration: the £30,000 target for VSO*
 
 As frequent guests to these pages will know, as part of our trip we want to raise as much money as possible for [VSO](http://www.vso.org.uk/). To help people give straight to VSO easily we have set up a [JustGiving](http://www.justgiving.com/default.asp) page. Justgiving is the leading charity fundraising website, enabling ordinary people to raise extraordinary amounts of money for the causes they care about.
 

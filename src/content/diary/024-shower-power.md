@@ -4,6 +4,9 @@ date: 2007-06-10
 order: 24
 original_url: 'http://www.jollyfollies.com/Diary/024_shower_power.html'
 ---
+![DINO at the workshop, July 2008](/diary-media/lee-welding/DSC00006.jpg)
+
+*DINO at the workshop, July 2008*
 
 **Dino to Foley's**
 

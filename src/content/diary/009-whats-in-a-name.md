@@ -4,6 +4,9 @@ date: 2006-07-09
 order: 9
 original_url: 'http://www.jollyfollies.com/Diary/009_whats_in_a_name.html'
 ---
+![Ollie and DINO](/images/ollie-and-dino.jpg)
+
+*Ollie and DINO*
 
 **Why Dino?**
 

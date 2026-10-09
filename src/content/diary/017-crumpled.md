@@ -4,6 +4,9 @@ date: 2006-11-05
 order: 17
 original_url: 'http://www.jollyfollies.com/Diary/017_crumpled.html'
 ---
+![the prang](/diary-media/illustrations/drawing-crumpled.png)
+
+*Illustration: the prang*
 
 **Oops ...**
 

@@ -4,8 +4,9 @@ date: 2006-09-10
 order: 13
 original_url: 'http://www.jollyfollies.com/Diary/013_this_ones_for_jimla.html'
 ---
+![Connemara, west of Ireland](/diary-media/illustrations/connemara.jpg)
 
-
+*Illustration: Connemara, west of Ireland. Photo: Sonse, CC BY 2.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Connemara_Landscape_(42075670542).jpg)*
 
 **Dino's Ireland Test**
 

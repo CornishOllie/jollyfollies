@@ -4,6 +4,9 @@ date: 2006-06-05
 order: 5
 original_url: 'http://www.jollyfollies.com/Diary/005_slowly_slowly_catchie_monkey.html'
 ---
+![A Land Rover Defender 110 Station Wagon](/diary-media/illustrations/defender-110.jpg)
+
+*Illustration: A Land Rover Defender 110 Station Wagon. Photo: DeFacto, CC BY-SA 4.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Land_Rover_Defender_110_Station_Wagon_2016_-_front.jpg)*
 
 **Website
 

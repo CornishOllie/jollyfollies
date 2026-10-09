@@ -4,6 +4,9 @@ date: 2006-06-17
 order: 6
 original_url: 'http://www.jollyfollies.com/Diary/006_bagsie_be_ewan.html'
 ---
+![A BMW R1150GS, the bike of The Long Way Round](/diary-media/illustrations/bmw-r1150gs.jpg)
+
+*Illustration: A BMW R1150GS, the bike of The Long Way Round. Photo: FrenchSelfCatering.com, CC BY 2.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BMW_R1150GS_Adventure_with_system_panniers.jpg)*
 
 **
 

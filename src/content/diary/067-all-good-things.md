@@ -4,6 +4,9 @@ date: 2009-11-26
 order: 67
 original_url: 'http://www.jollyfollies.com/Diary/067_all_good_things.html'
 ---
+![Goa, November 2009](/diary-media/goa/P1030589.jpg)
+
+*Goa, November 2009*
 
 We've been in Goa over a month now and are ready to leave, shipping Dino to Australia and ourselves to Thailand. We've been joined here by some other overlanders who themselves are resting up after one of them had a head on crash and broke her wrist.
 

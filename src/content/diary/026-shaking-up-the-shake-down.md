@@ -4,6 +4,9 @@ date: 2007-07-17
 order: 26
 original_url: 'http://www.jollyfollies.com/Diary/026_shaking_up_the_shake_down.html'
 ---
+![The Algarve coast, Portugal](/diary-media/illustrations/algarve-coast.jpg)
+
+*Illustration: The Algarve coast, Portugal. Photo: muffinn from Worcester, UK, CC BY 2.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Portugal_-_Algarve_-_coast_west_of_Lagos_(25657164162).jpg)*
 
 **What Did We Learn**
 

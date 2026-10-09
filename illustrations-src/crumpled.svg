@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750">
+<rect width="1200" height="750" fill="#faf6ec"/><circle cx="980" cy="160" r="230" fill="#f6d79f" opacity=".55"/><circle cx="170" cy="640" r="260" fill="#f3ecdd"/>
+<path d="M0 690 Q300 650 600 690 T1200 680 L1200 750 L0 750 Z" fill="#cfe3d7" opacity=".7"/><g transform="translate(300,300)" fill="none" stroke="#1c3a55" stroke-width="7" stroke-linejoin="round" stroke-linecap="round">
+<path d="M40 200 L40 140 Q42 120 70 115 L150 105 L210 50 Q222 40 240 40 L420 40 Q445 42 460 70 L500 110 L520 120 L540 150 L520 165 L545 180 L530 200 Z" fill="#c9cdd2"/>
+<path d="M225 60 L190 105 L330 105 L330 55 Z M350 55 L350 105 L470 105 L440 62 Z" fill="#e4efe7"/><path d="M500 110 L515 140 L500 150 L525 160" stroke="#e8896a"/>
+<circle cx="140" cy="205" r="42" fill="#faf6ec"/><circle cx="430" cy="205" r="42" fill="#faf6ec"/><circle cx="140" cy="205" r="12" fill="#1c3a55"/><circle cx="430" cy="205" r="12" fill="#1c3a55"/></g>
+<g fill="#f6d79f" stroke="#e8896a" stroke-width="5"><path d="M880 270 l18 40 l44 6 l-32 30 l8 44 l-38 -22 l-38 22 l8 -44 l-32 -30 l44 -6 Z"/><path d="M960 400 l10 22 l24 4 l-18 16 l4 24 l-20 -12 l-22 12 l4 -24 l-18 -16 l24 -4 Z"/></g>
+<text x="600" y="210" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="80" font-style="italic" fill="#1c3a55">Oops...</text></svg>

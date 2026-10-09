@@ -4,6 +4,9 @@ date: 2006-09-24
 order: 14
 original_url: 'http://www.jollyfollies.com/Diary/014_and_now_the_hard_work_begins.html'
 ---
+![New Forest ponies](/diary-media/illustrations/new-forest-ponies.jpg)
+
+*Illustration: New Forest ponies. Photo: OleNeitzel, CC BY 4.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:New_Forest_pony_%E2%80%93_mare_and_nursing_foal.jpg)*
 
 **Big and Little Ols Celebrate!**
 

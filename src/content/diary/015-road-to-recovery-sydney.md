@@ -4,6 +4,9 @@ date: 2006-10-12
 order: 15
 original_url: 'http://www.jollyfollies.com/Diary/015_road_to_recovery_sydney.html'
 ---
+![Banoffee pie](/diary-media/illustrations/banoffee-pie.jpg)
+
+*Illustration: Banoffee pie. Photo: Glen MacLarty from Sydney, Australia., CC BY 2.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Banoffeepie.jpg)*
 
 **Operation Success**
 

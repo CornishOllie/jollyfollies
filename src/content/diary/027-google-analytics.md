@@ -4,6 +4,9 @@ date: 2007-09-02
 order: 27
 original_url: 'http://www.jollyfollies.com/Diary/027_google_analytics.html'
 ---
+![about 10 visitors a day](/diary-media/illustrations/drawing-analytics.png)
+
+*Illustration: about 10 visitors a day*
 
 **Google**
 

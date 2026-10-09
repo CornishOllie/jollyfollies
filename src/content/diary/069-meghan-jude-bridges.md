@@ -32,6 +32,7 @@ Without going into too much detail (Ollie has already had privileges revoked for
 ![From The First Days of Meghan](/diary-media/first-days-of-meghan/003.jpg)
 
 *From The First Days of Meghan*
+
 ![From The First Days of Meghan](/diary-media/first-days-of-meghan/007.jpg)
 
 *From The First Days of Meghan*

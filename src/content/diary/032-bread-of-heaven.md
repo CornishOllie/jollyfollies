@@ -4,8 +4,9 @@ date: 2008-03-21
 order: 32
 original_url: 'http://www.jollyfollies.com/Diary/032_bread_of_heaven.html'
 ---
+![Cooking over a campfire](/diary-media/illustrations/campfire-cooking.jpg)
 
-
+*Illustration: Cooking over a campfire. Photo: Martijn.Munneke from Netherlands, CC BY 2.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Potjie_koken_(6558967405).jpg)*
 
 Ready Steady Cook
 

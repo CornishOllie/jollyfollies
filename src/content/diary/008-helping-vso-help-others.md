@@ -4,6 +4,7 @@ date: 2006-06-30
 order: 8
 original_url: 'http://www.jollyfollies.com/Diary/008_helping_vso_help_others.html'
 ---
+![VSO logo](/images/vso-logo.jpg)
 
 **Why have we chosen to work in partnership with VSO?**
 

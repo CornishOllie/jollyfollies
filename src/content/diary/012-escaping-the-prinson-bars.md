@@ -4,8 +4,9 @@ date: 2006-08-07
 order: 12
 original_url: 'http://www.jollyfollies.com/Diary/012_escaping_the_prinson_bars.html'
 ---
+![The Northern Lights](/diary-media/illustrations/northern-lights.jpg)
 
-
+*Illustration: The Northern Lights. Photo: Carsten, CC BY 2.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aurora_Borealis_Norway_2013.jpg)*
 
 **
 

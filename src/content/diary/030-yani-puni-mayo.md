@@ -4,6 +4,9 @@ date: 2007-11-18
 order: 30
 original_url: 'http://www.jollyfollies.com/Diary/030_yani_puni_mayo.html'
 ---
+![Я не понимаю, "I don't understand"](/diary-media/illustrations/drawing-russian.png)
+
+*Illustration: Я не понимаю, "I don't understand"*
 
 **Russian Lessons**
 

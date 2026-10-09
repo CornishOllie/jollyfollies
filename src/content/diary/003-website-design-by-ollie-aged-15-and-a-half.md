@@ -4,6 +4,9 @@ date: 2006-05-23
 order: 3
 original_url: 'http://www.jollyfollies.com/Diary/003_website_design_by_ollie_aged_15_and_a_half.html'
 ---
+![the website gets its pastel makeover](/diary-media/illustrations/drawing-website-design.png)
+
+*Illustration: the website gets its pastel makeover*
 
 **Website Design
 **

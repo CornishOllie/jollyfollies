@@ -4,6 +4,9 @@ date: 2009-03-19
 order: 40
 original_url: 'http://www.jollyfollies.com/Diary/040_Panic_Stations.html'
 ---
+![The Ha'penny Bridge, Dublin](/diary-media/illustrations/hapenny-bridge.jpg)
+
+*Illustration: The Ha'penny Bridge, Dublin. Photo: The wub, CC BY-SA 4.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ha%27penny_Bridge,_Dublin_-_2022-07-20.jpg)*
 
 Tick Tock Goes the Clock
 

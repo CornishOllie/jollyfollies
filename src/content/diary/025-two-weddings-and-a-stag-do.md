@@ -61,6 +61,10 @@ For anyone who may follow us here there is a very pleasant 7km walk, that leaves
 
 We decided that after two days it was time to get some more miles under our belt, and so found a campsite on the northern Spanish coast, on the beach. We noticed that this was a large campsite, with lots of static caravans and tour operators, so prepared ourselves for the worst. We thought that we could always use it as a stopover on the way to the Dordogne and this turned out to be the case. The [campsite](http://www.playajoyel.com/indexing.htm) was pretty much as we imagined, large and sprawling, but not too unpleasant. We spent the night there, then a very pleasant couple of hours on the beach before heading on for our favorite camping find, [Camping La Riviere Fleurie](http://perso.orange.fr/la-riviere-fleurie/index_en.html) in the Dordogne.
 
+![Campsite](/images/ourcamp.jpg)
+
+*Campsite*
+
 This campsite is set in a small hamlet by the Dordogne, and although it has plenty of facilities including a pool, feels remote and quiet. We arrived on the Friday evening, and on Saturday there was a traditional market in St Foy Le Grande where we found some lovely smelly cheese and saucisson. We also found a company doing canoe trips on the river which we signed up for, eager to become proper tourists. We camp back to head our cheese with some lovely whites and managed to get giggly drunk quite quickly. We went to bed that night still giggling, only to be woken at 4am by the biggest electrical storm either of us have witnessed, well certainly witnessed under canvass. Although not really in the game plan, it tested out our newly waterproofed tent, which didn't let a drop of the torrential rain through. Great.
 
 In the morning the thunder was still ringing all round the valley, and we decided that discretion would be the better part of valor and cancelled our canoe trip. A shame really, but this meant we could spend the rainy day on the road, heading for Normandy.

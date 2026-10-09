@@ -4,6 +4,9 @@ date: 2009-03-04
 order: 39
 original_url: 'http://www.jollyfollies.com/Diary/039_Shiezer_we_gotta_get_ready.html'
 ---
+![six weeks to go](/diary-media/illustrations/drawing-six-weeks.png)
+
+*Illustration: six weeks to go*
 
 Quick Update
 

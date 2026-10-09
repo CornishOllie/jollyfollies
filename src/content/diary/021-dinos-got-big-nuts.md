@@ -4,6 +4,9 @@ date: 2007-02-18
 order: 21
 original_url: 'http://www.jollyfollies.com/Diary/021_dinos_got_big_nuts.html'
 ---
+![DINO in the workshop, July 2008](/diary-media/lee-welding/DSC00011.jpg)
+
+*DINO in the workshop, July 2008*
 
 **Ups and Downs for Dino**
 

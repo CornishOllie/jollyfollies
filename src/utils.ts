@@ -22,7 +22,7 @@ export async function getDiaryChrono(): Promise<DiaryEntry[]> {
 export function excerpt(body: string, max = 150): string {
   const text = body
     .replace(/^\s*#+\s*(Mon|Tue|Wed|Thu|Fri|Sat|Sun)[^\n]*\n/i, '') // old dateline heading repeats the card's date and title
-    .replace(/!\[[^\]]*\]\([^)]*\)/g, '')        // images
+    .replace(/!\[[^\]]*\]\([^)]*\)\s*(\*[^*\n][^\n]*\*)?/g, ' ') // images and the caption line under them
     .replace(/\*\(photo coming soon[^)]*\)\*/g, '')
     .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1')     // links -> text
     .replace(/[#*_>`-]/g, '')                    // md punctuation

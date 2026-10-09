@@ -4,6 +4,9 @@ date: 2007-05-28
 order: 23
 original_url: 'http://www.jollyfollies.com/Diary/023_3000_thank_you.html'
 ---
+![London Marathon runners](/diary-media/illustrations/london-marathon.jpg)
+
+*Illustration: London Marathon runners. Photo: Julian Mason, CC BY 2.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2010_London_Marathon_II.jpg)*
 
 **Ollie and Di**
 

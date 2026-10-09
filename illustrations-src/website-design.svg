@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750">
+<rect width="1200" height="750" fill="#faf6ec"/><circle cx="980" cy="160" r="230" fill="#f6d79f" opacity=".55"/><circle cx="170" cy="640" r="260" fill="#e4efe7"/>
+<path d="M0 690 Q300 650 600 690 T1200 680 L1200 750 L0 750 Z" fill="#cfe3d7" opacity=".7"/><g transform="translate(250,110)"><rect width="700" height="480" rx="18" fill="#fff" stroke="#1c3a55" stroke-width="6"/>
+<path d="M0 70 L700 70" stroke="#1c3a55" stroke-width="5"/><circle cx="40" cy="35" r="11" fill="#e8896a"/><circle cx="76" cy="35" r="11" fill="#f6d79f"/><circle cx="112" cy="35" r="11" fill="#cfe3d7" stroke="#1c3a55" stroke-width="2"/>
+<rect x="150" y="18" width="510" height="34" rx="17" fill="#f3ecdd" stroke="#1c3a55" stroke-width="3"/><text x="175" y="43" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#1c3a55">www.jollyfollies.com</text>
+<rect x="30" y="95" width="300" height="90" rx="8" fill="#6b4a33"/><rect x="370" y="95" width="300" height="90" rx="8" fill="#f3b88f"/>
+<path d="M335 140 l25 0 m-10 -12 l12 12 l-12 12" stroke="#1c3a55" stroke-width="5" fill="none" stroke-linecap="round"/>
+<rect x="30" y="210" width="190" height="240" rx="8" fill="#e4efe7" stroke="#1c3a55" stroke-width="3"/>
+<g stroke="#1c3a55" stroke-width="7" stroke-linecap="round" opacity=".55"><path d="M250 230 h390 M250 265 h340 M250 300 h380 M250 335 h300"/></g>
+<g transform="translate(260,318) scale(1.15)" fill="none" stroke="#3f6b94" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+<path d="M14 96 L14 70 Q14 64 20 63 L40 60 L58 40 Q61 37 66 37 L150 37 Q156 37 158 41 L168 60 L214 64 Q224 65 224 74 L224 96"/><path d="M14 96 L224 96"/>
+<path d="M60 37 L60 27 L160 27 L160 37" stroke-width="3.0"/><path d="M72 27 L72 37 M92 27 L92 37 M112 27 L112 37 M132 27 L132 37 M152 27 L152 37" stroke-width="2.0"/>
+<path d="M66 41 L82 60 M96 38 L96 60 M118 38 L118 60"/><path d="M70 44 L82 57 L92 57 L92 44 Z M100 42 L114 42 L114 57 L100 57 Z M122 42 L150 42 L150 57 L122 57 Z" stroke-width="2.4"/>
+<path d="M62 60 L62 30 Q62 26 66 26" stroke-width="3.0"/><circle cx="58" cy="100" r="18"/><circle cx="182" cy="100" r="18"/></g>
+<g transform="translate(260,318) scale(1.15)" fill="#3f6b94"><circle cx="58" cy="100" r="5"/><circle cx="182" cy="100" r="5"/></g></g></svg>

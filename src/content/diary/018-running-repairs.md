@@ -4,6 +4,9 @@ date: 2006-11-02
 order: 18
 original_url: 'http://www.jollyfollies.com/Diary/018_running_repairs.html'
 ---
+![DINO with the roof tent up](/images/jenny-in-dino.jpg)
+
+*DINO with the roof tent up*
 
 ****
 

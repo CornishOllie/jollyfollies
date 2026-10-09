@@ -4,6 +4,9 @@ date: 2007-03-19
 order: 22
 original_url: 'http://www.jollyfollies.com/Diary/022_shire_land_rover_clubs_rocks.html'
 ---
+![A Series Land Rover off-road](/diary-media/illustrations/land-rover-mud.jpg)
+
+*Illustration: A Series Land Rover off-road. Photo: Lewis Collard, CC BY 3.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Land_Rover_(1963)_on_green_lane.jpg)*
 
 **....and mud and trees and water and grass**
 

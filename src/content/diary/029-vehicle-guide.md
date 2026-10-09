@@ -4,6 +4,9 @@ date: 2007-10-07
 order: 29
 original_url: 'http://www.jollyfollies.com/Diary/029_vehicle_guide.html'
 ---
+![The clickable guide to DINO, 2007](/diary-media/extras/vehicle-guide__clickable-guide.png)
+
+*The clickable guide to DINO, 2007*
 
 **Clickable Guide to Dino**
 

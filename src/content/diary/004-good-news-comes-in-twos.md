@@ -4,6 +4,9 @@ date: 2006-05-31
 order: 4
 original_url: 'http://www.jollyfollies.com/Diary/004_good_news_comes_in_twos.html'
 ---
+![La Manga Club golf course, Spain](/diary-media/illustrations/la-manga-golf.jpg)
+
+*Illustration: La Manga Club golf course, Spain. Photo: LMC123, CC BY-SA 4.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Camponorte.jpg)*
 
 Today was a day back at work for me, after having 5 days off to play golf at La Manga in Spain. Quite a shock to the system, but had a couple of good pieces of news to keep me going.
 

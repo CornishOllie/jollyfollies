@@ -4,6 +4,9 @@ date: 2009-03-31
 order: 41
 original_url: 'http://www.jollyfollies.com/Diary/041_Tomorrow_the_Day.html'
 ---
+![a house full of boxes](/diary-media/illustrations/drawing-boxes.png)
+
+*Illustration: a house full of boxes*
 
 Start of the Journey
 

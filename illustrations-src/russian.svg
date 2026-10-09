@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750">
+<rect width="1200" height="750" fill="#faf6ec"/><circle cx="980" cy="160" r="230" fill="#f3b88f" opacity=".55"/><circle cx="170" cy="640" r="260" fill="#cfe3d7"/>
+<path d="M0 690 Q300 650 600 690 T1200 680 L1200 750 L0 750 Z" fill="#cfe3d7" opacity=".7"/><rect x="210" y="120" width="780" height="450" rx="14" fill="#2f4a3e" stroke="#8a6a46" stroke-width="22"/>
+<text x="600" y="300" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="92" fill="#f4f1e6">Я не понимаю</text>
+<text x="600" y="400" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="46" font-style="italic" fill="#f6d79f">"Yani puni mayo"</text>
+<text x="600" y="470" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#cfd9d2">(I don't understand)</text>
+<rect x="760" y="560" width="90" height="22" rx="6" fill="#fff"/></svg>
